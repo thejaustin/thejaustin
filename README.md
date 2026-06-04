@@ -9,7 +9,7 @@
 ### 🏆 Achievements
 <div align="center">
   <a href="https://github.com/thejaustin?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=thejaustin&theme=dracula&no-bg=false&column=7&margin-w=15" alt="thejaustin trophies" />
+    <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=thejaustin&theme=dracula&no-bg=false&column=7&margin-w=15" alt="thejaustin trophies" />
   </a>
 </div>
 
@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/thejaustin?tab=overview">
+  <a href="https://github.com/thejaustin?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=thejaustin&show_icons=true&theme=tokyo_night&rank_icon=github&count_private=true" alt="thejaustin GitHub stats" />
   </a>
   <a href="https://github.com/thejaustin?tab=repositories">
@@ -51,7 +51,7 @@
 
 ### 🐍 Contribution History
 <div align="center">
-  <a href="https://github.com/thejaustin#contribution-grid-snake">
+  <a href="https://github.com/thejaustin?tab=overview">
     <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   </a>
 </div>
