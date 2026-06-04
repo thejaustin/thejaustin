@@ -1,3 +1,5 @@
+# 👋 Hi there, I'm thejaustin!
+
 <div align="center">
   <a href="https://github.com/thejaustin">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Enthusiast;AI+Collaborator" alt="Typing SVG" />
