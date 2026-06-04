@@ -49,20 +49,19 @@
 
 <hr />
 
-### 📊 Commitment Velocity
-<div align="center">
-  <a href="https://github.com/thejaustin?tab=contributions">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=tokyo-night&area=true&format=date" alt="thejaustin activity graph" width="100%" />
-  </a>
-</div>
+### 📊 Activity & Commitment
 
-<br />
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/thejaustin?tab=contributions">
-    <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" style="max-width: 100%;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=tokyo-night&area=true&format=date&hide_border=true" alt="thejaustin activity graph" width="810" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thejaustin?tab=contributions">
+    <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" width="810" />
+  </a>
+</p>
 
 <hr />
 
