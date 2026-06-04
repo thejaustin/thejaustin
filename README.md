@@ -1,27 +1,33 @@
-# 👋 Hi there, I'm Austin! Welcome to My GitHub Page!
+# 👋 Hi there, I'm thejaustin!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Enthusiast;AI+Collaborator" alt="Typing SVG" />
 </div>
 
+<hr />
+
+### 🏆 Achievements & Ranks
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thejaustin&theme=dracula&no-bg=true&margin-w=4" alt="thejaustin trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thejaustin&theme=dracula&no-bg=true&column=7&margin-w=15&rank=SSS,SS,S,AAA,AA,A" alt="thejaustin trophies" />
 </div>
 
 <hr />
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+### ⚡ Live Activity Feed
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <hr />
 
-### 📊 My GitHub Stats
+### 📈 Global Performance (2026 Edition)
+<div align="center">
+  <a href="https://api.githubcard.com/stats/thejaustin?theme=dracula">
+    <img src="https://api.githubcard.com/stats/thejaustin?theme=dracula" alt="GitHubCard Stats" />
+  </a>
+</div>
 
 <div align="center">
-  <a href="https://github.com/thejaustin?tab=repositories">
+  <a href="https://github.com/thejaustin?tab=repositories&q=&type=source&language=&sort=stargazers">
     <img src="https://github-readme-stats.vercel.app/api?username=thejaustin&show_icons=true&theme=tokyo_night&rank_icon=github&count_private=true" alt="thejaustin GitHub stats" />
   </a>
   <a href="https://github.com/thejaustin?tab=repositories">
@@ -29,27 +35,27 @@
   </a>
 </div>
 
+<hr />
+
+### 🐍 Contribution Journey
 <div align="center">
-  <a href="https://github.com/thejaustin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejaustin&theme=tokyo-night" alt="GitHub Streak" />
-  </a>
+  <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <hr />
 
-### 🚀 Top Repositories
-
+### 🚀 Major Projects & Impact
 <div align="center">
-  <a href="https://github.com/thejaustin/ShizukuPlus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ShizukuPlus&theme=tokyo_night" alt="ShizukuPlus" />
+  <a href="https://github.com/thejaustin/ShizukuPlus/releases">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ShizukuPlus&theme=tokyo_night" alt="ShizukuPlus Releases" />
   </a>
-  <a href="https://github.com/thejaustin/ObtainiumPlus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ObtainiumPlus&theme=tokyo_night" alt="ObtainiumPlus" />
+  <a href="https://github.com/thejaustin/ObtainiumPlus/releases">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ObtainiumPlus&theme=tokyo_night" alt="ObtainiumPlus Releases" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/thejaustin/ContactsPlus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ContactsPlus&theme=tokyo_night" alt="ContactsPlus" />
+  <a href="https://github.com/thejaustin/ContactsPlus/actions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ContactsPlus&theme=tokyo_night" alt="ContactsPlus Actions" />
   </a>
   <a href="https://github.com/thejaustin/hexodus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=hexodus&theme=tokyo_night" alt="hexodus" />
@@ -58,8 +64,7 @@
 
 <hr />
 
-### 📈 Activity Graph
-
+### 📊 Commit Velocity
 <div align="center">
   <a href="https://github.com/thejaustin">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=tokyo-night&area=true&format=date" alt="thejaustin activity graph" width="100%" />
@@ -70,7 +75,7 @@
 
 <div align="center">
   <a href="https://github.com/thejaustin">
-    <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" width="100%" />
+    <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" style="max-width: 100%;" />
   </a>
 </div>
 
