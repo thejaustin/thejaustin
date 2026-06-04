@@ -6,15 +6,6 @@
 
 <hr />
 
-### 🏆 Achievements
-<div align="center">
-  <a href="https://github.com/thejaustin?tab=achievements">
-    <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=thejaustin&theme=dracula&no-bg=false&column=7&margin-w=15" alt="thejaustin trophies" />
-  </a>
-</div>
-
-<hr />
-
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#251](https://github.com/thejaustin/ShizukuPlus/issues/251#issuecomment-4621113686) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
