@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thejaustin&theme=dracula&no-bg=true&margin-w=4" alt="thejaustin trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thejaustin&theme=dracula&no-bg=true&margin-w=4" alt="thejaustin trophies" style="max-width: 100%;" />
 </div>
 
 <hr />
@@ -11,12 +11,12 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejaustin&show_icons=true&theme=tokyo_night&rank_icon=github&count_private=true" alt="thejaustin GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaustin&layout=compact&theme=tokyo_night" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thejaustin&show_icons=true&theme=tokyo_night&rank_icon=github&count_private=true" alt="thejaustin GitHub stats" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaustin&layout=compact&theme=tokyo_night" alt="Top Langs" style="max-width: 100%;" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejaustin&theme=tokyo-night" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejaustin&theme=tokyo-night" alt="GitHub Streak" style="max-width: 100%;" />
 </div>
 
 <hr />
@@ -24,13 +24,13 @@
 ### 📈 Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=tokyo-night&area=true" alt="thejaustin activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=tokyo-night&area=true" alt="thejaustin activity graph" style="max-width: 100%;" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" width="100%" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" style="max-width: 100%;" />
 </div>
 
 <hr />
@@ -41,3 +41,4 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
+
