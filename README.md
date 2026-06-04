@@ -23,28 +23,21 @@
 <hr />
 
 ### 📈 Metrics & Performance
-<div align="center">
-  <a href="https://github.com/thejaustin?tab=repositories&sort=stargazers">
-    <img src="https://api.githubcard.com/stats/thejaustin?theme=dracula" alt="GitHubCard Stats" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/thejaustin?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=thejaustin&show_icons=true&theme=tokyo_night&rank_icon=github&count_private=true" alt="thejaustin GitHub stats" />
-  </a>
-  <a href="https://github.com/thejaustin?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaustin&layout=compact&theme=tokyo_night" alt="Top Langs" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=thejaustin&show_icons=true&theme=tokyo_night&rank_icon=github&count_private=true&hide_border=true" alt="thejaustin stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejaustin&theme=tokyo-night&hide_border=true" alt="thejaustin streak" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejaustin&layout=compact&theme=tokyo_night&hide_border=true" alt="Top Langs" width="810" />
+</p>
 
 <hr />
 
 ### 🐍 Contribution History
 <div align="center">
-  <a href="https://github.com/thejaustin?tab=overview">
-    <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </a>
+  <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <hr />
@@ -52,15 +45,11 @@
 ### 📊 Activity & Commitment
 
 <p align="center">
-  <a href="https://github.com/thejaustin?tab=contributions">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=tokyo-night&area=true&format=date&hide_border=true" alt="thejaustin activity graph" width="810" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=tokyo-night&area=true&format=date&hide_border=true" alt="thejaustin activity graph" width="810" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/thejaustin?tab=contributions">
-    <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" width="810" />
-  </a>
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" width="810" />
 </p>
 
 <hr />
