@@ -49,26 +49,6 @@
 
 <hr />
 
-### 🚀 Highlighted Projects
-<div align="center">
-  <a href="https://github.com/thejaustin/ShizukuPlus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ShizukuPlus&theme=tokyo_night" alt="ShizukuPlus" />
-  </a>
-  <a href="https://github.com/thejaustin/ObtainiumPlus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ObtainiumPlus&theme=tokyo_night" alt="ObtainiumPlus" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/thejaustin/ContactsPlus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ContactsPlus&theme=tokyo_night" alt="ContactsPlus" />
-  </a>
-  <a href="https://github.com/thejaustin/hexodus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=hexodus&theme=tokyo_night" alt="hexodus" />
-  </a>
-</div>
-
-<hr />
-
 ### 📊 Commitment Velocity
 <div align="center">
   <a href="https://github.com/thejaustin?tab=contributions">
