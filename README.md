@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm thejaustin!
+# 👋 Hi there, I'm Austin! Welcome to My GitHub Page!
 
 <div align="center">
   <a href="https://github.com/thejaustin">
