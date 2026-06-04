@@ -6,28 +6,30 @@
 
 <hr />
 
-### 🏆 Achievements & Ranks
+### 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thejaustin&theme=dracula&no-bg=true&column=7&margin-w=15&rank=SSS,SS,S,AAA,AA,A" alt="thejaustin trophies" />
+  <a href="https://github.com/thejaustin?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=thejaustin&theme=dracula&no-bg=false&column=7&margin-w=15" alt="thejaustin trophies" />
+  </a>
 </div>
 
 <hr />
 
-### ⚡ Live Activity Feed
+### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 <hr />
 
-### 📈 Global Performance (2026 Edition)
+### 📈 Metrics & Performance
 <div align="center">
-  <a href="https://api.githubcard.com/stats/thejaustin?theme=dracula">
+  <a href="https://github.com/thejaustin?tab=repositories&sort=stargazers">
     <img src="https://api.githubcard.com/stats/thejaustin?theme=dracula" alt="GitHubCard Stats" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/thejaustin?tab=repositories&q=&type=source&language=&sort=stargazers">
+  <a href="https://github.com/thejaustin?tab=overview">
     <img src="https://github-readme-stats.vercel.app/api?username=thejaustin&show_icons=true&theme=tokyo_night&rank_icon=github&count_private=true" alt="thejaustin GitHub stats" />
   </a>
   <a href="https://github.com/thejaustin?tab=repositories">
@@ -37,25 +39,27 @@
 
 <hr />
 
-### 🐍 Contribution Journey
+### 🐍 Contribution History
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <a href="https://github.com/thejaustin#contribution-grid-snake">
+    <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </a>
 </div>
 
 <hr />
 
-### 🚀 Major Projects & Impact
+### 🚀 Highlighted Projects
 <div align="center">
-  <a href="https://github.com/thejaustin/ShizukuPlus/releases">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ShizukuPlus&theme=tokyo_night" alt="ShizukuPlus Releases" />
+  <a href="https://github.com/thejaustin/ShizukuPlus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ShizukuPlus&theme=tokyo_night" alt="ShizukuPlus" />
   </a>
-  <a href="https://github.com/thejaustin/ObtainiumPlus/releases">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ObtainiumPlus&theme=tokyo_night" alt="ObtainiumPlus Releases" />
+  <a href="https://github.com/thejaustin/ObtainiumPlus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ObtainiumPlus&theme=tokyo_night" alt="ObtainiumPlus" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/thejaustin/ContactsPlus/actions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ContactsPlus&theme=tokyo_night" alt="ContactsPlus Actions" />
+  <a href="https://github.com/thejaustin/ContactsPlus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=ContactsPlus&theme=tokyo_night" alt="ContactsPlus" />
   </a>
   <a href="https://github.com/thejaustin/hexodus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejaustin&repo=hexodus&theme=tokyo_night" alt="hexodus" />
@@ -64,9 +68,9 @@
 
 <hr />
 
-### 📊 Commit Velocity
+### 📊 Commitment Velocity
 <div align="center">
-  <a href="https://github.com/thejaustin">
+  <a href="https://github.com/thejaustin?tab=contributions">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=tokyo-night&area=true&format=date" alt="thejaustin activity graph" width="100%" />
   </a>
 </div>
@@ -74,7 +78,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/thejaustin">
+  <a href="https://github.com/thejaustin?tab=contributions">
     <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" style="max-width: 100%;" />
   </a>
 </div>
