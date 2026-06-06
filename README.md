@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#251](https://github.com/thejaustin/ShizukuPlus/issues/251#issuecomment-4621113686) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-2. 🗣 Commented on [#250](https://github.com/thejaustin/ShizukuPlus/issues/250#issuecomment-4621111861) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. 🗣 Commented on [#249](https://github.com/thejaustin/ShizukuPlus/issues/249#issuecomment-4621109828) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-4. 🗣 Commented on [#248](https://github.com/thejaustin/ShizukuPlus/issues/248#issuecomment-4621108175) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. 🗣 Commented on [#208](https://github.com/thejaustin/ShizukuPlus/issues/208#issuecomment-4620820177) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. 🗣 Commented on [#19](https://github.com/thejaustin/ShizukuPlus/issues/19#issuecomment-4620804824) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🗣 Commented on [#237](https://github.com/thejaustin/ShizukuPlus/issues/237#issuecomment-4620731796) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🗣 Commented on [#236](https://github.com/thejaustin/ShizukuPlus/issues/236#issuecomment-4620248379) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🗣 Commented on [#215](https://github.com/thejaustin/ObtainiumPlus/issues/215#issuecomment-4620184545) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-10. 🗣 Commented on [#243](https://github.com/thejaustin/ShizukuPlus/issues/243#issuecomment-4620063994) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🔒 Closed issue [#251](https://github.com/thejaustin/ShizukuPlus/issues/251) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+2. 🗣 Commented on [#251](https://github.com/thejaustin/ShizukuPlus/issues/251#issuecomment-4638315028) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+3. 🔒 Closed issue [#249](https://github.com/thejaustin/ShizukuPlus/issues/249) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+4. 🗣 Commented on [#249](https://github.com/thejaustin/ShizukuPlus/issues/249#issuecomment-4638314843) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+5. 🔒 Closed issue [#248](https://github.com/thejaustin/ShizukuPlus/issues/248) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+6. 🗣 Commented on [#248](https://github.com/thejaustin/ShizukuPlus/issues/248#issuecomment-4638314740) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+7. 🗣 Commented on [#206](https://github.com/thejaustin/ShizukuPlus/issues/206#issuecomment-4638314337) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+8. 🗣 Commented on [#204](https://github.com/thejaustin/ShizukuPlus/issues/204#issuecomment-4638313943) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+9. 🗣 Commented on [#74](https://github.com/thejaustin/ShizukuPlus/issues/74#issuecomment-4638313564) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. 🔒 Closed issue [#250](https://github.com/thejaustin/ShizukuPlus/issues/250) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <hr />
