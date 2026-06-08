@@ -26,16 +26,16 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=thejaustin&theme=dracula&hide_border=true" alt="thejaustin streak" width="495" />
+    <td align="center" width="495">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=thejaustin&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" alt="thejaustin stats" width="100%" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejaustin&theme=dracula&hide_border=true" alt="Top Langs" width="495" />
+    <td align="center" width="495">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejaustin&theme=dracula&hide_border=true" alt="Top Langs" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=thejaustin&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" alt="thejaustin stats" width="1000" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=thejaustin&theme=dracula&show_icons=true&hide=stars,prs,issues,commits&count_private=true&hide_border=true&include_all_commits=true" alt="Total Contributions" width="1000" />
     </td>
   </tr>
 </table>
