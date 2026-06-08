@@ -26,16 +26,16 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="440">
-      <img src="https://streak-stats.demolab.com/?user=thejaustin&theme=dracula&hide_border=true" alt="thejaustin streak" width="100%" />
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=thejaustin&theme=dracula&hide_border=true" alt="thejaustin streak" width="495" />
     </td>
-    <td align="center" width="440">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejaustin&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" width="100%" />
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejaustin&theme=dracula&hide_border=true" alt="Top Langs" width="495" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=thejaustin&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" alt="thejaustin stats" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=thejaustin&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" alt="thejaustin stats" width="1000" />
     </td>
   </tr>
 </table>
@@ -44,7 +44,7 @@
 
 ### 🐍 Contribution History
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="1000" />
 </div>
 
 <hr />
@@ -52,13 +52,13 @@
 ### 📊 Activity & Commitment
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=dracula&area=true&format=date&hide_border=true" alt="thejaustin activity graph" width="810" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=dracula&area=true&format=date&hide_border=true" alt="thejaustin activity graph" width="1000" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" width="810" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" width="1000" />
 </div>
 
 <hr />
