@@ -51,16 +51,15 @@
 
 ### 📊 Activity & Commitment
 
-<table align="center">
-  <tr>
-    <td align="center" width="440">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=dracula&area=true&format=date&hide_border=true" alt="thejaustin activity graph" width="100%" />
-    </td>
-    <td align="center" width="440">
-      <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=dracula&area=true&format=date&hide_border=true" alt="thejaustin activity graph" width="810" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" width="810" />
+</div>
 
 <hr />
 
