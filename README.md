@@ -25,33 +25,29 @@
 ### 📈 Metrics & Performance
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=thejaustin&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" alt="thejaustin stats" width="1000" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=thejaustin&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" alt="thejaustin stats" />
   <br />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejaustin&theme=dracula&hide_border=true" alt="Top Langs" width="1000" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejaustin&theme=dracula&hide_border=true" alt="Top Langs" />
 </div>
 
 <hr />
 
 ### 🐍 Contribution History
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="1000" />
+  <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-<hr />
 
 ### 📊 Activity & Commitment
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=dracula&area=true&format=date&hide_border=true" alt="thejaustin activity graph" width="1000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaustin&theme=dracula&area=true&format=date&hide_border=true" alt="thejaustin activity graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" width="1000" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=thejaustin&format=svg&theme=dark&stats=true" alt="Isometric Contributions" />
 </div>
-
-<hr />
 
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
