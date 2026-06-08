@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#208](https://github.com/thejaustin/ShizukuPlus/issues/208#issuecomment-4640812167) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-2. 🔓 Reopened issue [#208](https://github.com/thejaustin/ShizukuPlus/issues/208) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. 🗣 Commented on [#237](https://github.com/thejaustin/ShizukuPlus/issues/237#issuecomment-4640809939) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-4. 🔓 Reopened issue [#237](https://github.com/thejaustin/ShizukuPlus/issues/237) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. 🗣 Commented on [#240](https://github.com/thejaustin/ShizukuPlus/issues/240#issuecomment-4640779116) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. 🔓 Reopened issue [#240](https://github.com/thejaustin/ShizukuPlus/issues/240) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🗣 Commented on [#250](https://github.com/thejaustin/ShizukuPlus/issues/250#issuecomment-4640777460) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🔓 Reopened issue [#250](https://github.com/thejaustin/ShizukuPlus/issues/250) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🗣 Commented on [#204](https://github.com/thejaustin/ShizukuPlus/issues/204#issuecomment-4640774151) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 🔓 Reopened issue [#204](https://github.com/thejaustin/ShizukuPlus/issues/204) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🗣 Commented on [#251](https://github.com/thejaustin/ShizukuPlus/issues/251#issuecomment-4621113686) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+2. 🗣 Commented on [#250](https://github.com/thejaustin/ShizukuPlus/issues/250#issuecomment-4621111861) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+3. 🗣 Commented on [#249](https://github.com/thejaustin/ShizukuPlus/issues/249#issuecomment-4621109828) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+4. 🗣 Commented on [#248](https://github.com/thejaustin/ShizukuPlus/issues/248#issuecomment-4621108175) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+5. 🗣 Commented on [#208](https://github.com/thejaustin/ShizukuPlus/issues/208#issuecomment-4620820177) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+6. 🗣 Commented on [#19](https://github.com/thejaustin/ShizukuPlus/issues/19#issuecomment-4620804824) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+7. 🗣 Commented on [#237](https://github.com/thejaustin/ShizukuPlus/issues/237#issuecomment-4620731796) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+8. 🗣 Commented on [#236](https://github.com/thejaustin/ShizukuPlus/issues/236#issuecomment-4620248379) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+9. 🗣 Commented on [#215](https://github.com/thejaustin/ObtainiumPlus/issues/215#issuecomment-4620184545) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+10. 🗣 Commented on [#243](https://github.com/thejaustin/ShizukuPlus/issues/243#issuecomment-4620063994) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <hr />
@@ -27,7 +27,7 @@
 <table align="center">
   <tr>
     <td align="center" width="440">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=thejaustin&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" alt="thejaustin stats" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=thejaustin&theme=dracula&hide_border=true" alt="thejaustin streak" width="100%" />
     </td>
     <td align="center" width="440">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejaustin&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" width="100%" />
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=thejaustin&theme=dracula&hide_border=true" alt="thejaustin streak" width="810" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=thejaustin&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" alt="thejaustin stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -44,7 +44,7 @@
 
 ### 🐍 Contribution History
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="810" />
+  <img src="https://raw.githubusercontent.com/thejaustin/thejaustin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 <hr />
