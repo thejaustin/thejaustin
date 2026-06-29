@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/thejaustin/AutoCat/pull/100) in [thejaustin/AutoCat](https://github.com/thejaustin/AutoCat)
-2. 🗣 Commented on [#280](https://github.com/thejaustin/ShizukuPlus/issues/280#issuecomment-4685176436) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. 🗣 Commented on [#208](https://github.com/thejaustin/ShizukuPlus/issues/208#issuecomment-4685176245) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-4. 🗣 Commented on [#282](https://github.com/thejaustin/ShizukuPlus/issues/282#issuecomment-4685175130) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. 🗣 Commented on [#281](https://github.com/thejaustin/ShizukuPlus/issues/281#issuecomment-4685174949) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. 🔓 Reopened issue [#282](https://github.com/thejaustin/ShizukuPlus/issues/282) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🔓 Reopened issue [#267](https://github.com/thejaustin/ShizukuPlus/issues/267) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🗣 Commented on [#263](https://github.com/thejaustin/ShizukuPlus/issues/263#issuecomment-4682173575) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🗣 Commented on [#285](https://github.com/thejaustin/ShizukuPlus/issues/285#issuecomment-4682165133) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 🗣 Commented on [#260](https://github.com/thejaustin/ShizukuPlus/issues/260#issuecomment-4678844752) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🔒 Closed issue [#33](https://github.com/thejaustin/ObtainiumPlus/issues/33) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+2. 🔒 Closed issue [#89](https://github.com/thejaustin/ObtainiumPlus/issues/89) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+3. 🔒 Closed issue [#26](https://github.com/thejaustin/ObtainiumPlus/issues/26) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+4. 🔒 Closed issue [#132](https://github.com/thejaustin/ObtainiumPlus/issues/132) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+5. 🔒 Closed issue [#179](https://github.com/thejaustin/ObtainiumPlus/issues/179) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+6. 🔒 Closed issue [#193](https://github.com/thejaustin/ObtainiumPlus/issues/193) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+7. 🔒 Closed issue [#214](https://github.com/thejaustin/ObtainiumPlus/issues/214) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+8. 🔒 Closed issue [#216](https://github.com/thejaustin/ObtainiumPlus/issues/216) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+9. 🔒 Closed issue [#36](https://github.com/thejaustin/ObtainiumPlus/issues/36) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+10. 💪 Opened PR [#100](https://github.com/thejaustin/AutoCat/pull/100) in [thejaustin/AutoCat](https://github.com/thejaustin/AutoCat)
 <!--END_SECTION:activity-->
 
 <hr />
