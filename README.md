@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#321](https://github.com/thejaustin/ShizukuPlus/issues/321) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🔒 Closed issue [#321](https://github.com/thejaustin/ShizukuPlus/issues/321) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 2. ℹ️ Labeled issue [#321](https://github.com/thejaustin/ShizukuPlus/issues/321) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. ❗ Opened issue [#321](https://github.com/thejaustin/ShizukuPlus/issues/321) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-4. 🗣 Commented on [#317](https://github.com/thejaustin/ShizukuPlus/issues/317#issuecomment-4886583769) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. 🗣 Commented on [#298](https://github.com/thejaustin/ShizukuPlus/issues/298#issuecomment-4886583718) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. 🗣 Commented on [#316](https://github.com/thejaustin/ShizukuPlus/issues/316#issuecomment-4886583655) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. ℹ️ Labeled issue [#319](https://github.com/thejaustin/ShizukuPlus/issues/319) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+3. ℹ️ Labeled issue [#321](https://github.com/thejaustin/ShizukuPlus/issues/321) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+4. ❗ Opened issue [#321](https://github.com/thejaustin/ShizukuPlus/issues/321) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+5. 🗣 Commented on [#317](https://github.com/thejaustin/ShizukuPlus/issues/317#issuecomment-4886583769) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+6. 🗣 Commented on [#298](https://github.com/thejaustin/ShizukuPlus/issues/298#issuecomment-4886583718) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+7. 🗣 Commented on [#316](https://github.com/thejaustin/ShizukuPlus/issues/316#issuecomment-4886583655) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 8. ℹ️ Labeled issue [#319](https://github.com/thejaustin/ShizukuPlus/issues/319) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. ❗ Opened issue [#319](https://github.com/thejaustin/ShizukuPlus/issues/319) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. ℹ️ Labeled issue [#318](https://github.com/thejaustin/ShizukuPlus/issues/318) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+9. ℹ️ Labeled issue [#319](https://github.com/thejaustin/ShizukuPlus/issues/319) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. ❗ Opened issue [#319](https://github.com/thejaustin/ShizukuPlus/issues/319) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <hr />
