@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#333](https://github.com/thejaustin/ShizukuPlus/issues/333) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-2. ℹ️ Labeled issue [#333](https://github.com/thejaustin/ShizukuPlus/issues/333) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. ℹ️ Labeled issue [#333](https://github.com/thejaustin/ShizukuPlus/issues/333) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-4. ❗ Opened issue [#333](https://github.com/thejaustin/ShizukuPlus/issues/333) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. 🔒 Closed issue [#326](https://github.com/thejaustin/ShizukuPlus/issues/326) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. 🗣 Commented on [#326](https://github.com/thejaustin/ShizukuPlus/issues/326#issuecomment-4953110645) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🔒 Closed issue [#327](https://github.com/thejaustin/ShizukuPlus/issues/327) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🗣 Commented on [#327](https://github.com/thejaustin/ShizukuPlus/issues/327#issuecomment-4953109532) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🔒 Closed issue [#314](https://github.com/thejaustin/ShizukuPlus/issues/314) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 🗣 Commented on [#314](https://github.com/thejaustin/ShizukuPlus/issues/314#issuecomment-4953109121) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🔓 Reopened issue [#27](https://github.com/thejaustin/AutoCat/issues/27) in [thejaustin/AutoCat](https://github.com/thejaustin/AutoCat)
+2. 🔓 Reopened issue [#17](https://github.com/thejaustin/AutoCat/issues/17) in [thejaustin/AutoCat](https://github.com/thejaustin/AutoCat)
+3. 🔓 Reopened issue [#13](https://github.com/thejaustin/AutoCat/issues/13) in [thejaustin/AutoCat](https://github.com/thejaustin/AutoCat)
+4. 🔓 Reopened issue [#22](https://github.com/thejaustin/AutoCat/issues/22) in [thejaustin/AutoCat](https://github.com/thejaustin/AutoCat)
+5. 🔓 Reopened issue [#12](https://github.com/thejaustin/AutoCat/issues/12) in [thejaustin/AutoCat](https://github.com/thejaustin/AutoCat)
+6. 🔓 Reopened issue [#26](https://github.com/thejaustin/AutoCat/issues/26) in [thejaustin/AutoCat](https://github.com/thejaustin/AutoCat)
+7. 🔓 Reopened issue [#25](https://github.com/thejaustin/AutoCat/issues/25) in [thejaustin/AutoCat](https://github.com/thejaustin/AutoCat)
+8. 🔓 Reopened issue [#24](https://github.com/thejaustin/AutoCat/issues/24) in [thejaustin/AutoCat](https://github.com/thejaustin/AutoCat)
+9. 🗣 Commented on [#316](https://github.com/thejaustin/ShizukuPlus/issues/316#issuecomment-4965213596) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. 🗣 Commented on [#275](https://github.com/thejaustin/ShizukuPlus/issues/275#issuecomment-4965171511) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <hr />
