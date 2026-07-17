@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/thejaustin/sharemove/pull/3) in [thejaustin/sharemove](https://github.com/thejaustin/sharemove)
-2. 💪 Opened PR [#3](https://github.com/thejaustin/sharemove/pull/3) in [thejaustin/sharemove](https://github.com/thejaustin/sharemove)
-3. 🎉 Merged PR [#2](https://github.com/thejaustin/sharemove/pull/2) in [thejaustin/sharemove](https://github.com/thejaustin/sharemove)
-4. 💪 Opened PR [#2](https://github.com/thejaustin/sharemove/pull/2) in [thejaustin/sharemove](https://github.com/thejaustin/sharemove)
-5. 🗣 Commented on [#325](https://github.com/thejaustin/ShizukuPlus/issues/325#issuecomment-4993754736) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. 🗣 Commented on [#272](https://github.com/thejaustin/ShizukuPlus/issues/272#issuecomment-4991057381) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🗣 Commented on [#306](https://github.com/thejaustin/ShizukuPlus/issues/306#issuecomment-4991055421) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🗣 Commented on [#275](https://github.com/thejaustin/ShizukuPlus/issues/275#issuecomment-4991053382) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🗣 Commented on [#314](https://github.com/thejaustin/ShizukuPlus/issues/314#issuecomment-4991051464) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 🗣 Commented on [#322](https://github.com/thejaustin/ShizukuPlus/issues/322#issuecomment-4991049500) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. ℹ️ Labeled issue [#340](https://github.com/thejaustin/ShizukuPlus/issues/340) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+2. ℹ️ Labeled issue [#340](https://github.com/thejaustin/ShizukuPlus/issues/340) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+3. ❗ Opened issue [#340](https://github.com/thejaustin/ShizukuPlus/issues/340) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+4. ℹ️ Labeled issue [#339](https://github.com/thejaustin/ShizukuPlus/issues/339) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+5. ℹ️ Labeled issue [#339](https://github.com/thejaustin/ShizukuPlus/issues/339) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+6. ℹ️ Labeled issue [#339](https://github.com/thejaustin/ShizukuPlus/issues/339) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+7. ❗ Opened issue [#339](https://github.com/thejaustin/ShizukuPlus/issues/339) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+8. 🎉 Merged PR [#3](https://github.com/thejaustin/sharemove/pull/3) in [thejaustin/sharemove](https://github.com/thejaustin/sharemove)
+9. 💪 Opened PR [#3](https://github.com/thejaustin/sharemove/pull/3) in [thejaustin/sharemove](https://github.com/thejaustin/sharemove)
+10. 🎉 Merged PR [#2](https://github.com/thejaustin/sharemove/pull/2) in [thejaustin/sharemove](https://github.com/thejaustin/sharemove)
 <!--END_SECTION:activity-->
 
 <hr />
