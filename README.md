@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/thejaustin/pearity/pull/4) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
-2. 💪 Opened PR [#4](https://github.com/thejaustin/pearity/pull/4) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
-3. 🎉 Merged PR [#3](https://github.com/thejaustin/pearity/pull/3) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
-4. 💪 Opened PR [#3](https://github.com/thejaustin/pearity/pull/3) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
-5. 🎉 Merged PR [#2](https://github.com/thejaustin/pearity/pull/2) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
-6. 💪 Opened PR [#2](https://github.com/thejaustin/pearity/pull/2) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
-7. 🎉 Merged PR [#1](https://github.com/thejaustin/pearity/pull/1) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
-8. 🗣 Commented on [#348](https://github.com/thejaustin/ShizukuPlus/issues/348#issuecomment-5065920563) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🗣 Commented on [#278](https://github.com/thejaustin/ShizukuPlus/issues/278#issuecomment-5065920165) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 💪 Opened PR [#1](https://github.com/thejaustin/pearity/pull/1) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
+1. 💪 Opened PR [#5](https://github.com/thejaustin/pearity/pull/5) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
+2. 🎉 Merged PR [#4](https://github.com/thejaustin/pearity/pull/4) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
+3. 💪 Opened PR [#4](https://github.com/thejaustin/pearity/pull/4) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
+4. 🎉 Merged PR [#3](https://github.com/thejaustin/pearity/pull/3) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
+5. 💪 Opened PR [#3](https://github.com/thejaustin/pearity/pull/3) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
+6. 🎉 Merged PR [#2](https://github.com/thejaustin/pearity/pull/2) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
+7. 💪 Opened PR [#2](https://github.com/thejaustin/pearity/pull/2) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
+8. 🎉 Merged PR [#1](https://github.com/thejaustin/pearity/pull/1) in [thejaustin/pearity](https://github.com/thejaustin/pearity)
+9. 🗣 Commented on [#348](https://github.com/thejaustin/ShizukuPlus/issues/348#issuecomment-5065920563) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. 🗣 Commented on [#278](https://github.com/thejaustin/ShizukuPlus/issues/278#issuecomment-5065920165) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <hr />
