@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#371](https://github.com/thejaustin/ShizukuPlus/issues/371#issuecomment-5200657327) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-2. 🗣 Commented on [#371](https://github.com/thejaustin/ShizukuPlus/issues/371#issuecomment-5200369150) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. 🗣 Commented on [#16](https://github.com/thejaustin/hexodus/issues/16#issuecomment-5199129625) in [thejaustin/hexodus](https://github.com/thejaustin/hexodus)
-4. 🔒 Closed issue [#16](https://github.com/thejaustin/hexodus/issues/16) in [thejaustin/hexodus](https://github.com/thejaustin/hexodus)
-5. 🗣 Commented on [#38](https://github.com/thejaustin/hexodus/issues/38#issuecomment-5199127301) in [thejaustin/hexodus](https://github.com/thejaustin/hexodus)
-6. 🔒 Closed issue [#38](https://github.com/thejaustin/hexodus/issues/38) in [thejaustin/hexodus](https://github.com/thejaustin/hexodus)
-7. 🗣 Commented on [#33](https://github.com/thejaustin/hexodus/issues/33#issuecomment-5199127040) in [thejaustin/hexodus](https://github.com/thejaustin/hexodus)
-8. 🔒 Closed issue [#33](https://github.com/thejaustin/hexodus/issues/33) in [thejaustin/hexodus](https://github.com/thejaustin/hexodus)
-9. 🔒 Closed issue [#231](https://github.com/thejaustin/ObtainiumPlus/issues/231) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-10. 🗣 Commented on [#377](https://github.com/thejaustin/ShizukuPlus/issues/377#issuecomment-5187699658) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🚀 Published release [SimWeather 3000 v1.5.0 - City Economy & Ordinances Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.5.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+2. 🚀 Published release [SimWeather 3000 v1.4.0 - The Ultracode Mayor Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.4.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+3. 🚀 Published release [SimWeather 3000 v1.3.0 - Gameplay Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+4. 🚀 Published release [SimWeather 3000 v1.2.0 - City Life Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.2.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+5. 🚀 Published release [SimWeather 3000 v1.1.0 - Mayor Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.1.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+6. 🚀 Published release [SimWeather 3000 v1.0.0 - Initial Release](https://github.com/thejaustin/SimWeather/releases/tag/v1.0.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+7. 🚀 Published release [SimWeather 3000 v1.6.0 - Modern Weather Data Suite & Free API Access](https://github.com/thejaustin/SimWeather/releases/tag/v1.6.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+8. 🔒 Closed issue [#378](https://github.com/thejaustin/ShizukuPlus/issues/378) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+9. 🗣 Commented on [#378](https://github.com/thejaustin/ShizukuPlus/issues/378#issuecomment-5214511657) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. 🔒 Closed issue [#376](https://github.com/thejaustin/ShizukuPlus/issues/376) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <hr />
