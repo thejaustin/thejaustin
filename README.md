@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [SimWeather 3000 v1.7.0 - Performance & Quality Release](https://github.com/thejaustin/SimWeather/releases/tag/v1.7.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-2. 🚀 Published release [SimWeather 3000 v1.6.0 - Modern Weather Data Suite & Free API Access](https://github.com/thejaustin/SimWeather/releases/tag/v1.6.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-3. 🚀 Published release [SimWeather 3000 v1.5.0 - City Economy & Ordinances Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.5.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-4. 🚀 Published release [SimWeather 3000 v1.4.0 - The Ultracode Mayor Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.4.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-5. 🚀 Published release [SimWeather 3000 v1.3.4 - String Cleanup](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.4) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-6. 🚀 Published release [SimWeather 3000 v1.3.7 - Layout Headers Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.7) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-7. 🚀 Published release [SimWeather 3000 v1.3.6 - Daily Forecast Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.6) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-8. 🚀 Published release [SimWeather 3000 v1.3.5 - Pollen Layout Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.5) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-9. 🚀 Published release [SimWeather 3000 v1.3.3 - String Resources Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.3) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-10. 🚀 Published release [SimWeather 3000 v1.3.2 - Docs Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.2) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+1. 🚀 Published release [SimWeather 3000 v1.9.0 - Real Geocoding, Texture Upgrades & Unit Conversion Verification](https://github.com/thejaustin/SimWeather/releases/tag/v1.9.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+2. 🗣 Commented on [#280](https://github.com/thejaustin/ShizukuPlus/issues/280#issuecomment-5217774752) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+3. 🔒 Closed issue [#280](https://github.com/thejaustin/ShizukuPlus/issues/280) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+4. 🗣 Commented on [#397](https://github.com/thejaustin/ShizukuPlus/issues/397#issuecomment-5217767222) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+5. 🗣 Commented on [#395](https://github.com/thejaustin/ShizukuPlus/issues/395#issuecomment-5217546089) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+6. 🔒 Closed issue [#395](https://github.com/thejaustin/ShizukuPlus/issues/395) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+7. 🗣 Commented on [#290](https://github.com/thejaustin/ShizukuPlus/issues/290#issuecomment-5217545193) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+8. 🔒 Closed issue [#290](https://github.com/thejaustin/ShizukuPlus/issues/290) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+9. 🗣 Commented on [#377](https://github.com/thejaustin/ShizukuPlus/issues/377#issuecomment-5217539065) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. 🔒 Closed issue [#303](https://github.com/thejaustin/ShizukuPlus/issues/303) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <hr />
