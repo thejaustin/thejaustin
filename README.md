@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [SimWeather 3000 v1.6.0 - Modern Weather Data Suite & Free API Access](https://github.com/thejaustin/SimWeather/releases/tag/v1.6.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-2. 🚀 Published release [SimWeather 3000 v1.5.0 - City Economy & Ordinances Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.5.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-3. 🚀 Published release [SimWeather 3000 v1.4.0 - The Ultracode Mayor Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.4.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-4. 🚀 Published release [SimWeather 3000 v1.3.4 - String Cleanup](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.4) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-5. 🚀 Published release [SimWeather 3000 v1.3.7 - Layout Headers Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.7) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-6. 🚀 Published release [SimWeather 3000 v1.3.6 - Daily Forecast Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.6) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-7. 🚀 Published release [SimWeather 3000 v1.3.5 - Pollen Layout Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.5) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-8. 🚀 Published release [SimWeather 3000 v1.3.3 - String Resources Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.3) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-9. 🚀 Published release [SimWeather 3000 v1.3.2 - Docs Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.2) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-10. 🚀 Published release [SimWeather 3000 v1.3.1 - CI Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.1) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+1. 🚀 Published release [SimWeather 3000 v1.7.0 - Performance & Quality Release](https://github.com/thejaustin/SimWeather/releases/tag/v1.7.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+2. 🚀 Published release [SimWeather 3000 v1.6.0 - Modern Weather Data Suite & Free API Access](https://github.com/thejaustin/SimWeather/releases/tag/v1.6.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+3. 🚀 Published release [SimWeather 3000 v1.5.0 - City Economy & Ordinances Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.5.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+4. 🚀 Published release [SimWeather 3000 v1.4.0 - The Ultracode Mayor Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.4.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+5. 🚀 Published release [SimWeather 3000 v1.3.4 - String Cleanup](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.4) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+6. 🚀 Published release [SimWeather 3000 v1.3.7 - Layout Headers Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.7) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+7. 🚀 Published release [SimWeather 3000 v1.3.6 - Daily Forecast Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.6) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+8. 🚀 Published release [SimWeather 3000 v1.3.5 - Pollen Layout Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.5) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+9. 🚀 Published release [SimWeather 3000 v1.3.3 - String Resources Fix](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.3) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+10. 🚀 Published release [SimWeather 3000 v1.3.2 - Docs Update](https://github.com/thejaustin/SimWeather/releases/tag/v1.3.2) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
 <!--END_SECTION:activity-->
 
 <hr />
