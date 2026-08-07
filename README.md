@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [SimWeather 3000 v1.9.0 - Real Geocoding, Texture Upgrades & Unit Conversion Verification](https://github.com/thejaustin/SimWeather/releases/tag/v1.9.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-2. 🗣 Commented on [#280](https://github.com/thejaustin/ShizukuPlus/issues/280#issuecomment-5217774752) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. 🔒 Closed issue [#280](https://github.com/thejaustin/ShizukuPlus/issues/280) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-4. 🗣 Commented on [#397](https://github.com/thejaustin/ShizukuPlus/issues/397#issuecomment-5217767222) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. 🗣 Commented on [#395](https://github.com/thejaustin/ShizukuPlus/issues/395#issuecomment-5217546089) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. 🔒 Closed issue [#395](https://github.com/thejaustin/ShizukuPlus/issues/395) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🗣 Commented on [#290](https://github.com/thejaustin/ShizukuPlus/issues/290#issuecomment-5217545193) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🔒 Closed issue [#290](https://github.com/thejaustin/ShizukuPlus/issues/290) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🗣 Commented on [#377](https://github.com/thejaustin/ShizukuPlus/issues/377#issuecomment-5217539065) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 🔒 Closed issue [#303](https://github.com/thejaustin/ShizukuPlus/issues/303) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🗣 Commented on [#371](https://github.com/thejaustin/ShizukuPlus/issues/371#issuecomment-5221705276) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+2. 🗣 Commented on [#371](https://github.com/thejaustin/ShizukuPlus/issues/371#issuecomment-5221695584) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+3. 🗣 Commented on [#371](https://github.com/thejaustin/ShizukuPlus/issues/371#issuecomment-5221620379) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+4. 🚀 Published release [SimWeather 3000 v1.9.0 - Real Geocoding, Texture Upgrades & Unit Conversion Verification](https://github.com/thejaustin/SimWeather/releases/tag/v1.9.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+5. 🗣 Commented on [#280](https://github.com/thejaustin/ShizukuPlus/issues/280#issuecomment-5217774752) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+6. 🔒 Closed issue [#280](https://github.com/thejaustin/ShizukuPlus/issues/280) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+7. 🗣 Commented on [#397](https://github.com/thejaustin/ShizukuPlus/issues/397#issuecomment-5217767222) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+8. 🗣 Commented on [#395](https://github.com/thejaustin/ShizukuPlus/issues/395#issuecomment-5217546089) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+9. 🔒 Closed issue [#395](https://github.com/thejaustin/ShizukuPlus/issues/395) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. 🗣 Commented on [#290](https://github.com/thejaustin/ShizukuPlus/issues/290#issuecomment-5217545193) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <hr />
