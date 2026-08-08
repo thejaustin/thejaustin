@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [SimWeather 3000 v2.1.0 - Component Texture Polish & Autonomous debroid Debugger Integration](https://github.com/thejaustin/SimWeather/releases/tag/v2.1.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-2. 🚀 Published release [SimWeather 3000 v2.0.0 - High-Definition Vector Background Textures & Visual Overhaul](https://github.com/thejaustin/SimWeather/releases/tag/v2.0.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-3. 🗣 Commented on [#398](https://github.com/thejaustin/ShizukuPlus/issues/398#issuecomment-5223808435) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-4. 🔓 Reopened issue [#398](https://github.com/thejaustin/ShizukuPlus/issues/398) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. 🗣 Commented on [#392](https://github.com/thejaustin/ShizukuPlus/issues/392#issuecomment-5223063646) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. 🗣 Commented on [#379](https://github.com/thejaustin/ShizukuPlus/issues/379#issuecomment-5223061818) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🗣 Commented on [#393](https://github.com/thejaustin/ShizukuPlus/issues/393#issuecomment-5223059774) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🗣 Commented on [#371](https://github.com/thejaustin/ShizukuPlus/issues/371#issuecomment-5223057612) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🗣 Commented on [#317](https://github.com/thejaustin/ShizukuPlus/issues/317#issuecomment-5222369883) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 🗣 Commented on [#382](https://github.com/thejaustin/ShizukuPlus/issues/382#issuecomment-5222358455) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🚀 Published release [SimWeather 3000 v2.2.0 - Offline Mode Resilience & Procedural Atmospheric Simulator Engine](https://github.com/thejaustin/SimWeather/releases/tag/v2.2.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+2. 🚀 Published release [SimWeather 3000 v2.1.0 - Component Texture Polish & Autonomous debroid Debugger Integration](https://github.com/thejaustin/SimWeather/releases/tag/v2.1.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+3. 🚀 Published release [SimWeather 3000 v2.0.0 - High-Definition Vector Background Textures & Visual Overhaul](https://github.com/thejaustin/SimWeather/releases/tag/v2.0.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+4. 🗣 Commented on [#398](https://github.com/thejaustin/ShizukuPlus/issues/398#issuecomment-5223808435) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+5. 🔓 Reopened issue [#398](https://github.com/thejaustin/ShizukuPlus/issues/398) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+6. 🗣 Commented on [#392](https://github.com/thejaustin/ShizukuPlus/issues/392#issuecomment-5223063646) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+7. 🗣 Commented on [#379](https://github.com/thejaustin/ShizukuPlus/issues/379#issuecomment-5223061818) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+8. 🗣 Commented on [#393](https://github.com/thejaustin/ShizukuPlus/issues/393#issuecomment-5223059774) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+9. 🗣 Commented on [#371](https://github.com/thejaustin/ShizukuPlus/issues/371#issuecomment-5223057612) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. 🗣 Commented on [#317](https://github.com/thejaustin/ShizukuPlus/issues/317#issuecomment-5222369883) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <hr />
