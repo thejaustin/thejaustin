@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [SimWeather 3000 v2.3.5 - Interactive RCI Demand Gauge & Layout String Refactoring](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.5) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-2. 🚀 Published release [SimWeather 3000 v2.3.4 - Lifecycle Memory Leak Prevention & Canvas Loop Optimization](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.4) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-3. 🔒 Closed issue [#179](https://github.com/thejaustin/ObtainiumPlus/issues/179) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-4. 🗣 Commented on [#179](https://github.com/thejaustin/ObtainiumPlus/issues/179#issuecomment-5225461987) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-5. 🚀 Published release [SimWeather 3000 v2.3.3 - Subagent Audit Optimizations & Weather Precision Fixes](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.3) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-6. 🚀 Published release [SimWeather 3000 v2.3.2 - Dialog Vector Textures & Bevel Styling Polish](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.2) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-7. 🚀 Published release [SimWeather 3000 v2.3.1 - Civic Weather Analytics & Comfort Index Engine](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.1) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-8. 🚀 Published release [SimWeather 3000 v2.3.0 - Emergency Alert Card Textures & Weather UI Refinements](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-9. 🚀 Published release [SimWeather 3000 v2.2.0 - Offline Mode Resilience & Procedural Atmospheric Simulator Engine](https://github.com/thejaustin/SimWeather/releases/tag/v2.2.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
-10. 🚀 Published release [SimWeather 3000 v2.1.0 - Component Texture Polish & Autonomous debroid Debugger Integration](https://github.com/thejaustin/SimWeather/releases/tag/v2.1.0) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+1. 🚀 Published release [SimWeather 3000 v2.3.9 - Real-Time Visual Condition Effect Matching & Moon Phase Emojis](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.9) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+2. 🚀 Published release [SimWeather 3000 v2.3.8 - Barometric Pressure Trend Tracker & Dew Point Comfort Analytics](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.8) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+3. 🚀 Published release [SimWeather 3000 v2.3.7 - Color-Coded EPA Air Quality Badge & Layout Insets](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.7) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+4. 🚀 Published release [SimWeather 3000 v2.3.6 - Visual Condition Icon Badge & Animated Display](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.6) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+5. 🚀 Published release [SimWeather 3000 v2.3.5 - Interactive RCI Demand Gauge & Layout String Refactoring](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.5) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+6. 🚀 Published release [SimWeather 3000 v2.3.4 - Lifecycle Memory Leak Prevention & Canvas Loop Optimization](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.4) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+7. 🔒 Closed issue [#179](https://github.com/thejaustin/ObtainiumPlus/issues/179) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+8. 🗣 Commented on [#179](https://github.com/thejaustin/ObtainiumPlus/issues/179#issuecomment-5225461987) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+9. 🚀 Published release [SimWeather 3000 v2.3.3 - Subagent Audit Optimizations & Weather Precision Fixes](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.3) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
+10. 🚀 Published release [SimWeather 3000 v2.3.2 - Dialog Vector Textures & Bevel Styling Polish](https://github.com/thejaustin/SimWeather/releases/tag/v2.3.2) in [thejaustin/SimWeather](https://github.com/thejaustin/SimWeather)
 <!--END_SECTION:activity-->
 
 <hr />
