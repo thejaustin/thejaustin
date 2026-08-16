@@ -8,16 +8,16 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#419](https://github.com/thejaustin/ShizukuPlus/issues/419) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-2. 🗣 Commented on [#419](https://github.com/thejaustin/ShizukuPlus/issues/419#issuecomment-5307898924) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. ℹ️ Labeled issue [#419](https://github.com/thejaustin/ShizukuPlus/issues/419) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-4. ℹ️ Labeled issue [#419](https://github.com/thejaustin/ShizukuPlus/issues/419) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. ❗ Opened issue [#419](https://github.com/thejaustin/ShizukuPlus/issues/419) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. ℹ️ Labeled issue [#417](https://github.com/thejaustin/ShizukuPlus/issues/417) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. ℹ️ Labeled issue [#417](https://github.com/thejaustin/ShizukuPlus/issues/417) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. ❗ Opened issue [#417](https://github.com/thejaustin/ShizukuPlus/issues/417) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. ℹ️ Labeled issue [#416](https://github.com/thejaustin/ShizukuPlus/issues/416) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. ℹ️ Labeled issue [#416](https://github.com/thejaustin/ShizukuPlus/issues/416) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🗣 Commented on [#290](https://github.com/thejaustin/ObtainiumPlus/issues/290#issuecomment-5309054145) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+2. 🔒 Closed issue [#290](https://github.com/thejaustin/ObtainiumPlus/issues/290) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+3. 🗣 Commented on [#289](https://github.com/thejaustin/ObtainiumPlus/issues/289#issuecomment-5309053370) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+4. 🔒 Closed issue [#289](https://github.com/thejaustin/ObtainiumPlus/issues/289) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+5. 🗣 Commented on [#288](https://github.com/thejaustin/ObtainiumPlus/issues/288#issuecomment-5309052584) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+6. 🔒 Closed issue [#288](https://github.com/thejaustin/ObtainiumPlus/issues/288) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+7. 🗣 Commented on [#287](https://github.com/thejaustin/ObtainiumPlus/issues/287#issuecomment-5309051828) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+8. 🔒 Closed issue [#287](https://github.com/thejaustin/ObtainiumPlus/issues/287) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+9. 🗣 Commented on [#286](https://github.com/thejaustin/ObtainiumPlus/issues/286#issuecomment-5309051089) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+10. 🔒 Closed issue [#286](https://github.com/thejaustin/ObtainiumPlus/issues/286) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
 <!--END_SECTION:activity-->
 
 <hr />
