@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Austin+%F0%9F%91%8B;Android+Engineer+%26+OSS+Builder;AI-augmented+development+nerd;Building+tools+that+punch+above+their+weight" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Austin;Android+Engineer+%26+OSS+Builder;AI-augmented+development+nerd;Building+tools+that+punch+above+their+weight" alt="Typing SVG" />
 
 <br/>
 
@@ -19,7 +19,6 @@ I'm an Android engineer focused on **system-level tooling**, **OSS forks**, and 
 - 🔧 Deep in **Kotlin + Jetpack Compose** daily
 - 🤖 Heavy AI-pair-programming advocate (Claude, Antigravity, Codex)
 - 📱 Obsessed with Samsung One UI internals & Android power-user tooling
-- 🎵 Recovering music obsessive
 
 ---
 
