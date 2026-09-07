@@ -29,7 +29,7 @@ I'm an Android engineer focused on **system-level tooling**, **OSS forks**, and 
 <td width="50%">
 
 ### ⚡ [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-**883 ★** · Kotlin
+**919 ★** · Kotlin
 
 Enhanced fork of Shizuku — unifies Root/ADB/Dhizuku backends, adds a Plus API suite, and fixes OneUI/Android 16+ compatibility while staying fully drop-in compatible with existing Shizuku apps.
 
@@ -51,7 +51,7 @@ Next-gen Android theming engine for Samsung One UI 8 (Android 16+). Spiritual su
 <td width="50%">
 
 ### 📦 [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-**106 ★** · Dart / Flutter
+**108 ★** · Dart / Flutter
 
 AI-assisted fork of Obtainium with extra features for managing Android app updates directly from source.
 
@@ -60,16 +60,26 @@ AI-assisted fork of Obtainium with extra features for managing Android app updat
 </td>
 <td width="50%">
 
-### 🐛 [Debroid](https://github.com/thejaustin/debroid)
-· Kotlin
+### 🔌 [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API)
+**62 ★** · Java
 
-Headless Android debugger for AI agents. Speaks JDWP so Claude, Codex, Antigravity and friends can set breakpoints, inspect memory, and step through code — no GUI, pure JSON.
+Official public API library and client bindings for integrating with ShizukuPlus.
 
-`ai-tooling` `jdwp` `debugging` `android`
+`android` `shizuku` `java` `api`
 
 </td>
 </tr>
 <tr>
+<td width="50%">
+
+### 🤖 [termux-ai-app](https://github.com/thejaustin/termux-ai-app)
+**55 ★** · Java
+
+Termux AI Terminal App with Claude Code integration — Android terminal features enhanced with AI workflows.
+
+`android` `termux` `ai` `claude`
+
+</td>
 <td width="50%">
 
 ### ✂️ [ShaRemove](https://github.com/thejaustin/sharemove)
@@ -78,16 +88,6 @@ Headless Android debugger for AI agents. Speaks JDWP so Claude, Codex, Antigravi
 Hide apps from Android's intent chooser sheet (share sheet, "Open with", APK installer). Shizuku or root. No ads, no analytics.
 
 `shizuku` `android` `intent` `privacy`
-
-</td>
-<td width="50%">
-
-### 🌌 [Project M.Y.T.H.A.R.A](https://github.com/thejaustin/project_mythara)
-· Concept
-
-Open-source, local-first agentic AI OS layer for Android. Private-by-construction alternative to Android 17's cloud-Gemini posture — BYO model.
-
-`ai` `on-device` `agentic` `android`
 
 </td>
 </tr>
@@ -99,10 +99,9 @@ Open-source, local-first agentic AI OS layer for Android. Private-by-constructio
 
 | Project | Description | Stars | Lang |
 |---|---|---|---|
-| [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | Public API library for ShizukuPlus | ⭐ 59 | Java |
 | [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork — M3 Expressive + social shortcuts | ⭐ 8 | Kotlin |
 | [Pearity](https://github.com/thejaustin/pearity) | iOS parity settings for Samsung One UI, three-state toggles | ⭐ 8 | Kotlin |
-| [smartlauncher-morphe-patches](https://github.com/thejaustin/smartlauncher-morphe-patches) | Smart Launcher 6 Morphe patch suite for Galaxy S22 Ultra | ⭐ 5 | — |
+| [smartlauncher-morphe-patches](https://github.com/thejaustin/smartlauncher-morphe-patches) | Smart Launcher 6 Morphe patch suite for Galaxy S22 Ultra | ⭐ 8 | — |
 | [AutoCat](https://github.com/thejaustin/AutoCat) | AI-powered app categorization launcher (Lawnchair fork) | ⭐ 5 | Java |
 | [afdroid](https://github.com/thejaustin/afdroid) | Material 3 Expressive F-Droid client | ⭐ 4 | Kotlin |
 | [maps-timeline-viewer](https://github.com/thejaustin/maps-timeline-viewer) | Flutter app for Google Maps Timeline data (Material 3) | ⭐ 4 | Dart |
