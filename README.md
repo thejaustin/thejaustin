@@ -156,16 +156,16 @@ Hide apps from Android's intent chooser sheet (share sheet, "Open with", APK ins
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#314](https://github.com/thejaustin/ObtainiumPlus/pull/314) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-2. 🎉 Merged PR [#313](https://github.com/thejaustin/ObtainiumPlus/pull/313) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-3. 💪 Opened PR [#313](https://github.com/thejaustin/ObtainiumPlus/pull/313) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-4. 🎉 Merged PR [#312](https://github.com/thejaustin/ObtainiumPlus/pull/312) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-5. 💪 Opened PR [#312](https://github.com/thejaustin/ObtainiumPlus/pull/312) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-6. 🔒 Closed issue [#317](https://github.com/thejaustin/ShizukuPlus/issues/317) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🗣 Commented on [#495](https://github.com/thejaustin/ShizukuPlus/issues/495#issuecomment-5683790942) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🔒 Closed issue [#495](https://github.com/thejaustin/ShizukuPlus/issues/495) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🗣 Commented on [#317](https://github.com/thejaustin/ShizukuPlus/issues/317#issuecomment-5683787349) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 🗣 Commented on [#377](https://github.com/thejaustin/ShizukuPlus/issues/377#issuecomment-5683766923) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🎉 Merged PR [#315](https://github.com/thejaustin/ObtainiumPlus/pull/315) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+2. 💪 Opened PR [#315](https://github.com/thejaustin/ObtainiumPlus/pull/315) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+3. 🎉 Merged PR [#314](https://github.com/thejaustin/ObtainiumPlus/pull/314) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+4. 💪 Opened PR [#314](https://github.com/thejaustin/ObtainiumPlus/pull/314) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+5. 🎉 Merged PR [#313](https://github.com/thejaustin/ObtainiumPlus/pull/313) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+6. 💪 Opened PR [#313](https://github.com/thejaustin/ObtainiumPlus/pull/313) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+7. 🎉 Merged PR [#312](https://github.com/thejaustin/ObtainiumPlus/pull/312) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+8. 💪 Opened PR [#312](https://github.com/thejaustin/ObtainiumPlus/pull/312) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+9. 🔒 Closed issue [#317](https://github.com/thejaustin/ShizukuPlus/issues/317) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. 🗣 Commented on [#495](https://github.com/thejaustin/ShizukuPlus/issues/495#issuecomment-5683790942) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <div align="center">
