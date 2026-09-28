@@ -156,16 +156,16 @@ Hide apps from Android's intent chooser sheet (share sheet, "Open with", APK ins
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#549](https://github.com/thejaustin/ShizukuPlus/issues/549#issuecomment-5860341094) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-2. 🗣 Commented on [#531](https://github.com/thejaustin/ShizukuPlus/issues/531#issuecomment-5857933877) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. 🔒 Closed issue [#544](https://github.com/thejaustin/ShizukuPlus/issues/544) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-4. 🗣 Commented on [#544](https://github.com/thejaustin/ShizukuPlus/issues/544#issuecomment-5856117790) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. 🗣 Commented on [#544](https://github.com/thejaustin/ShizukuPlus/issues/544#issuecomment-5855990851) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. 🗣 Commented on [#544](https://github.com/thejaustin/ShizukuPlus/issues/544#issuecomment-5855903573) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🗣 Commented on [#545](https://github.com/thejaustin/ShizukuPlus/issues/545#issuecomment-5852164545) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🗣 Commented on [#547](https://github.com/thejaustin/ShizukuPlus/issues/547#issuecomment-5852162755) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🗣 Commented on [#542](https://github.com/thejaustin/ShizukuPlus/issues/542#issuecomment-5850575622) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 🗣 Commented on [#547](https://github.com/thejaustin/ShizukuPlus/issues/547#issuecomment-5850574252) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🔒 Closed issue [#550](https://github.com/thejaustin/ShizukuPlus/issues/550) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+2. 🗣 Commented on [#549](https://github.com/thejaustin/ShizukuPlus/issues/549#issuecomment-5862275678) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+3. 🗣 Commented on [#549](https://github.com/thejaustin/ShizukuPlus/issues/549#issuecomment-5860341094) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+4. 🗣 Commented on [#531](https://github.com/thejaustin/ShizukuPlus/issues/531#issuecomment-5857933877) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+5. 🔒 Closed issue [#544](https://github.com/thejaustin/ShizukuPlus/issues/544) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+6. 🗣 Commented on [#544](https://github.com/thejaustin/ShizukuPlus/issues/544#issuecomment-5856117790) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+7. 🗣 Commented on [#544](https://github.com/thejaustin/ShizukuPlus/issues/544#issuecomment-5855990851) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+8. 🗣 Commented on [#544](https://github.com/thejaustin/ShizukuPlus/issues/544#issuecomment-5855903573) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+9. 🗣 Commented on [#545](https://github.com/thejaustin/ShizukuPlus/issues/545#issuecomment-5852164545) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. 🗣 Commented on [#547](https://github.com/thejaustin/ShizukuPlus/issues/547#issuecomment-5852162755) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <div align="center">
