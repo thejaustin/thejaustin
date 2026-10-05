@@ -6,6 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/thejaustin?style=flat-square&color=36BCF7&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/thejaustin?tab=followers)
 [![Stars](https://img.shields.io/badge/Stars-1.7k%2B-FFD700?style=flat-square&labelColor=1a1b27&logo=github)](https://github.com/thejaustin)
+[![Downloads](https://img.shields.io/badge/Downloads-156k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin)
 [![Profile views](https://komarev.com/ghpvc/?username=thejaustin&style=flat-square&color=7F52FF&label=Views)](https://github.com/thejaustin)
 
 </div>
@@ -29,7 +30,7 @@ I'm an Android engineer focused on **system-level tooling**, **OSS forks**, and 
 <td width="50%">
 
 ### ⚡ [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-**1291 ★** · Kotlin
+**1291 ★ · 144k ⬇** · Kotlin
 
 Enhanced fork of Shizuku — unifies Root/ADB/Dhizuku backends, adds a Plus API suite, and fixes OneUI/Android 16+ compatibility while staying fully drop-in compatible with existing Shizuku apps.
 
@@ -39,7 +40,7 @@ Enhanced fork of Shizuku — unifies Root/ADB/Dhizuku backends, adds a Plus API 
 <td width="50%">
 
 ### 🎨 [Hexodus](https://github.com/thejaustin/hexodus)
-**57 ★** · Kotlin
+**57 ★ · 2.1k ⬇** · Kotlin
 
 Next-gen Android theming engine for Samsung One UI 8 (Android 16+). Spiritual successor to Hex Installer — Shizuku-powered, no root required.
 
@@ -51,7 +52,7 @@ Next-gen Android theming engine for Samsung One UI 8 (Android 16+). Spiritual su
 <td width="50%">
 
 ### 📦 [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-**123 ★** · Dart / Flutter
+**123 ★ · 4.6k ⬇** · Dart / Flutter
 
 AI-assisted fork of Obtainium with extra features for managing Android app updates directly from source.
 
@@ -73,7 +74,7 @@ Official public API library and client bindings for integrating with ShizukuPlus
 <td width="50%">
 
 ### 🤖 [termux-ai-app](https://github.com/thejaustin/termux-ai-app)
-**61 ★** · Java
+**61 ★ · 1.3k ⬇** · Java
 
 Termux AI Terminal App with Claude Code integration — Android terminal features enhanced with AI workflows.
 
@@ -83,7 +84,7 @@ Termux AI Terminal App with Claude Code integration — Android terminal feature
 <td width="50%">
 
 ### ✂️ [ShaRemove](https://github.com/thejaustin/sharemove)
-**36 ★** · Kotlin
+**36 ★ · 958 ⬇** · Kotlin
 
 Hide apps from Android's intent chooser sheet (share sheet, "Open with", APK installer). Shizuku or root. No ads, no analytics.
 
@@ -97,15 +98,15 @@ Hide apps from Android's intent chooser sheet (share sheet, "Open with", APK ins
 <summary>More projects →</summary>
 <br/>
 
-| Project | Description | Stars | Lang |
-|---|---|---|---|
-| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom Android notification shade — One UI, Pixel & Material styles, Shizuku-powered | ⭐ 15 | Kotlin |
-| [Pearity](https://github.com/thejaustin/pearity) | iOS parity settings for Samsung One UI, three-state toggles | ⭐ 11 | Kotlin |
-| [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork — M3 Expressive + social shortcuts | ⭐ 10 | Kotlin |
-| [smartlauncher-morphe-patches](https://github.com/thejaustin/smartlauncher-morphe-patches) | Smart Launcher 6 Morphe patch suite for Galaxy S22 Ultra | ⭐ 8 | — |
-| [AutoCat](https://github.com/thejaustin/AutoCat) | AI-powered app categorization launcher (Lawnchair fork) | ⭐ 5 | Java |
-| [afdroid](https://github.com/thejaustin/afdroid) | Material 3 Expressive F-Droid client | ⭐ 5 | Kotlin |
-| [maps-timeline-viewer](https://github.com/thejaustin/maps-timeline-viewer) | Flutter app for Google Maps Timeline data (Material 3) | ⭐ 5 | Dart |
+| Project | Description | Stars | Downloads | Lang |
+|---|---|---|---|---|
+| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom Android notification shade — One UI, Pixel & Material styles, Shizuku-powered | ⭐ 15 | ⬇ 1.1k | Kotlin |
+| [Pearity](https://github.com/thejaustin/pearity) | iOS parity settings for Samsung One UI, three-state toggles | ⭐ 11 | ⬇ 421 | Kotlin |
+| [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork — M3 Expressive + social shortcuts | ⭐ 10 | ⬇ 278 | Kotlin |
+| [smartlauncher-morphe-patches](https://github.com/thejaustin/smartlauncher-morphe-patches) | Smart Launcher 6 Morphe patch suite for Galaxy S22 Ultra | ⭐ 8 | ⬇ 922 | — |
+| [AutoCat](https://github.com/thejaustin/AutoCat) | AI-powered app categorization launcher (Lawnchair fork) | ⭐ 5 | ⬇ 401 | Java |
+| [afdroid](https://github.com/thejaustin/afdroid) | Material 3 Expressive F-Droid client | ⭐ 5 | — | Kotlin |
+| [maps-timeline-viewer](https://github.com/thejaustin/maps-timeline-viewer) | Flutter app for Google Maps Timeline data (Material 3) | ⭐ 5 | — | Dart |
 
 </details>
 
