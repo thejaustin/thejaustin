@@ -5,8 +5,8 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/thejaustin?style=flat-square&color=36BCF7&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/thejaustin?tab=followers)
-[![Stars](https://img.shields.io/badge/Stars-1.7k%2B?style=flat-square&labelColor=1a1b27&logo=github)](https://github.com/thejaustin)
-[![Downloads](https://img.shields.io/badge/Downloads-159.7k%2B?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin)
+[![Stars](https://img.shields.io/badge/Stars-1.8k%2B?style=flat-square&labelColor=1a1b27&logo=github)](https://github.com/thejaustin)
+[![Downloads](https://img.shields.io/badge/Downloads-161.8k%2B?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin)
 [![Profile views](https://komarev.com/ghpvc/?username=thejaustin&style=flat-square&color=7F52FF&label=Views)](https://github.com/thejaustin)
 
 </div>
@@ -30,7 +30,7 @@ I'm an Android engineer focused on **system-level tooling**, **OSS forks**, and 
 <td width="50%">
 
 ### ⚡ [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-<!-- STATS:ShizukuPlus -->**1332 ★ · 148.1k ⬇**<!-- /STATS --> · Kotlin
+<!-- STATS:ShizukuPlus -->**1343 ★ · 149.9k ⬇**<!-- /STATS --> · Kotlin
 
 Enhanced fork of Shizuku — unifies Root/ADB/Dhizuku backends, adds a Plus API suite, and fixes OneUI/Android 16+ compatibility while staying fully drop-in compatible with existing Shizuku apps.
 
@@ -40,7 +40,7 @@ Enhanced fork of Shizuku — unifies Root/ADB/Dhizuku backends, adds a Plus API 
 <td width="50%">
 
 ### 🎨 [Hexodus](https://github.com/thejaustin/hexodus)
-<!-- STATS:hexodus -->**58 ★ · 2.1k ⬇**<!-- /STATS --> · Kotlin
+<!-- STATS:hexodus -->**59 ★ · 2.2k ⬇**<!-- /STATS --> · Kotlin
 
 Next-gen Android theming engine for Samsung One UI 8 (Android 16+). Spiritual successor to Hex Installer — Shizuku-powered, no root required.
 
@@ -52,7 +52,7 @@ Next-gen Android theming engine for Samsung One UI 8 (Android 16+). Spiritual su
 <td width="50%">
 
 ### 📦 [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-<!-- STATS:ObtainiumPlus -->**123 ★ · 4.7k ⬇**<!-- /STATS --> · Dart / Flutter
+<!-- STATS:ObtainiumPlus -->**124 ★ · 4.7k ⬇**<!-- /STATS --> · Dart / Flutter
 
 AI-assisted fork of Obtainium with extra features for managing Android app updates directly from source.
 
@@ -84,7 +84,7 @@ Termux AI Terminal App with Claude Code integration — Android terminal feature
 <td width="50%">
 
 ### ✂️ [ShaRemove](https://github.com/thejaustin/sharemove)
-<!-- STATS:sharemove -->**38 ★ · 985 ⬇**<!-- /STATS --> · Kotlin
+<!-- STATS:sharemove -->**38 ★ · 998 ⬇**<!-- /STATS --> · Kotlin
 
 Hide apps from Android's intent chooser sheet (share sheet, "Open with", APK installer). Shizuku or root. No ads, no analytics.
 
@@ -100,8 +100,8 @@ Hide apps from Android's intent chooser sheet (share sheet, "Open with", APK ins
 
 | Project | Description | Stars | Downloads | Lang |
 |---|---|---|---|---|
-| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom Android notification shade — One UI, Pixel & Material styles, Shizuku-powered | <!-- STARS:SuperShade -->⭐ 19<!-- /STARS --> | <!-- DL:SuperShade -->⬇ 1.4k<!-- /DL --> | Kotlin |
-| [Pearity](https://github.com/thejaustin/pearity) | iOS parity settings for Samsung One UI, three-state toggles | <!-- STARS:pearity -->⭐ 12<!-- /STARS --> | <!-- DL:pearity -->⬇ 450<!-- /DL --> | Kotlin |
+| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom Android notification shade — One UI, Pixel & Material styles, Shizuku-powered | <!-- STARS:SuperShade -->⭐ 19<!-- /STARS --> | <!-- DL:SuperShade -->⬇ 1.5k<!-- /DL --> | Kotlin |
+| [Pearity](https://github.com/thejaustin/pearity) | iOS parity settings for Samsung One UI, three-state toggles | <!-- STARS:pearity -->⭐ 12<!-- /STARS --> | <!-- DL:pearity -->⬇ 464<!-- /DL --> | Kotlin |
 | [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork — M3 Expressive + social shortcuts | <!-- STARS:ContactsPlus -->⭐ 10<!-- /STARS --> | <!-- DL:ContactsPlus -->⬇ 278<!-- /DL --> | Kotlin |
 | [smartlauncher-morphe-patches](https://github.com/thejaustin/smartlauncher-morphe-patches) | Smart Launcher 6 Morphe patch suite for Galaxy S22 Ultra | <!-- STARS:smartlauncher-morphe-patches -->⭐ 0<!-- /STARS --> | <!-- DL:smartlauncher-morphe-patches -->—<!-- /DL --> | — |
 | [AutoCat](https://github.com/thejaustin/AutoCat) | AI-powered app categorization launcher (Lawnchair fork) | <!-- STARS:AutoCat -->⭐ 5<!-- /STARS --> | <!-- DL:AutoCat -->⬇ 402<!-- /DL --> | Java |
