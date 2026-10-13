@@ -24,7 +24,7 @@
 <text x="456" y="104" font-size="12" fill="#656d76" text-anchor="end">73.5%</text>
 <circle cx="241" cy="120" r="5" fill="#B07219"/>
 <text x="254" y="124" font-size="12" fill="#1f2328">Java</text>
-<text x="456" y="124" font-size="12" fill="#656d76" text-anchor="end">19.7%</text>
+<text x="456" y="124" font-size="12" fill="#656d76" text-anchor="end">19.6%</text>
 <circle cx="241" cy="140" r="5" fill="#00B4AB"/>
 <text x="254" y="144" font-size="12" fill="#1f2328">Dart</text>
 <text x="456" y="144" font-size="12" fill="#656d76" text-anchor="end">1.9%</text>
