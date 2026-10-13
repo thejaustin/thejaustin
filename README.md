@@ -14,11 +14,13 @@
 
 ## 👋 About Me
 
-Hey, I'm Austin. I build Android tools that poke at the parts the OS would rather keep to itself, mostly around **Shizuku/Dhizuku** and **Samsung One UI**. A lot of what I ship is a fork of something I loved but wanted to bend a little further.
+Hey, I'm Austin, the actual human behind these projects. I mostly mess around with **Shizuku/Dhizuku** and **Samsung One UI**, and a lot of what I ship started as a fork of something I loved but wanted to bend a little further.
+
+Most of it gets built and tested right on my phone, in a terminal, with AI pair-programmers (Claude, Antigravity, Codex) doing a lot of the heavy lifting. I'm not shy about that, and I still read what ships.
 
 - 🔧 Kotlin + Jetpack Compose is my daily driver
-- 🤖 I build with AI pair-programmers (Claude, Antigravity, Codex) and I'm not shy about it
 - 📱 Power-user at heart: if a setting is hidden, I want to know why
+- 🧪 Some of this is hobby-project rough around the edges. I'll say so when it is.
 
 ---
 
@@ -28,7 +30,7 @@ Hey, I'm Austin. I build Android tools that poke at the parts the OS would rathe
 - 📦 **[ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)**: better app-update management
 - 🎛️ **[SuperShade](https://github.com/thejaustin/SuperShade)**: my own take on the notification shade
 
-💬 Hit a bug or have an idea? [Open an issue on ShizukuPlus](https://github.com/thejaustin/ShizukuPlus/issues). I read them all.
+💬 Hit a bug or have an idea? [Open an issue on ShizukuPlus](https://github.com/thejaustin/ShizukuPlus/issues). I read them all, promise.
 
 ---
 
@@ -37,42 +39,42 @@ Hey, I'm Austin. I build Android tools that poke at the parts the OS would rathe
 ### ⚡ [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!-- STATS:ShizukuPlus -->**1418 ★ · 158.4k ⬇**<!-- /STATS --> · Kotlin
 
-A Shizuku fork that pulls Root, ADB and Dhizuku into one backend, adds a Plus API on top, and fixes One UI / Android 16+ quirks. Still a drop-in for apps that already use Shizuku.
+My fork of Shizuku. It pulls Root, ADB and Dhizuku into one backend, adds a Plus API on top, and smooths out One UI / Android 16+ quirks. Apps that already use Shizuku should just work.
 
 `android` `shizuku` `kotlin` `one-ui`
 
 ### 🎨 [Hexodus](https://github.com/thejaustin/hexodus)
 <!-- STATS:hexodus -->**61 ★ · 2.3k ⬇**<!-- /STATS --> · Kotlin
 
-Theming for Samsung One UI 8 (Android 16+). Think of it as the spiritual successor to Hex Installer, powered by Shizuku so you don't need root.
+Theming for Samsung One UI 8 (Android 16+). I think of it as a spiritual successor to Hex Installer, powered by Shizuku so you don't need root.
 
 `theming` `one-ui-8` `android-16` `shizuku`
 
 ### 📦 [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
 <!-- STATS:ObtainiumPlus -->**124 ★ · 4.8k ⬇**<!-- /STATS --> · Dart / Flutter
 
-My AI-assisted fork of Obtainium, with extra features for keeping apps updated straight from their source.
+My AI-assisted fork of Obtainium, with extra features for keeping apps updated straight from their source. Still one of my favorites to tinker with.
 
 `flutter` `android` `app-manager` `foss`
 
 ### 🔌 [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API)
 <!-- STATS:ShizukuPlus-API -->**89 ★**<!-- /STATS --> · Java
 
-The public API library and client bindings, for apps that want to talk to ShizukuPlus.
+The API library and client bindings, for apps that want to talk to ShizukuPlus.
 
 `android` `shizuku` `java` `api`
 
 ### 🤖 [termux-ai-app](https://github.com/thejaustin/termux-ai-app)
 <!-- STATS:termux-ai-app -->**61 ★ · 1.3k ⬇**<!-- /STATS --> · Java
 
-A Termux-based terminal app with Claude Code built in, for doing AI-assisted work right from your phone.
+A Termux-based terminal app with Claude Code built in, so you can code with AI right from your phone. It's basically how I work these days.
 
 `android` `termux` `ai` `claude`
 
 ### ✂️ [ShaRemove](https://github.com/thejaustin/sharemove)
 <!-- STATS:sharemove -->**39 ★ · 1.1k ⬇**<!-- /STATS --> · Kotlin
 
-Tidy up Android's share sheet, "Open with" and APK installer by hiding apps you never use. Works with Shizuku or root. No ads, no analytics.
+Hide the apps you never use from Android's share sheet, "Open with" and APK installer. Works with Shizuku or root. No ads, no analytics.
 
 `shizuku` `android` `intent` `privacy`
 
