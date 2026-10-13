@@ -23,6 +23,16 @@ I'm an Android engineer focused on **system-level tooling**, **OSS forks**, and 
 
 ---
 
+## 🔭 Currently Building
+
+- ⚡ **[ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)** — Plus API suite and One UI / Android 16+ compatibility
+- 📦 **[ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)** — app-update management features
+- 🎛️ **[SuperShade](https://github.com/thejaustin/SuperShade)** — custom notification shade
+
+💬 Found a bug or have an idea? [Open an issue on ShizukuPlus](https://github.com/thejaustin/ShizukuPlus/issues) — I read them all.
+
+---
+
 ## 🚀 Featured Projects
 
 ### ⚡ [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
@@ -105,10 +115,11 @@ Hide apps from Android's intent chooser sheet (share sheet, "Open with", APK ins
 ## 📊 Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thejaustin&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="48%" alt="thejaustin stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaustin&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="48%" alt="Top Langs" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
+    <img alt="Live GitHub stats: stars, downloads, repos, followers and top languages" src="assets/stats-dark.svg" width="480" />
+  </picture>
 </div>
 
 ---

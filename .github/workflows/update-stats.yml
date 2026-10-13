@@ -19,12 +19,18 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/update_stats.py
 
+      - name: Generate stat cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/gen_cards.py
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet README.md || {
-            git add README.md
+          git add -N assets
+          git diff --quiet README.md assets || {
+            git add README.md assets
             git commit -m "chore: auto-update stats"
             git push
           }
