@@ -7,7 +7,6 @@
 [![Followers](https://img.shields.io/github/followers/thejaustin?style=flat-square&color=36BCF7&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/thejaustin?tab=followers)
 [![Stars](https://img.shields.io/github/stars/thejaustin?affiliations=OWNER&style=flat-square&color=FFD700&labelColor=1a1b27&logo=github&label=Stars)](https://github.com/thejaustin?tab=repositories&sort=stargazers)
 [![Downloads](https://img.shields.io/badge/Downloads-171.0k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=thejaustin&style=flat-square&color=7F52FF&label=Views)](https://github.com/thejaustin)
 
 </div>
 
