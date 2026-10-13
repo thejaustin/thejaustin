@@ -53,7 +53,7 @@ Theming for Samsung One UI 8 (Android 16+). I think of it as a spiritual success
 ### 📦 [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
 <!-- STATS:ObtainiumPlus -->**124 ★ · 4.8k ⬇**<!-- /STATS --> · Dart / Flutter
 
-My AI-assisted fork of Obtainium, with extra features for keeping apps updated straight from their source. Still one of my favorites to tinker with.
+My AI-assisted fork of Obtainium, with extra features for keeping apps updated straight from their source.
 
 `flutter` `android` `app-manager` `foss`
 
@@ -67,7 +67,7 @@ The API library and client bindings, for apps that want to talk to ShizukuPlus.
 ### 🤖 [termux-ai-app](https://github.com/thejaustin/termux-ai-app)
 <!-- STATS:termux-ai-app -->**61 ★ · 1.3k ⬇**<!-- /STATS --> · Java
 
-A Termux-based terminal app with Claude Code built in, so you can code with AI right from your phone. It's basically how I work these days.
+A Termux-based terminal app with Claude Code built in, so you can code with AI right from your phone.
 
 `android` `termux` `ai` `claude`
 
