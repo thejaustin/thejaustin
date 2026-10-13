@@ -83,18 +83,12 @@ def update_readme(stars: dict, downloads: dict) -> bool:
 
     original = content
 
-    total_stars = sum(stars.values())
     total_dl = sum(downloads.values())
 
     # --- Top summary badges ---
     content = re.sub(
-        r"(shields\.io/badge/Stars-)([^?&\s]+)(%3F|\?)",
-        lambda m: f"{m.group(1)}{fmt_badge_stars(total_stars)}{m.group(3)}",
-        content,
-    )
-    content = re.sub(
-        r"(shields\.io/badge/Downloads-)([^?&\s]+)(%3F|\?)",
-        lambda m: f"{m.group(1)}{fmt_badge_dl(total_dl)}{m.group(3)}",
+        r"(shields\.io/badge/Downloads-)[^-?&\s]+(-[0-9A-Fa-f]{6})(\?)",
+        lambda m: f"{m.group(1)}{fmt_badge_dl(total_dl)}{m.group(2)}{m.group(3)}",
         content,
     )
 
@@ -120,13 +114,13 @@ def update_readme(stars: dict, downloads: dict) -> bool:
     def replace_stars_cell(m):
         repo = m.group(1)
         s = stars.get(repo, 0)
-        return f"<!-- STARS:{repo} -->⭐ {s}<!-- /STARS -->"
+        return f"<!-- STARS:{repo} -->{s}<!-- /STARS -->"
 
     def replace_dl_cell(m):
         repo = m.group(1)
         d = downloads.get(repo, 0)
         if d:
-            return f"<!-- DL:{repo} -->⬇ {fmt_k(d)}<!-- /DL -->"
+            return f"<!-- DL:{repo} -->{fmt_k(d)}<!-- /DL -->"
         return f"<!-- DL:{repo} -->—<!-- /DL -->"
 
     content = re.sub(
