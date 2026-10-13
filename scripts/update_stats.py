@@ -21,7 +21,6 @@ MORE_REPOS = [
     ("SuperShade", True),
     ("pearity", True),
     ("ContactsPlus", True),
-    ("smartlauncher-morphe-patches", True),
     ("AutoCat", True),
     ("afdroid", False),
     ("maps-timeline-viewer", False),
