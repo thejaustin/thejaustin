@@ -5,32 +5,32 @@
 <text x="24" y="64" font-size="13" fill="#656d76">Stars earned</text>
 <text x="196" y="64" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">2.1k</text>
 <text x="24" y="88" font-size="13" fill="#656d76">Release downloads</text>
-<text x="196" y="88" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">194.6k</text>
+<text x="196" y="88" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">197k</text>
 <text x="24" y="112" font-size="13" fill="#656d76">Public repos</text>
 <text x="196" y="112" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">37</text>
 <text x="24" y="136" font-size="13" fill="#656d76">Followers</text>
-<text x="196" y="136" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">200</text>
+<text x="196" y="136" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">201</text>
 <text x="236" y="64" font-size="13" fill="#656d76">Top languages</text>
 <clipPath id="cffffff"><rect x="236" y="74" width="220" height="8" rx="4"/></clipPath>
 <g clip-path="url(#cffffff)">
-<rect x="236.0" y="74" width="169.7" height="8" fill="#A97BFF"/>
-<rect x="405.7" y="74" width="42.0" height="8" fill="#B07219"/>
-<rect x="447.7" y="74" width="3.9" height="8" fill="#00B4AB"/>
-<rect x="451.6" y="74" width="2.4" height="8" fill="#89E051"/>
-<rect x="454.0" y="74" width="2.0" height="8" fill="#3178C6"/>
+<rect x="236.0" y="74" width="170.9" height="8" fill="#A97BFF"/>
+<rect x="406.9" y="74" width="41.1" height="8" fill="#B07219"/>
+<rect x="447.9" y="74" width="3.7" height="8" fill="#00B4AB"/>
+<rect x="451.7" y="74" width="2.4" height="8" fill="#89E051"/>
+<rect x="454.1" y="74" width="1.9" height="8" fill="#3178C6"/>
 </g>
 <circle cx="241" cy="100" r="5" fill="#A97BFF"/>
 <text x="254" y="104" font-size="12" fill="#1f2328">Kotlin</text>
-<text x="456" y="104" font-size="12" fill="#656d76" text-anchor="end">75.0%</text>
+<text x="456" y="104" font-size="12" fill="#656d76" text-anchor="end">75.5%</text>
 <circle cx="241" cy="120" r="5" fill="#B07219"/>
 <text x="254" y="124" font-size="12" fill="#1f2328">Java</text>
-<text x="456" y="124" font-size="12" fill="#656d76" text-anchor="end">18.6%</text>
+<text x="456" y="124" font-size="12" fill="#656d76" text-anchor="end">18.1%</text>
 <circle cx="241" cy="140" r="5" fill="#00B4AB"/>
 <text x="254" y="144" font-size="12" fill="#1f2328">Dart</text>
-<text x="456" y="144" font-size="12" fill="#656d76" text-anchor="end">1.7%</text>
+<text x="456" y="144" font-size="12" fill="#656d76" text-anchor="end">1.6%</text>
 <circle cx="241" cy="160" r="5" fill="#89E051"/>
 <text x="254" y="164" font-size="12" fill="#1f2328">Shell</text>
-<text x="456" y="164" font-size="12" fill="#656d76" text-anchor="end">1.0%</text>
+<text x="456" y="164" font-size="12" fill="#656d76" text-anchor="end">1.1%</text>
 <circle cx="241" cy="180" r="5" fill="#3178C6"/>
 <text x="254" y="184" font-size="12" fill="#1f2328">TypeScript</text>
 <text x="456" y="184" font-size="12" fill="#656d76" text-anchor="end">0.9%</text>

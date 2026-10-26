@@ -6,7 +6,7 @@
 
 [![Followers](https://img.shields.io/github/followers/thejaustin?style=flat-square&color=36BCF7&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/thejaustin?tab=followers)
 [![Stars](https://img.shields.io/github/stars/thejaustin?affiliations=OWNER&style=flat-square&color=FFD700&labelColor=1a1b27&logo=github&label=Stars)](https://github.com/thejaustin?tab=repositories&sort=stargazers)
-[![Downloads](https://img.shields.io/badge/Downloads-193.4k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
+[![Downloads](https://img.shields.io/badge/Downloads-195.7k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=flat-square&labelColor=1a1b27&logo=buymeacoffee&logoColor=ffdd00)](https://buymeacoffee.com/thejaustin)
 
 </div>
@@ -38,7 +38,7 @@ Most of it gets built and tested right on my phone, in a terminal, with AI pair-
 ## 🚀 Featured Projects
 
 ### ⚡ [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-<!-- STATS:ShizukuPlus -->**1562 ★ · 178.6k ⬇**<!-- /STATS --> · Kotlin
+<!-- STATS:ShizukuPlus -->**1576 ★ · 180.8k ⬇**<!-- /STATS --> · Kotlin
 
 My fork of Shizuku. It pulls Root, ADB and Dhizuku into one backend, adds a Plus API on top, and smooths out One UI / Android 16+ quirks. Apps that already use Shizuku should just work.
 
@@ -52,7 +52,7 @@ Theming for Samsung One UI 8 (Android 16+). I think of it as a spiritual success
 `theming` `one-ui-8` `android-16` `shizuku`
 
 ### 📦 [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-<!-- STATS:ObtainiumPlus -->**132 ★ · 5.6k ⬇**<!-- /STATS --> · Dart / Flutter
+<!-- STATS:ObtainiumPlus -->**133 ★ · 5.7k ⬇**<!-- /STATS --> · Dart / Flutter
 
 My AI-assisted fork of Obtainium, with extra features for keeping apps updated straight from their source.
 
@@ -86,9 +86,9 @@ Hide the apps you never use from Android's share sheet, "Open with" and APK inst
 
 | Project | Description | ⭐ | ⬇ |
 |---|---|---|---|
-| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom Android notification shade — One UI, Pixel & Material styles, Shizuku-powered | <!-- STARS:SuperShade -->28<!-- /STARS --> | <!-- DL:SuperShade -->2.5k<!-- /DL --> |
-| [Pearity](https://github.com/thejaustin/pearity) | iOS parity settings for Samsung One UI, three-state toggles | <!-- STARS:pearity -->14<!-- /STARS --> | <!-- DL:pearity -->764<!-- /DL --> |
-| [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork — M3 Expressive + social shortcuts | <!-- STARS:ContactsPlus -->11<!-- /STARS --> | <!-- DL:ContactsPlus -->299<!-- /DL --> |
+| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom Android notification shade — One UI, Pixel & Material styles, Shizuku-powered | <!-- STARS:SuperShade -->29<!-- /STARS --> | <!-- DL:SuperShade -->2.6k<!-- /DL --> |
+| [Pearity](https://github.com/thejaustin/pearity) | iOS parity settings for Samsung One UI, three-state toggles | <!-- STARS:pearity -->14<!-- /STARS --> | <!-- DL:pearity -->781<!-- /DL --> |
+| [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork — M3 Expressive + social shortcuts | <!-- STARS:ContactsPlus -->11<!-- /STARS --> | <!-- DL:ContactsPlus -->306<!-- /DL --> |
 | [AutoCat](https://github.com/thejaustin/AutoCat) | AI-powered app categorization launcher (Lawnchair fork) | <!-- STARS:AutoCat -->5<!-- /STARS --> | <!-- DL:AutoCat -->418<!-- /DL --> |
 | [afdroid](https://github.com/thejaustin/afdroid) | Material 3 Expressive F-Droid client | <!-- STARS:afdroid -->5<!-- /STARS --> | <!-- DL:afdroid -->—<!-- /DL --> |
 | [maps-timeline-viewer](https://github.com/thejaustin/maps-timeline-viewer) | Flutter app for Google Maps Timeline data (Material 3) | <!-- STARS:maps-timeline-viewer -->5<!-- /STARS --> | <!-- DL:maps-timeline-viewer -->—<!-- /DL --> |
