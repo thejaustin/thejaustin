@@ -152,16 +152,16 @@ If something I built saved you time, a coffee keeps the phone charged and the pr
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#623](https://github.com/thejaustin/ShizukuPlus/issues/623) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-2. 🗣 Commented on [#623](https://github.com/thejaustin/ShizukuPlus/issues/623#issuecomment-6461080746) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. 🔒 Closed issue [#639](https://github.com/thejaustin/ShizukuPlus/issues/639) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-4. 🗣 Commented on [#639](https://github.com/thejaustin/ShizukuPlus/issues/639#issuecomment-6461079408) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. 🗣 Commented on [#628](https://github.com/thejaustin/ShizukuPlus/issues/628#issuecomment-6460354475) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. 🔒 Closed issue [#628](https://github.com/thejaustin/ShizukuPlus/issues/628) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🔒 Closed issue [#646](https://github.com/thejaustin/ShizukuPlus/issues/646) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🗣 Commented on [#646](https://github.com/thejaustin/ShizukuPlus/issues/646#issuecomment-6460353688) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🔒 Closed issue [#643](https://github.com/thejaustin/ShizukuPlus/issues/643) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 🗣 Commented on [#643](https://github.com/thejaustin/ShizukuPlus/issues/643#issuecomment-6460352791) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🔒 Closed issue [#531](https://github.com/thejaustin/ShizukuPlus/issues/531) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+2. 🗣 Commented on [#531](https://github.com/thejaustin/ShizukuPlus/issues/531#issuecomment-6489590213) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+3. 🔒 Closed issue [#1](https://github.com/thejaustin/ShizukuPlus/issues/1) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+4. 🗣 Commented on [#1](https://github.com/thejaustin/ShizukuPlus/issues/1#issuecomment-6488698854) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+5. 🔒 Closed issue [#590](https://github.com/thejaustin/ShizukuPlus/issues/590) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+6. 🗣 Commented on [#590](https://github.com/thejaustin/ShizukuPlus/issues/590#issuecomment-6488698178) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+7. 🗣 Commented on [#629](https://github.com/thejaustin/ShizukuPlus/issues/629#issuecomment-6488697554) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+8. 🔒 Closed issue [#629](https://github.com/thejaustin/ShizukuPlus/issues/629) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+9. 🗣 Commented on [#645](https://github.com/thejaustin/ShizukuPlus/issues/645#issuecomment-6488696900) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. 🔒 Closed issue [#645](https://github.com/thejaustin/ShizukuPlus/issues/645) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <div align="center">
