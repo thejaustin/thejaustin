@@ -152,16 +152,16 @@ If something I built saved you time, a coffee keeps the phone charged and the pr
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/qianyumeng0228/ShizukuX/pull/10) in [qianyumeng0228/ShizukuX](https://github.com/qianyumeng0228/ShizukuX)
-2. 🗣 Commented on [#670](https://github.com/thejaustin/ShizukuPlus/issues/670#issuecomment-6782381062) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. 🗣 Commented on [#247](https://github.com/deltazefiro/Amarok-Hider/issues/247#issuecomment-6769717709) in [deltazefiro/Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)
-4. 🗣 Commented on [#670](https://github.com/thejaustin/ShizukuPlus/issues/670#issuecomment-6769722603) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. 🚀 Published release [Amarok dev test build (Dhizuku fix)](https://github.com/thejaustin/Amarok-Hider/releases/tag/dhizuku-test-41c26ef) in [thejaustin/Amarok-Hider](https://github.com/thejaustin/Amarok-Hider)
-6. 🗣 Commented on [#662](https://github.com/thejaustin/ShizukuPlus/pull/662#issuecomment-6762530613) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🗣 Commented on [#655](https://github.com/thejaustin/ShizukuPlus/issues/655#issuecomment-6761686477) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🗣 Commented on [#656](https://github.com/thejaustin/ShizukuPlus/issues/656#issuecomment-6761643748) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🗣 Commented on [#662](https://github.com/thejaustin/ShizukuPlus/pull/662#issuecomment-6761637986) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 🗣 Commented on [#672](https://github.com/thejaustin/ShizukuPlus/issues/672#issuecomment-6761621282) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🗣 Commented on [#673](https://github.com/thejaustin/ShizukuPlus/issues/673#issuecomment-6786229448) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+2. 🗣 Commented on [#674](https://github.com/thejaustin/ShizukuPlus/issues/674#issuecomment-6786229901) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+3. 🗣 Commented on [#669](https://github.com/thejaustin/ShizukuPlus/issues/669#issuecomment-6786229048) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+4. 🗣 Commented on [#338](https://github.com/thejaustin/ObtainiumPlus/issues/338#issuecomment-6786037337) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+5. 🗣 Commented on [#298](https://github.com/thejaustin/ObtainiumPlus/issues/298#issuecomment-6786039157) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+6. 🔒 Closed issue [#298](https://github.com/thejaustin/ObtainiumPlus/issues/298) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+7. 🔒 Closed issue [#338](https://github.com/thejaustin/ObtainiumPlus/issues/338) in [thejaustin/ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
+8. 🗣 Commented on [#672](https://github.com/thejaustin/ShizukuPlus/issues/672#issuecomment-6785688470) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+9. 💪 Opened PR [#10](https://github.com/qianyumeng0228/ShizukuX/pull/10) in [qianyumeng0228/ShizukuX](https://github.com/qianyumeng0228/ShizukuX)
+10. 🗣 Commented on [#670](https://github.com/thejaustin/ShizukuPlus/issues/670#issuecomment-6782381062) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <div align="center">
