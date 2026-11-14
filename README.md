@@ -6,7 +6,7 @@
 
 [![Followers](https://img.shields.io/github/followers/thejaustin?style=flat-square&color=36BCF7&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/thejaustin?tab=followers)
 [![Stars](https://img.shields.io/github/stars/thejaustin?affiliations=OWNER&style=flat-square&color=FFD700&labelColor=1a1b27&logo=github&label=Stars)](https://github.com/thejaustin?tab=repositories&sort=stargazers)
-[![Downloads](https://img.shields.io/badge/Downloads-227.0k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
+[![Downloads](https://img.shields.io/badge/Downloads-229.8k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=flat-square&labelColor=1a1b27&logo=buymeacoffee&logoColor=ffdd00)](https://buymeacoffee.com/thejaustin)
 
 </div>
@@ -38,21 +38,21 @@ Most of it gets built and tested right on my phone, in a terminal, with AI pair-
 ## 🚀 Featured Projects
 
 ### ⚡ [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-<!-- STATS:ShizukuPlus -->**1785 ★ · 208.3k ⬇**<!-- /STATS --> · Kotlin
+<!-- STATS:ShizukuPlus -->**1796 ★ · 210.9k ⬇**<!-- /STATS --> · Kotlin
 
 My fork of Shizuku. It pulls Root, ADB and Dhizuku into one backend, adds a Plus API on top, and smooths out One UI / Android 16+ quirks. Apps that already use Shizuku should just work.
 
 `android` `shizuku` `kotlin` `one-ui`
 
 ### 🎨 [Hexodus](https://github.com/thejaustin/hexodus)
-<!-- STATS:hexodus -->**67 ★ · 2.9k ⬇**<!-- /STATS --> · Kotlin
+<!-- STATS:hexodus -->**68 ★ · 2.9k ⬇**<!-- /STATS --> · Kotlin
 
 Theming for Samsung One UI 8 (Android 16+). I think of it as a spiritual successor to Hex Installer, powered by Shizuku so you don't need root.
 
 `theming` `one-ui-8` `android-16` `shizuku`
 
 ### 📦 [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)
-<!-- STATS:ObtainiumPlus -->**137 ★ · 6.7k ⬇**<!-- /STATS --> · Dart / Flutter
+<!-- STATS:ObtainiumPlus -->**137 ★ · 6.8k ⬇**<!-- /STATS --> · Dart / Flutter
 
 My AI-assisted fork of Obtainium, with extra features for keeping apps updated straight from their source.
 
@@ -86,10 +86,10 @@ Hide the apps you never use from Android's share sheet, "Open with" and APK inst
 
 | Project | Description | ⭐ | ⬇ |
 |---|---|---|---|
-| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom Android notification shade — One UI, Pixel & Material styles, Shizuku-powered | <!-- STARS:SuperShade -->36<!-- /STARS --> | <!-- DL:SuperShade -->4.1k<!-- /DL --> |
-| [Pearity](https://github.com/thejaustin/pearity) | iOS parity settings for Samsung One UI, three-state toggles | <!-- STARS:pearity -->16<!-- /STARS --> | <!-- DL:pearity -->1.0k<!-- /DL --> |
+| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom Android notification shade — One UI, Pixel & Material styles, Shizuku-powered | <!-- STARS:SuperShade -->36<!-- /STARS --> | <!-- DL:SuperShade -->4.2k<!-- /DL --> |
+| [Pearity](https://github.com/thejaustin/pearity) | iOS parity settings for Samsung One UI, three-state toggles | <!-- STARS:pearity -->17<!-- /STARS --> | <!-- DL:pearity -->1.1k<!-- /DL --> |
 | [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork — M3 Expressive + social shortcuts | <!-- STARS:ContactsPlus -->11<!-- /STARS --> | <!-- DL:ContactsPlus -->326<!-- /DL --> |
-| [AutoCat](https://github.com/thejaustin/AutoCat) | AI-powered app categorization launcher (Lawnchair fork) | <!-- STARS:AutoCat -->6<!-- /STARS --> | <!-- DL:AutoCat -->605<!-- /DL --> |
+| [AutoCat](https://github.com/thejaustin/AutoCat) | AI-powered app categorization launcher (Lawnchair fork) | <!-- STARS:AutoCat -->7<!-- /STARS --> | <!-- DL:AutoCat -->606<!-- /DL --> |
 | [afdroid](https://github.com/thejaustin/afdroid) | Material 3 Expressive F-Droid client | <!-- STARS:afdroid -->6<!-- /STARS --> | <!-- DL:afdroid -->—<!-- /DL --> |
 | [maps-timeline-viewer](https://github.com/thejaustin/maps-timeline-viewer) | Flutter app for Google Maps Timeline data (Material 3) | <!-- STARS:maps-timeline-viewer -->5<!-- /STARS --> | <!-- DL:maps-timeline-viewer -->—<!-- /DL --> |
 
