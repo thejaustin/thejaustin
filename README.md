@@ -3,6 +3,7 @@
 [![Followers](https://img.shields.io/github/followers/thejaustin?style=flat-square&color=36BCF7&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/thejaustin?tab=followers)
 [![Stars](https://img.shields.io/github/stars/thejaustin?affiliations=OWNER&style=flat-square&color=FFD700&labelColor=1a1b27&logo=github&label=Stars)](https://github.com/thejaustin?tab=repositories&sort=stargazers)
 [![Downloads](https://img.shields.io/badge/Downloads-248.4k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&labelColor=1a1b27&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/thejaustin)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=flat-square&labelColor=1a1b27&logo=buymeacoffee&logoColor=ffdd00)](https://buymeacoffee.com/thejaustin)
 
 </div>
@@ -145,9 +146,13 @@ Hide the apps you never use from Android's share sheet, "Open with" and APK inst
 
 ## ☕ Support
 
-If something I built saved you time, a coffee keeps the phone charged and the projects rolling.
+If something I built saved you time, a coffee or a sponsorship keeps the phone charged and the projects rolling. Thank you!
 
 <div align="center">
+  <a href="https://github.com/sponsors/thejaustin">
+    <img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="50" />
+  </a>
+  &nbsp;
   <a href="https://buymeacoffee.com/thejaustin">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
   </a>
