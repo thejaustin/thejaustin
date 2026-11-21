@@ -61,7 +61,7 @@ Theming for Samsung One UI 8 (Android 16+), powered by Shizuku.
 No root required.
 
 **[ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)**  
-<!-- STATS:ObtainiumPlus -->**139 ★ · 7.0k ⬇**<!-- /STATS --> · Dart / Flutter  
+<!-- STATS:ObtainiumPlus -->**139 ★ · 7.0k ⬇ ↑2**<!-- /STATS --> · Dart / Flutter  
 An AI-assisted fork of Obtainium.  
 Keeps apps updated straight from their source, with extra features.
 
@@ -153,18 +153,18 @@ Flutter viewer for Google Maps Timeline data
 <!-- GAINS -->
 | | 1h | 3h | 6h | 12h | 24h | 7d |
 |---|---|---|---|---|---|---|
-| ⭐ Stars | +2 | – | – | – | – | – |
-| ⬇ Downloads | +0 | – | – | – | – | – |
-| 👥 Followers | +0 | – | – | – | – | – |
+| ⭐ Stars | – | – | – | – | – | – |
+| ⬇ Downloads | – | – | – | – | – | – |
+| 👥 Followers | – | – | – | – | – | – |
 
 | Project | 1h | 6h | 24h | 7d |
 |---|---|---|---|---|
-| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | +2 ⭐<br>+0 ⬇ | – | – | – |
-| [hexodus](https://github.com/thejaustin/hexodus) | +0 ⭐<br>+2 ⬇ | – | – | – |
-| [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | +0 ⭐<br>+4 ⬇ | – | – | – |
-| [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | +0 ⭐ | – | – | – |
-| [termux-ai-app](https://github.com/thejaustin/termux-ai-app) | +0 ⭐<br>+0 ⬇ | – | – | – |
-| [sharemove](https://github.com/thejaustin/sharemove) | +0 ⭐<br>+3 ⬇ | – | – | – |
+| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | – | – | – | – |
+| [hexodus](https://github.com/thejaustin/hexodus) | – | – | – | – |
+| [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | – | – | – | – |
+| [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | – | – | – | – |
+| [termux-ai-app](https://github.com/thejaustin/termux-ai-app) | – | – | – | – |
+| [sharemove](https://github.com/thejaustin/sharemove) | – | – | – | – |
 <!-- /GAINS -->
 
 </details>
