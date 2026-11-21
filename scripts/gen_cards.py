@@ -56,7 +56,7 @@ def collect():
         o = None
         for _ in range(3):
             o = gh("api", "--paginate", f"repos/{OWNER}/{r['name']}/releases",
-                   "--jq", "[.[] | select(.draft | not) | .assets[].download_count] | add // 0")
+                   "--jq", "[.[] | select((.draft | not) or .prerelease) | .assets[].download_count] | add // 0")
             if o:
                 break
             time.sleep(2)
