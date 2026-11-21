@@ -130,8 +130,10 @@ Hide the apps you never use from Android's share sheet, "Open with" and APK inst
   </picture>
 </div>
 
+<p align="center"><a href="https://thejaustin.github.io/thejaustin/"><b>📈 Open the interactive stats</b></a><br/><sub>Tap 1h / 3h / 6h / 12h / 24h / 7d / 30d to see how much each number grew</sub></p>
+
 <details>
-<summary>⬆ Recent gains (tap to open)</summary>
+<summary>⬆ Quick gains table (no page needed)</summary>
 <br/>
 
 <!-- GAINS -->

@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>thejaustin · live stats</title>
+<meta name="description" content="Stars, downloads and followers for thejaustin's projects, with gains over a window you pick.">
+<style>
+:root {
+  --bg:#ffffff; --card:#f6f8fa; --line:#d0d7de; --text:#1f2328; --muted:#59636e;
+  --accent:#0969da; --up:#1a7f37; --chip:#eaeef2;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg:#0d1117; --card:#161b22; --line:#30363d; --text:#e6edf3; --muted:#8d96a0;
+          --accent:#58a6ff; --up:#3fb950; --chip:#21262d; }
+}
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--text);
+  font:16px/1.5 -apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+main { max-width:760px; margin:0 auto; padding:24px 16px 48px; }
+h1 { font-size:22px; margin:0 0 4px; }
+.sub { color:var(--muted); margin:0 0 20px; font-size:14px; }
+.sub a { color:var(--accent); }
+.chips { display:flex; flex-wrap:wrap; gap:8px; margin:0 0 20px; }
+.chips button { font:inherit; font-size:14px; padding:8px 14px; min-height:40px; border-radius:999px;
+  border:1px solid var(--line); background:var(--chip); color:var(--text); cursor:pointer; }
+.chips button[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:#fff; font-weight:600; }
+.chips button:focus-visible, .tabs button:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+.grid { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin-bottom:20px; }
+.tile { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px; text-align:left;
+  font:inherit; color:inherit; cursor:pointer; }
+.tile[aria-pressed="true"] { border-color:var(--accent); box-shadow:0 0 0 1px var(--accent); }
+.tile .k { color:var(--muted); font-size:13px; display:block; }
+.tile .v { font-size:22px; font-weight:700; display:block; line-height:1.3; }
+.tile .d { font-size:13px; font-weight:600; color:var(--muted); }
+.tile .d.up { color:var(--up); }
+.panel { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 12px 4px; margin-bottom:20px; }
+.panel h2 { font-size:14px; color:var(--muted); font-weight:600; margin:0 0 6px; }
+svg.chart { width:100%; height:auto; display:block; }
+table { width:100%; border-collapse:collapse; font-size:15px; }
+th, td { padding:10px 6px; border-bottom:1px solid var(--line); text-align:right; }
+th:first-child, td:first-child { text-align:left; }
+th { color:var(--muted); font-weight:600; font-size:13px; }
+tr:last-child td { border-bottom:0; }
+td a { color:var(--accent); text-decoration:none; }
+.up { color:var(--up); font-weight:600; }
+.zero { color:var(--muted); }
+.note { color:var(--muted); font-size:13px; margin-top:12px; }
+@media (max-width:420px) { .tile .v { font-size:19px; } th, td { padding:10px 4px; font-size:14px; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>thejaustin · live stats</h1>
+  <p class="sub">Tap a window to see how much each number has grown. <a href="https://github.com/thejaustin">Back to profile</a></p>
+
+  <div class="chips" id="chips" role="group" aria-label="Time window"></div>
+  <div class="grid" id="tiles" role="group" aria-label="Metric"></div>
+
+  <section class="panel">
+    <h2 id="chart-title"></h2>
+    <svg class="chart" id="chart" viewBox="0 0 600 200" role="img" aria-label="Trend for the selected metric"></svg>
+  </section>
+
+  <section class="panel">
+    <h2 id="proj-title"></h2>
+    <table>
+      <thead><tr><th>Project</th><th id="th-stars">★</th><th id="th-dl">⬇</th></tr></thead>
+      <tbody id="projects"></tbody>
+    </table>
+  </section>
+
+  <p class="note" id="note"></p>
+</main>
+
+<script>
+const DATA_URL = "https://raw.githubusercontent.com/thejaustin/thejaustin/main/data/stats-history.json";
+const WINDOWS = [["1h",1],["3h",3],["6h",6],["12h",12],["24h",24],["7d",168],["30d",720]];
+const METRICS = [
+  { key:"stars", label:"Stars", pk:0 },
+  { key:"dl", label:"Downloads", pk:1 },
+  { key:"followers", label:"Followers", pk:null },
+];
+const SLACK = 900; // cron runs start a few minutes late
+const state = { win:"24h", metric:"stars", hist:[] };
+
+const fmt = n => Math.abs(n) >= 1000 ? (n/1000).toFixed(1).replace(/\.0$/,"") + "k" : String(n);
+const $ = id => document.getElementById(id);
+const store = {
+  get(k){ try { return localStorage.getItem(k); } catch(e){ return null; } },
+  set(k,v){ try { localStorage.setItem(k,v); } catch(e){} },
+};
+
+function baseFor(hours, now){
+  let base = null;
+  for (const e of state.hist) if (now - e.t >= hours*3600 - SLACK) base = e;
+  return base;
+}
+function gainEl(n, cls){
+  if (n == null) return `<span class="zero">–</span>`;
+  return n > 0 ? `<span class="${cls||"up"}">↑${fmt(n)}</span>` : `<span class="zero">0</span>`;
+}
+
+function render(){
+  const hist = state.hist, last = hist[hist.length-1];
+  if (!last) { $("note").textContent = "No data yet."; return; }
+  const hours = Object.fromEntries(WINDOWS)[state.win];
+  const base = baseFor(hours, last.t);
+
+  $("chips").innerHTML = WINDOWS.map(([l]) =>
+    `<button type="button" data-w="${l}" aria-pressed="${l===state.win}">${l}</button>`).join("");
+  $("tiles").innerHTML = METRICS.map(m => {
+    const d = base ? last[m.key] - base[m.key] : null;
+    return `<button type="button" class="tile" data-m="${m.key}" aria-pressed="${m.key===state.metric}">
+      <span class="k">${m.label}</span><span class="v">${fmt(last[m.key])}</span>
+      <span class="d ${d>0?"up":""}">${d==null?"–":d>0?"↑"+fmt(d):"0"} <small>${state.win}</small></span></button>`;
+  }).join("");
+
+  // chart: all points inside the window, or everything we have when history is shorter
+  const from = last.t - hours*3600;
+  let pts = hist.filter(e => e.t >= from - SLACK);
+  if (pts.length < 2) pts = hist.slice(-2);
+  const m = METRICS.find(x => x.key === state.metric);
+  $("chart-title").textContent = `${m.label} · last ${state.win}`;
+  drawChart(pts.map(e => [e.t, e[m.key]]));
+
+  // per-project table
+  $("proj-title").textContent = `Projects · gained in the last ${state.win}`;
+  const names = Object.keys(last.p || {});
+  const rows = names.map(n => {
+    const now = last.p[n], old = base && base.p && base.p[n];
+    return { n, s:now[0], d:now[1], ds: old ? now[0]-old[0] : null, dd: old ? now[1]-old[1] : null };
+  }).sort((a,b) => (b.s) - (a.s));
+  $("projects").innerHTML = rows.map(r => `<tr>
+    <td><a href="https://github.com/thejaustin/${r.n}">${r.n}</a></td>
+    <td>${fmt(r.s)} ${gainEl(r.ds)}</td>
+    <td>${r.d ? fmt(r.d) + " " + gainEl(r.dd) : "–"}</td></tr>`).join("");
+
+  const age = Math.round((Date.now()/1000 - last.t)/60);
+  const have = Math.round((last.t - hist[0].t)/3600);
+  $("note").textContent = (base ? "" : `Not enough history for ${state.win} yet (${have}h collected). `)
+    + `Updated ${age < 90 ? age + " min" : Math.round(age/60) + " h"} ago. Refreshes hourly; only growth is shown.`;
+}
+
+function drawChart(points){
+  const W=600, H=200, P={l:44,r:12,t:12,b:26};
+  const xs = points.map(p=>p[0]), ys = points.map(p=>p[1]);
+  const x0=Math.min(...xs), x1=Math.max(...xs); let y0=Math.min(...ys), y1=Math.max(...ys);
+  if (y0===y1) { y0 -= 1; y1 += 1; }
+  const sx = t => P.l + (x1===x0 ? 0 : (t-x0)/(x1-x0))*(W-P.l-P.r);
+  const sy = v => H-P.b - (v-y0)/(y1-y0)*(H-P.t-P.b);
+  const path = points.map((p,i)=>(i?"L":"M")+sx(p[0]).toFixed(1)+" "+sy(p[1]).toFixed(1)).join(" ");
+  const css = n => getComputedStyle(document.documentElement).getPropertyValue(n);
+  const fmtT = t => new Date(t*1000).toLocaleString([], x1-x0 > 172800
+    ? {month:"short", day:"numeric"} : {hour:"numeric", minute:"2-digit"});
+  $("chart").innerHTML = `
+    <line x1="${P.l}" x2="${W-P.r}" y1="${sy(y0)}" y2="${sy(y0)}" stroke="${css("--line")}"/>
+    <line x1="${P.l}" x2="${W-P.r}" y1="${sy(y1)}" y2="${sy(y1)}" stroke="${css("--line")}" stroke-dasharray="3 4"/>
+    <text x="${P.l-6}" y="${sy(y1)+4}" text-anchor="end" font-size="12" fill="${css("--muted")}">${fmt(Math.round(y1))}</text>
+    <text x="${P.l-6}" y="${sy(y0)+4}" text-anchor="end" font-size="12" fill="${css("--muted")}">${fmt(Math.round(y0))}</text>
+    <text x="${P.l}" y="${H-6}" font-size="12" fill="${css("--muted")}">${fmtT(x0)}</text>
+    <text x="${W-P.r}" y="${H-6}" text-anchor="end" font-size="12" fill="${css("--muted")}">${fmtT(x1)}</text>
+    <path d="${path}" fill="none" stroke="${css("--accent")}" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="${sx(xs[xs.length-1])}" cy="${sy(ys[ys.length-1])}" r="4" fill="${css("--accent")}"/>`;
+}
+
+document.addEventListener("click", ev => {
+  const b = ev.target.closest("button"); if (!b) return;
+  if (b.dataset.w) { state.win = b.dataset.w; store.set("win", state.win); }
+  else if (b.dataset.m) { state.metric = b.dataset.m; }
+  else return;
+  render();
+});
+
+const saved = store.get("win");
+if (saved && WINDOWS.some(w => w[0] === saved)) state.win = saved;
+
+fetch(DATA_URL, { cache:"no-cache" })
+  .then(r => r.json())
+  .then(h => { state.hist = h.sort((a,b)=>a.t-b.t); render(); })
+  .catch(() => { $("note").textContent = "Couldn't load the stats data. Try again in a moment."; });
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change", render);
+</script>
+</body>
+</html>
