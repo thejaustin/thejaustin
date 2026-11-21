@@ -2,7 +2,7 @@ name: Update Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "7 * * * *"
   push:
     paths:
       - "scripts/**"
@@ -18,15 +18,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update README stats
+      - name: Update README stats and cards
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/update_stats.py
-
-      - name: Generate stat cards
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/gen_cards.py
 
       - name: Commit if changed
         run: |

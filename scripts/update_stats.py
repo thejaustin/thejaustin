@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Update star and download counts in README.md from GitHub API.
 
+Also writes the stat cards and the tap-to-open gains table.
+
 Repos are discovered from the markers already in README.md, so adding a
 <!-- STARS:Name --> or <!-- STATS:Name --> marker is all it takes to track one.
 The top Downloads badge uses the same all-repos total as the stat cards.
@@ -11,7 +13,7 @@ import re
 import subprocess
 import sys
 
-from gen_cards import collect
+from gen_cards import collect, gains_table, history_delta, write_cards
 
 OWNER = "thejaustin"
 
@@ -64,7 +66,7 @@ def fmt_badge_dl(n):
     return f"{s}%2B"
 
 
-def update_readme(stars: dict, downloads: dict, total: int) -> bool:
+def update_readme(stars: dict, downloads: dict, total: int, gains: str, pdelta: dict) -> bool:
     with open("README.md", "r") as f:
         content = f.read()
 
@@ -79,6 +81,13 @@ def update_readme(stars: dict, downloads: dict, total: int) -> bool:
         content,
     )
 
+    content = re.sub(
+        r"(<!-- GAINS -->\n).*?(\n<!-- /GAINS -->)",
+        lambda m: m.group(1) + gains + m.group(2),
+        content,
+        flags=re.S,
+    )
+
     # --- Featured project stats lines ---
     # Pattern: <!-- STATS:RepoName -->**N ★ · Mk ⬇**<!-- /STATS --> · Lang
     # or:      <!-- STATS:RepoName -->**N ★**<!-- /STATS --> · Lang
@@ -86,9 +95,12 @@ def update_readme(stars: dict, downloads: dict, total: int) -> bool:
         repo = m.group(1)
         s = stars.get(repo, 0)
         d = downloads.get(repo, 0)
+        up = pdelta.get(repo, {})
+        us = f" ↑{fmt_k(up['stars'])}" if up.get("stars", 0) > 0 else ""
+        ud = f" ↑{fmt_k(up['dl'])}" if up.get("dl", 0) > 0 else ""
         if d:
-            return f"<!-- STATS:{repo} -->**{s} ★ · {fmt_k(d)} ⬇**<!-- /STATS -->"
-        return f"<!-- STATS:{repo} -->**{s} ★**<!-- /STATS -->"
+            return f"<!-- STATS:{repo} -->**{s} ★{us} · {fmt_k(d)} ⬇{ud}**<!-- /STATS -->"
+        return f"<!-- STATS:{repo} -->**{s} ★{us}**<!-- /STATS -->"
 
     content = re.sub(
         r"<!-- STATS:(\w[\w-]*) -->.*?<!-- /STATS -->",
@@ -141,6 +153,13 @@ def tracked_repos():
     return repos
 
 
+def featured_repos(downloads):
+    """(repo, shows downloads) for the projects in the Featured section, in README order."""
+    with open("README.md") as f:
+        names = re.findall(r"<!-- STATS:(\w[\w-]*) -->", f.read())
+    return [(r, r in downloads and downloads[r] > 0) for r in names]
+
+
 def main():
     stars = {}
     downloads = {}
@@ -151,8 +170,12 @@ def main():
         downloads[repo] = get_downloads(repo) if has_dl else 0
         print(f"  {repo}: {stars[repo]} ★, {downloads[repo]} ⬇")
 
-    total = collect()["dl"]
-    changed = update_readme(stars, downloads, total)
+    per = {r: {"stars": stars[r], "dl": downloads[r]} for r in stars}
+    d = collect()
+    delta, hours, wins, pwins, pdelta = history_delta(d, per)
+    write_cards(d, delta, hours)
+    gains = gains_table(wins, pwins, featured_repos(downloads))
+    changed = update_readme(stars, downloads, d["dl"], gains, pdelta)
     if changed:
         print("README.md updated with fresh stats.")
     else:

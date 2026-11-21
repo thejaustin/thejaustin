@@ -72,30 +72,89 @@ WINDOW_H = 24
 KEYS = ("stars", "dl", "followers", "repos")
 
 
-def history_delta(d):
-    """Append this run to the history file; return (changes since ~24h ago, hours)."""
+WINDOWS = [("1h", 1), ("3h", 3), ("6h", 6), ("12h", 12), ("24h", 24), ("7d", 168)]
+SLACK = 900  # cron runs can start a few minutes late
+
+
+def history_delta(d, per=None):
+    """Append this run to the history file.
+
+    `per` is {repo: {"stars": n, "dl": n}} for the tracked projects.
+    Returns (24h changes, hours covered, {window: changes}, {window: {repo: changes}}).
+    """
     try:
         with open(HISTORY) as f:
             hist = json.load(f)
     except (OSError, ValueError):
         hist = []
     now = int(time.time())
-    base = None
-    for e in hist:  # oldest first; keep the newest entry that is >= 24h old
-        if now - e["t"] >= WINDOW_H * 3600:
-            base = e
+
+    def since(hours):
+        base = None
+        for e in hist:  # oldest first; keep the newest entry that is old enough
+            if now - e["t"] >= hours * 3600 - SLACK:
+                base = e
+        return base
+
+    def diff(base):
+        return {k: d[k] - base[k] for k in KEYS if k in base}
+
+    per = per or {}
+
+    def pdiff(base):
+        old = base.get("p") or {}
+        return {r: {"stars": v["stars"] - old[r][0], "dl": v["dl"] - old[r][1]}
+                for r, v in per.items() if r in old}
+
+    wins, pwins = {}, {}
+    for label, h in WINDOWS:
+        base = since(h)
+        wins[label] = diff(base) if base else None
+        pwins[label] = pdiff(base) if base else None
+    base = since(WINDOW_H)
     if base is None and hist:
         base = hist[0]  # not enough history yet: compare with the oldest entry
     delta, hours = {}, 0
     if base:
         hours = max(1, round((now - base["t"]) / 3600))
-        delta = {k: d[k] - base[k] for k in KEYS if k in base}
-    hist.append({"t": now, **{k: d[k] for k in KEYS}})
+        delta = diff(base)
+    hist.append({"t": now, **{k: d[k] for k in KEYS},
+                 "p": {r: [v["stars"], v["dl"]] for r, v in per.items()}})
     hist = [e for e in hist if now - e["t"] <= 35 * 86400]
     os.makedirs("data", exist_ok=True)
     with open(HISTORY, "w") as f:
         json.dump(hist, f, separators=(",", ":"))
-    return delta, hours
+    base24 = base
+    pdelta = pdiff(base24) if base24 else {}
+    return delta, hours, wins, pwins, pdelta
+
+
+PROJECT_WINDOWS = ["1h", "6h", "24h", "7d"]
+
+
+def gains_table(wins, pwins=None, featured=()):
+    """Markdown table of gains per window, for the tap-to-open section in README."""
+    def cell(w, key):
+        if w is None:
+            return "–"
+        return "+" + fmt(max(0, w.get(key, 0)))
+    head = "| | " + " | ".join(l for l, _ in WINDOWS) + " |\n|---|" + "---|" * len(WINDOWS)
+    rows = [("⭐ Stars", "stars"), ("⬇ Downloads", "dl"), ("👥 Followers", "followers")]
+    body = "\n".join(
+        f"| {name} | " + " | ".join(cell(wins[l], key) for l, _ in WINDOWS) + " |" for name, key in rows)
+    out = head + "\n" + body
+    if pwins and featured:
+        def pcell(label, repo, has_dl):
+            w = (pwins.get(label) or {}).get(repo)
+            if w is None:
+                return "–"
+            s = f"+{fmt(max(0, w['stars']))} ⭐"
+            return s + (f"<br>+{fmt(max(0, w['dl']))} ⬇" if has_dl else "")
+        head = "| Project | " + " | ".join(PROJECT_WINDOWS) + " |\n|---|" + "---|" * len(PROJECT_WINDOWS)
+        lines = [f"| [{r}](https://github.com/{OWNER}/{r}) | "
+                 + " | ".join(pcell(l, r, dl) for l in PROJECT_WINDOWS) + " |" for r, dl in featured]
+        out += "\n\n" + head + "\n" + "\n".join(lines)
+    return out
 
 
 def card(d, t, delta=None, hours=0):
@@ -137,14 +196,18 @@ def card(d, t, delta=None, hours=0):
     return "\n".join(s)
 
 
+def write_cards(d, delta, hours):
+    os.makedirs("assets", exist_ok=True)
+    for name, th in THEMES.items():
+        with open(f"assets/stats-{name}.svg", "w") as f:
+            f.write(card(d, th, delta, hours) + "\n")
+    print(f"cards written: {fmt(d['stars'])} stars, {fmt(d['dl'])} downloads, {len(d['langs'])} languages")
+
+
 def main():
     d = collect()
-    delta, hours = history_delta(d)
-    os.makedirs("assets", exist_ok=True)
-    for name, t in THEMES.items():
-        with open(f"assets/stats-{name}.svg", "w") as f:
-            f.write(card(d, t, delta, hours) + "\n")
-    print(f"cards written: {fmt(d['stars'])} stars, {fmt(d['dl'])} downloads, {len(d['langs'])} languages")
+    delta, hours, *_ = history_delta(d)
+    write_cards(d, delta, hours)
 
 
 if __name__ == "__main__":
