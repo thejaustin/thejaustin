@@ -32,9 +32,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -N assets
-          git diff --quiet README.md assets || {
-            git add README.md assets
+          git add -N assets data
+          git diff --quiet README.md assets data || {
+            git add README.md assets data
             git commit -m "chore: auto-update stats"
             git pull --rebase
             git push

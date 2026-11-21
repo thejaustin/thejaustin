@@ -8,6 +8,7 @@ import json
 import os
 import subprocess
 import sys
+import time
 from collections import Counter
 
 OWNER = "thejaustin"
@@ -17,8 +18,8 @@ LANG_COLORS = {
     "Shell": "#89E051", "CMake": "#DA3434", "HTML": "#E34C26", "CSS": "#663399",
 }
 THEMES = {
-    "dark": dict(bg="#1a1b27", border="#2f3146", title="#70a5fd", text="#c0caf5", muted="#7982a9"),
-    "light": dict(bg="#ffffff", border="#d0d7de", title="#0969da", text="#1f2328", muted="#656d76"),
+    "dark": dict(bg="#1a1b27", border="#2f3146", title="#70a5fd", text="#c0caf5", muted="#7982a9", up="#3DDC84"),
+    "light": dict(bg="#ffffff", border="#d0d7de", title="#0969da", text="#1f2328", muted="#656d76", up="#1a7f37"),
 }
 
 
@@ -66,22 +67,58 @@ def collect():
                 langs=langs)
 
 
-def card(d, t):
+HISTORY = "data/stats-history.json"
+WINDOW_H = 24
+KEYS = ("stars", "dl", "followers", "repos")
+
+
+def history_delta(d):
+    """Append this run to the history file; return (changes since ~24h ago, hours)."""
+    try:
+        with open(HISTORY) as f:
+            hist = json.load(f)
+    except (OSError, ValueError):
+        hist = []
+    now = int(time.time())
+    base = None
+    for e in hist:  # oldest first; keep the newest entry that is >= 24h old
+        if now - e["t"] >= WINDOW_H * 3600:
+            base = e
+    if base is None and hist:
+        base = hist[0]  # not enough history yet: compare with the oldest entry
+    delta, hours = {}, 0
+    if base:
+        hours = max(1, round((now - base["t"]) / 3600))
+        delta = {k: d[k] - base[k] for k in KEYS if k in base}
+    hist.append({"t": now, **{k: d[k] for k in KEYS}})
+    hist = [e for e in hist if now - e["t"] <= 35 * 86400]
+    os.makedirs("data", exist_ok=True)
+    with open(HISTORY, "w") as f:
+        json.dump(hist, f, separators=(",", ":"))
+    return delta, hours
+
+
+def card(d, t, delta=None, hours=0):
+    delta = delta or {}
     total = sum(d["langs"].values()) or 1
     top = d["langs"].most_common(5)
-    rows = [("Stars earned", fmt(d["stars"])), ("Release downloads", fmt(d["dl"])),
-            ("Public repos", str(d["repos"])), ("Followers", str(d["followers"]))]
+    rows = [("Stars earned", fmt(d["stars"]), "stars"), ("Downloads", fmt(d["dl"]), "dl"),
+            ("Public repos", str(d["repos"]), "repos"), ("Followers", str(d["followers"]), "followers")]
     s = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 215" width="100%" role="img" '
          f'aria-label="GitHub stats for {OWNER}">',
          f'<rect x=".5" y=".5" width="479" height="214" rx="8" fill="{t["bg"]}" stroke="{t["border"]}"/>',
          f'<g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">',
          f'<text x="24" y="34" font-size="16" font-weight="600" fill="{t["title"]}">{OWNER} · live stats</text>']
-    for i, (k, v) in enumerate(rows):
+    for i, (k, v, key) in enumerate(rows):
         y = 64 + i * 24
         s.append(f'<text x="24" y="{y}" font-size="13" fill="{t["muted"]}">{k}</text>')
         s.append(f'<text x="196" y="{y}" font-size="13" font-weight="600" fill="{t["text"]}" text-anchor="end">{v}</text>')
+        if delta.get(key, 0) > 0:
+            s.append(f'<text x="202" y="{y}" font-size="11" font-weight="600" fill="{t["up"]}">↑{fmt(delta[key])}</text>')
+    if delta:
+        s.append(f'<text x="24" y="204" font-size="11" fill="{t["muted"]}">↑ new in the last {hours}h</text>')
     # language bar + legend on the right
-    x0, w = 236, 220
+    x0, w = 262, 194
     s.append(f'<text x="{x0}" y="64" font-size="13" fill="{t["muted"]}">Top languages</text>')
     x = x0
     s.append(f'<clipPath id="c{t["bg"][1:]}"><rect x="{x0}" y="74" width="{w}" height="8" rx="4"/></clipPath>')
@@ -102,10 +139,11 @@ def card(d, t):
 
 def main():
     d = collect()
+    delta, hours = history_delta(d)
     os.makedirs("assets", exist_ok=True)
     for name, t in THEMES.items():
         with open(f"assets/stats-{name}.svg", "w") as f:
-            f.write(card(d, t) + "\n")
+            f.write(card(d, t, delta, hours) + "\n")
     print(f"cards written: {fmt(d['stars'])} stars, {fmt(d['dl'])} downloads, {len(d['langs'])} languages")
 
 

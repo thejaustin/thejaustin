@@ -146,7 +146,7 @@ Hide the apps you never use from Android's share sheet, "Open with" and APK inst
 
 ## ☕ Support
 
-If something I built saved you time, a coffee or a sponsorship keeps the phone charged and the projects rolling. Thank you!
+Thank you for using and supporting what I build. If you'd like to help keep it going, you can sponsor me on GitHub or buy me a coffee.
 
 <div align="center">
   <a href="https://github.com/sponsors/thejaustin">
