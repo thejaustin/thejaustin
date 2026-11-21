@@ -6,10 +6,10 @@ Run by hand when the wording changes. Lines rotate with CSS only (works in
 """
 
 LINES = [
+    "Android engineer · Open-source tools",
+    "Shizuku · Dhizuku · Samsung One UI",
+    "Kotlin · Jetpack Compose · Flutter",
     "Extending what Android can do",
-    "Shizuku · One UI · Kotlin",
-    "Built on my phone, with AI help",
-    "Small tools, big punch",
 ]
 STEP = 3  # seconds per line
 
@@ -27,7 +27,7 @@ def svg(c):
             f'<text class="l" x="400" y="118" text-anchor="middle" '
             f'style="animation-delay:{i * STEP}s;opacity:{1 if i == 0 else 0}">{line}</text>'
         )
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%" role="img" aria-label="Hi, I'm Austin. Extending what Android can do.">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%" role="img" aria-label="Hi, I'm Austin. Android engineer building open-source tools.">
 <style>
 .l{{font:500 22px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:{c['accent']};animation:s {total}s infinite}}
 @keyframes s{{0%{{opacity:0}}3%,22%{{opacity:1}}25%,100%{{opacity:0}}}}

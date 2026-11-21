@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img alt="Hi, I'm Austin. Extending what Android can do." src="assets/banner-dark.svg" width="640" />
+  <img alt="Hi, I'm Austin. Android engineer building open-source tools." src="assets/banner-dark.svg" width="640" />
 </picture>
 
 <br/>
