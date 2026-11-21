@@ -1,13 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img alt="Hi, I'm Austin. Android engineer building open-source tools." src="assets/banner-dark.svg" width="640" />
-</picture>
-
-<br/>
-
 [![Followers](https://img.shields.io/github/followers/thejaustin?style=flat-square&color=36BCF7&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/thejaustin?tab=followers)
 [![Stars](https://img.shields.io/github/stars/thejaustin?affiliations=OWNER&style=flat-square&color=FFD700&labelColor=1a1b27&logo=github&label=Stars)](https://github.com/thejaustin?tab=repositories&sort=stargazers)
 [![Downloads](https://img.shields.io/badge/Downloads-247.6k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
