@@ -36,6 +36,6 @@ jobs:
           git diff --quiet README.md assets data || {
             git add README.md assets data
             git commit -m "chore: auto-update stats"
-            git pull --rebase
+            git pull --rebase --autostash
             git push
           }
