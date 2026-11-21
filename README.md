@@ -27,9 +27,11 @@ Most of it gets built and tested right on my phone, in a terminal, with AI pair-
 
 ## 🔭 What I'm Up To
 
-- ⚡ **[ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)**: the Plus API suite, plus keeping One UI and Android 16+ happy
-- 📦 **[ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)**: better app-update management
+- ⚡ **[ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)**: tightening up privacy and backups (what's collected, what syncs, what stays on-device), a proactive Doctor helper, and keeping One UI and Android 16+ happy
+- 📦 **[ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)**: a One UI-style settings and layout rework, with launcher-style grids and predictive back
 - 🎛️ **[SuperShade](https://github.com/thejaustin/SuperShade)**: my own take on the notification shade
+- 🐱 **[AutoCat](https://github.com/thejaustin/AutoCat)**: Lawnchair-based launcher with a Shizuku-powered recents screen and on-device AI, still catching up with upstream
+- 🧱 **[MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon)**: the Mini Blocks mod rebuilt as a Bedrock add-on
 
 💬 Hit a bug or have an idea? [Open an issue on ShizukuPlus](https://github.com/thejaustin/ShizukuPlus/issues). I read them all, promise.
 
