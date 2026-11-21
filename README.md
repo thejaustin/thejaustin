@@ -27,11 +27,11 @@ Most of it gets built and tested right on my phone, in a terminal, with AI pair-
 
 ## 🔭 What I'm Up To
 
-- ⚡ **[ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)**: tightening up privacy and backups (what's collected, what syncs, what stays on-device), a proactive Doctor helper, and keeping One UI and Android 16+ happy
-- 📦 **[ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)**: a One UI-style settings and layout rework, with launcher-style grids and predictive back
+- ⚡ **[ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)**: mostly cleanup right now. I'm going through what it collects, what gets backed up and what syncs, so it's easy to trust. Also still chasing One UI and Android 16+ quirks.
+- 📦 **[ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)**: giving settings and layout a One UI feel, with launcher-style grids and predictive back. Pre-release, so expect rough edges.
 - 🎛️ **[SuperShade](https://github.com/thejaustin/SuperShade)**: my own take on the notification shade
-- 🐱 **[AutoCat](https://github.com/thejaustin/AutoCat)**: Lawnchair-based launcher with a Shizuku-powered recents screen and on-device AI, still catching up with upstream
-- 🧱 **[MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon)**: the Mini Blocks mod rebuilt as a Bedrock add-on
+- 🐱 **[AutoCat](https://github.com/thejaustin/AutoCat)**: a Lawnchair fork with a Shizuku-powered recents screen. Still catching up with upstream, so it's a bit behind.
+- 🧱 **[MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon)**: bringing the Mini Blocks mod back as a Bedrock add-on, because BlockLauncher add-ons are gone :(
 
 💬 Hit a bug or have an idea? [Open an issue on ShizukuPlus](https://github.com/thejaustin/ShizukuPlus/issues). I read them all, promise.
 
