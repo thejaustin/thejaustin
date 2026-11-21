@@ -53,10 +53,17 @@ def collect():
     stars = sum(r["stargazers_count"] for r in repos)
     dl = 0
     for r in repos:
-        o = gh("api", "--paginate", f"repos/{OWNER}/{r['name']}/releases",
-               "--jq", "[.[].assets[].download_count] | add // 0")
-        if o:
-            dl += sum(int(x) for x in o.split() if x.lstrip("-").isdigit())
+        o = None
+        for _ in range(3):
+            o = gh("api", "--paginate", f"repos/{OWNER}/{r['name']}/releases",
+                   "--jq", "[.[].assets[].download_count] | add // 0")
+            if o:
+                break
+            time.sleep(2)
+        if not o:
+            # Never store a partial total: it would show up as a fake dip and a fake gain later.
+            sys.exit(f"could not read releases for {r['name']}; leaving stats unchanged")
+        dl += sum(int(x) for x in o.split() if x.lstrip("-").isdigit())
     langs = Counter()
     for r in mine:
         o = gh("api", f"repos/{OWNER}/{r['name']}/languages")
