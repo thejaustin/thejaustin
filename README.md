@@ -166,16 +166,16 @@ If something I built saved you time, a coffee keeps the phone charged and the pr
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#690](https://github.com/thejaustin/ShizukuPlus/pull/690) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-2. 💪 Opened PR [#689](https://github.com/thejaustin/ShizukuPlus/pull/689) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-3. 🗣 Commented on [#688](https://github.com/thejaustin/ShizukuPlus/issues/688#issuecomment-6976967091) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-4. 🗣 Commented on [#687](https://github.com/thejaustin/ShizukuPlus/issues/687#issuecomment-6976967711) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-5. 🗣 Commented on [#686](https://github.com/thejaustin/ShizukuPlus/issues/686#issuecomment-6976968248) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-6. 🗣 Commented on [#688](https://github.com/thejaustin/ShizukuPlus/issues/688#issuecomment-6976450483) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-7. 🗣 Commented on [#687](https://github.com/thejaustin/ShizukuPlus/issues/687#issuecomment-6952279228) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-8. 🗣 Commented on [#686](https://github.com/thejaustin/ShizukuPlus/issues/686#issuecomment-6948807512) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-9. 🔒 Closed issue [#683](https://github.com/thejaustin/ShizukuPlus/issues/683) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-10. 🔒 Closed issue [#684](https://github.com/thejaustin/ShizukuPlus/issues/684) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+1. 🎉 Merged PR [#690](https://github.com/thejaustin/ShizukuPlus/pull/690) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+2. 🎉 Merged PR [#691](https://github.com/thejaustin/ShizukuPlus/pull/691) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+3. ℹ️ Unlabeled issue [#41](https://github.com/thejaustin/ShizukuPlus/issues/41) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+4. ℹ️ Unlabeled issue [#143](https://github.com/thejaustin/ShizukuPlus/issues/143) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+5. ℹ️ Unlabeled issue [#649](https://github.com/thejaustin/ShizukuPlus/issues/649) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+6. ℹ️ Unlabeled issue [#659](https://github.com/thejaustin/ShizukuPlus/issues/659) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+7. ℹ️ Unlabeled issue [#621](https://github.com/thejaustin/ShizukuPlus/issues/621) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+8. ℹ️ Labeled issue [#41](https://github.com/thejaustin/ShizukuPlus/issues/41) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+9. ℹ️ Labeled issue [#41](https://github.com/thejaustin/ShizukuPlus/issues/41) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
+10. ℹ️ Labeled issue [#143](https://github.com/thejaustin/ShizukuPlus/issues/143) in [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
 <!--END_SECTION:activity-->
 
 <div align="center">
