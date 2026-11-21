@@ -24,7 +24,7 @@ jobs:
 
       - name: Update README stats and cards
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}  # STATS_TOKEN (read access to your repos) lets CI see draft pre-releases
         run: python3 scripts/update_stats.py
 
       - name: Commit if changed
