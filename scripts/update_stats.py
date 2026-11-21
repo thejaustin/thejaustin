@@ -173,7 +173,7 @@ def main():
     per = {r: {"stars": stars[r], "dl": downloads[r]} for r in stars}
     d = collect()
     delta, hours, wins, pwins, pdelta = history_delta(d, per)
-    write_cards(d, delta, hours)
+    write_cards(d, delta, hours, wins)
     gains = gains_table(wins, pwins, featured_repos(downloads))
     changed = update_readme(stars, downloads, d["dl"], gains, pdelta)
     if changed:

@@ -157,8 +157,18 @@ def gains_table(wins, pwins=None, featured=()):
     return out
 
 
-def card(d, t, delta=None, hours=0):
+CYCLE_WINDOWS = ["1h", "6h", "24h", "7d"]
+CYCLE_STEP = 3  # seconds each window stays on screen
+
+
+def card(d, t, delta=None, hours=0, wins=None):
     delta = delta or {}
+    # windows to rotate through; falls back to the single oldest-entry comparison
+    cyc = [(l, wins[l]) for l in CYCLE_WINDOWS if wins and wins.get(l)]
+    if not cyc and delta:
+        cyc = [(f"{hours}h", delta)]
+    n = len(cyc) or 1
+    pct = 100 / n
     total = sum(d["langs"].values()) or 1
     top = d["langs"].most_common(5)
     rows = [("Stars earned", fmt(d["stars"]), "stars"), ("Downloads", fmt(d["dl"]), "dl"),
@@ -166,16 +176,24 @@ def card(d, t, delta=None, hours=0):
     s = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 215" width="100%" role="img" '
          f'aria-label="GitHub stats for {OWNER}">',
          f'<rect x=".5" y=".5" width="479" height="214" rx="8" fill="{t["bg"]}" stroke="{t["border"]}"/>',
+         f'<style>.g{{animation:cyc{n} {n * CYCLE_STEP}s infinite}}'
+         f'@keyframes cyc{n}{{0%{{opacity:0}}2%,{pct - 2:.1f}%{{opacity:1}}{pct:.1f}%,100%{{opacity:0}}}}'
+         f'@media (prefers-reduced-motion:reduce){{.g{{animation:none}}}}</style>',
          f'<g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">',
          f'<text x="24" y="34" font-size="16" font-weight="600" fill="{t["title"]}">{OWNER} · live stats</text>']
     for i, (k, v, key) in enumerate(rows):
         y = 64 + i * 24
         s.append(f'<text x="24" y="{y}" font-size="13" fill="{t["muted"]}">{k}</text>')
         s.append(f'<text x="196" y="{y}" font-size="13" font-weight="600" fill="{t["text"]}" text-anchor="end">{v}</text>')
-        if delta.get(key, 0) > 0:
-            s.append(f'<text x="202" y="{y}" font-size="11" font-weight="600" fill="{t["up"]}">↑{fmt(delta[key])}</text>')
-    if delta:
-        s.append(f'<text x="24" y="204" font-size="11" fill="{t["muted"]}">↑ new in the last {hours}h</text>')
+        for j, (_, w) in enumerate(cyc):
+            if w.get(key, 0) > 0:
+                s.append(f'<text class="g" x="202" y="{y}" font-size="11" font-weight="600" fill="{t["up"]}" '
+                         f'style="animation-delay:{j * CYCLE_STEP}s;opacity:{1 if j == 0 else 0}">'
+                         f'↑{fmt(w[key])}</text>')
+    for j, (label, _) in enumerate(cyc):
+        s.append(f'<text class="g" x="24" y="204" font-size="11" fill="{t["muted"]}" '
+                 f'style="animation-delay:{j * CYCLE_STEP}s;opacity:{1 if j == 0 else 0}">'
+                 f'↑ new in the last {label}</text>')
     # language bar + legend on the right
     x0, w = 262, 194
     s.append(f'<text x="{x0}" y="64" font-size="13" fill="{t["muted"]}">Top languages</text>')
@@ -196,18 +214,18 @@ def card(d, t, delta=None, hours=0):
     return "\n".join(s)
 
 
-def write_cards(d, delta, hours):
+def write_cards(d, delta, hours, wins=None):
     os.makedirs("assets", exist_ok=True)
     for name, th in THEMES.items():
         with open(f"assets/stats-{name}.svg", "w") as f:
-            f.write(card(d, th, delta, hours) + "\n")
+            f.write(card(d, th, delta, hours, wins) + "\n")
     print(f"cards written: {fmt(d['stars'])} stars, {fmt(d['dl'])} downloads, {len(d['langs'])} languages")
 
 
 def main():
     d = collect()
-    delta, hours, *_ = history_delta(d)
-    write_cards(d, delta, hours)
+    delta, hours, wins, *_ = history_delta(d)
+    write_cards(d, delta, hours, wins)
 
 
 if __name__ == "__main__":
