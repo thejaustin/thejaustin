@@ -22,6 +22,8 @@ MORE_REPOS = [
     ("pearity", True),
     ("ContactsPlus", True),
     ("AutoCat", True),
+    ("AppManager", True),
+    ("MiniBlocksAddon", False),
     ("afdroid", False),
     ("maps-timeline-viewer", False),
 ]

@@ -6,7 +6,7 @@
 
 [![Followers](https://img.shields.io/github/followers/thejaustin?style=flat-square&color=36BCF7&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/thejaustin?tab=followers)
 [![Stars](https://img.shields.io/github/stars/thejaustin?affiliations=OWNER&style=flat-square&color=FFD700&labelColor=1a1b27&logo=github&label=Stars)](https://github.com/thejaustin?tab=repositories&sort=stargazers)
-[![Downloads](https://img.shields.io/badge/Downloads-244.0k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
+[![Downloads](https://img.shields.io/badge/Downloads-253.7k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=flat-square&labelColor=1a1b27&logo=buymeacoffee&logoColor=ffdd00)](https://buymeacoffee.com/thejaustin)
 
 </div>
@@ -40,7 +40,7 @@ Most of it gets built and tested right on my phone, in a terminal, with AI pair-
 ## 🚀 Featured Projects
 
 ### ⚡ [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-<!-- STATS:ShizukuPlus -->**1844 ★ · 224.2k ⬇**<!-- /STATS --> · Kotlin
+<!-- STATS:ShizukuPlus -->**1845 ★ · 232.8k ⬇**<!-- /STATS --> · Kotlin
 
 My fork of Shizuku. It pulls Root, ADB and Dhizuku into one backend, adds a Plus API on top, and smooths out One UI / Android 16+ quirks. Apps that already use Shizuku should just work.
 
@@ -86,14 +86,22 @@ Hide the apps you never use from Android's share sheet, "Open with" and APK inst
 <summary>More projects →</summary>
 <br/>
 
-| Project | Description | ⭐ | ⬇ |
-|---|---|---|---|
-| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom Android notification shade — One UI, Pixel & Material styles, Shizuku-powered | <!-- STARS:SuperShade -->39<!-- /STARS --> | <!-- DL:SuperShade -->4.7k<!-- /DL --> |
-| [Pearity](https://github.com/thejaustin/pearity) | iOS parity settings for Samsung One UI, three-state toggles | <!-- STARS:pearity -->20<!-- /STARS --> | <!-- DL:pearity -->1.2k<!-- /DL --> |
-| [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork — M3 Expressive + social shortcuts | <!-- STARS:ContactsPlus -->11<!-- /STARS --> | <!-- DL:ContactsPlus -->333<!-- /DL --> |
-| [AutoCat](https://github.com/thejaustin/AutoCat) | AI-powered app categorization launcher (Lawnchair fork) | <!-- STARS:AutoCat -->7<!-- /STARS --> | <!-- DL:AutoCat -->606<!-- /DL --> |
-| [afdroid](https://github.com/thejaustin/afdroid) | Material 3 Expressive F-Droid client | <!-- STARS:afdroid -->6<!-- /STARS --> | <!-- DL:afdroid -->—<!-- /DL --> |
-| [maps-timeline-viewer](https://github.com/thejaustin/maps-timeline-viewer) | Flutter app for Google Maps Timeline data (Material 3) | <!-- STARS:maps-timeline-viewer -->5<!-- /STARS --> | <!-- DL:maps-timeline-viewer -->—<!-- /DL --> |
+- **[SuperShade](https://github.com/thejaustin/SuperShade)**: Custom notification shade with One UI, Pixel and Material styles, Shizuku-powered  
+  <!-- STARS:SuperShade -->39<!-- /STARS --> ★ · <!-- DL:SuperShade -->4.8k<!-- /DL --> ⬇
+- **[pearity](https://github.com/thejaustin/pearity)**: iOS-style three-state toggles for Samsung One UI settings  
+  <!-- STARS:pearity -->20<!-- /STARS --> ★ · <!-- DL:pearity -->1.2k<!-- /DL --> ⬇
+- **[AppManager](https://github.com/thejaustin/AppManager)**: Package manager fork where I added app archiving and easier wireless debugging setup  
+  <!-- STARS:AppManager -->34<!-- /STARS --> ★ · <!-- DL:AppManager -->922<!-- /DL --> ⬇
+- **[ContactsPlus](https://github.com/thejaustin/ContactsPlus)**: Fossify Contacts fork with Material 3 Expressive and social shortcuts  
+  <!-- STARS:ContactsPlus -->11<!-- /STARS --> ★ · <!-- DL:ContactsPlus -->338<!-- /DL --> ⬇
+- **[AutoCat](https://github.com/thejaustin/AutoCat)**: Lawnchair fork with AI app categorization  
+  <!-- STARS:AutoCat -->7<!-- /STARS --> ★ · <!-- DL:AutoCat -->606<!-- /DL --> ⬇
+- **[MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon)**: The Mini Blocks mod as a Bedrock add-on  
+  <!-- STARS:MiniBlocksAddon -->0<!-- /STARS --> ★ · <!-- DL:MiniBlocksAddon -->—<!-- /DL --> ⬇
+- **[afdroid](https://github.com/thejaustin/afdroid)**: Material 3 Expressive F-Droid client  
+  <!-- STARS:afdroid -->6<!-- /STARS --> ★ · <!-- DL:afdroid -->—<!-- /DL --> ⬇
+- **[maps-timeline-viewer](https://github.com/thejaustin/maps-timeline-viewer)**: Flutter viewer for Google Maps Timeline data  
+  <!-- STARS:maps-timeline-viewer -->5<!-- /STARS --> ★ · <!-- DL:maps-timeline-viewer -->—<!-- /DL --> ⬇
 
 </details>
 
@@ -103,13 +111,13 @@ Hide the apps you never use from Android's share sheet, "Open with" and APK inst
 
 <div align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
