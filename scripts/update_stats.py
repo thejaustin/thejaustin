@@ -1,33 +1,19 @@
 #!/usr/bin/env python3
-"""Update star and download counts in README.md from GitHub API."""
+"""Update star and download counts in README.md from GitHub API.
+
+Repos are discovered from the markers already in README.md, so adding a
+<!-- STARS:Name --> or <!-- STATS:Name --> marker is all it takes to track one.
+The top Downloads badge uses the same all-repos total as the stat cards.
+"""
 
 import json
 import re
 import subprocess
 import sys
 
+from gen_cards import collect
+
 OWNER = "thejaustin"
-
-FEATURED_REPOS = [
-    ("ShizukuPlus", True),
-    ("hexodus", True),
-    ("ObtainiumPlus", True),
-    ("ShizukuPlus-API", False),
-    ("termux-ai-app", True),
-    ("sharemove", True),
-]
-
-MORE_REPOS = [
-    ("SuperShade", True),
-    ("pearity", True),
-    ("ContactsPlus", True),
-    ("AutoCat", True),
-    ("AppManager", True),
-    ("MiniBlocksAddon", False),
-    ("afdroid", False),
-    ("maps-timeline-viewer", False),
-]
-
 
 def gh(*args):
     result = subprocess.run(["gh"] + list(args), capture_output=True, text=True)
@@ -78,13 +64,13 @@ def fmt_badge_dl(n):
     return f"{s}%2B"
 
 
-def update_readme(stars: dict, downloads: dict) -> bool:
+def update_readme(stars: dict, downloads: dict, total: int) -> bool:
     with open("README.md", "r") as f:
         content = f.read()
 
     original = content
 
-    total_dl = sum(downloads.values())
+    total_dl = total
 
     # --- Top summary badges ---
     content = re.sub(
@@ -143,18 +129,30 @@ def update_readme(stars: dict, downloads: dict) -> bool:
     return True
 
 
+def tracked_repos():
+    """Repo names from the markers in README.md, plus whether each shows downloads."""
+    with open("README.md") as f:
+        content = f.read()
+    repos = {}
+    for kind, repo in re.findall(r"<!-- (STATS|STARS|DL):(\w[\w-]*) -->", content):
+        repos.setdefault(repo, False)
+        if kind in ("DL", "STATS"):
+            repos[repo] = True
+    return repos
+
+
 def main():
-    all_repos = FEATURED_REPOS + MORE_REPOS
     stars = {}
     downloads = {}
 
-    for repo, has_dl in all_repos:
+    for repo, has_dl in tracked_repos().items():
         print(f"Fetching {repo}...")
         stars[repo] = get_stars(repo)
         downloads[repo] = get_downloads(repo) if has_dl else 0
         print(f"  {repo}: {stars[repo]} ★, {downloads[repo]} ⬇")
 
-    changed = update_readme(stars, downloads)
+    total = collect()["dl"]
+    changed = update_readme(stars, downloads, total)
     if changed:
         print("README.md updated with fresh stats.")
     else:

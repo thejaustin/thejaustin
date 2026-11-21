@@ -2,7 +2,11 @@ name: Update Stats
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 */6 * * *"
+  push:
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-stats.yml"
   workflow_dispatch:
 
 permissions:
@@ -32,5 +36,6 @@ jobs:
           git diff --quiet README.md assets || {
             git add README.md assets
             git commit -m "chore: auto-update stats"
+            git pull --rebase
             git push
           }

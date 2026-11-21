@@ -2,7 +2,7 @@
 
 [![Followers](https://img.shields.io/github/followers/thejaustin?style=flat-square&color=36BCF7&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/thejaustin?tab=followers)
 [![Stars](https://img.shields.io/github/stars/thejaustin?affiliations=OWNER&style=flat-square&color=FFD700&labelColor=1a1b27&logo=github&label=Stars)](https://github.com/thejaustin?tab=repositories&sort=stargazers)
-[![Downloads](https://img.shields.io/badge/Downloads-247.6k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
+[![Downloads](https://img.shields.io/badge/Downloads-255.5k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=flat-square&labelColor=1a1b27&logo=buymeacoffee&logoColor=ffdd00)](https://buymeacoffee.com/thejaustin)
 
 </div>
@@ -36,7 +36,7 @@ Most of it gets built and tested right on my phone, in a terminal, with AI pair-
 ## 🚀 Featured Projects
 
 ### ⚡ [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
-<!-- STATS:ShizukuPlus -->**1849 ★ · 226.7k ⬇**<!-- /STATS --> · Kotlin
+<!-- STATS:ShizukuPlus -->**1852 ★ · 234.1k ⬇**<!-- /STATS --> · Kotlin
 
 My fork of Shizuku. It pulls Root, ADB and Dhizuku into one backend, adds a Plus API on top, and smooths out One UI / Android 16+ quirks. Apps that already use Shizuku should just work.
 
