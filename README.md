@@ -8,7 +8,7 @@
 
 [![Followers](https://img.shields.io/github/followers/thejaustin?style=flat-square&color=36BCF7&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/thejaustin?tab=followers)
 [![Stars](https://img.shields.io/github/stars/thejaustin?affiliations=OWNER&style=flat-square&color=FFD700&labelColor=1a1b27&logo=github&label=Stars)](https://github.com/thejaustin?tab=repositories&sort=stargazers)
-[![Downloads](https://img.shields.io/badge/Downloads-248.6k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
+[![Downloads](https://img.shields.io/badge/Downloads-248.7k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&labelColor=1a1b27&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/thejaustin)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=flat-square&labelColor=1a1b27&logo=buymeacoffee&logoColor=ffdd00)](https://buymeacoffee.com/thejaustin)
 
@@ -51,17 +51,17 @@ Found a bug or have an idea? [Open an issue on ShizukuPlus](https://github.com/t
 ## Featured Projects
 
 **[ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)**  
-<!-- STATS:ShizukuPlus -->**1855 ★ · 227.2k ⬇**<!-- /STATS --> · Kotlin  
+<!-- STATS:ShizukuPlus -->**1856 ★ ↑1 · 227.3k ⬇ ↑101**<!-- /STATS --> · Kotlin  
 A fork of Shizuku that brings Root, ADB and Dhizuku into one backend and adds a Plus API.  
 Apps that already use Shizuku keep working, with fixes for One UI and Android 16+.
 
 **[Hexodus](https://github.com/thejaustin/hexodus)**  
-<!-- STATS:hexodus -->**69 ★ · 3.1k ⬇**<!-- /STATS --> · Kotlin  
+<!-- STATS:hexodus -->**69 ★ · 3.1k ⬇ ↑1**<!-- /STATS --> · Kotlin  
 Theming for Samsung One UI 8 (Android 16+), powered by Shizuku.  
 No root required.
 
 **[ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus)**  
-<!-- STATS:ObtainiumPlus -->**139 ★ · 7.0k ⬇ ↑2**<!-- /STATS --> · Dart / Flutter  
+<!-- STATS:ObtainiumPlus -->**139 ★ · 7.0k ⬇ ↑4**<!-- /STATS --> · Dart / Flutter  
 An AI-assisted fork of Obtainium.  
 Keeps apps updated straight from their source, with extra features.
 
@@ -84,7 +84,7 @@ Works with Shizuku or root. No ads, no analytics.
 
 **[SuperShade](https://github.com/thejaustin/SuperShade)**  
 Custom notification shade with One UI, Pixel and Material styles  
-<!-- STARS:SuperShade -->39<!-- /STARS --> ★ · <!-- DL:SuperShade -->4.8k<!-- /DL --> ⬇
+<!-- STARS:SuperShade -->39<!-- /STARS --> ★ · <!-- DL:SuperShade -->4.9k<!-- /DL --> ⬇
 
 **[pearity](https://github.com/thejaustin/pearity)**  
 iOS-style three-state toggles for Samsung One UI settings  
@@ -153,18 +153,18 @@ Flutter viewer for Google Maps Timeline data
 <!-- GAINS -->
 | | 1h | 3h | 6h | 12h | 24h | 7d |
 |---|---|---|---|---|---|---|
-| ⭐ Stars | – | – | – | – | – | – |
-| ⬇ Downloads | – | – | – | – | – | – |
-| 👥 Followers | – | – | – | – | – | – |
+| ⭐ Stars | +1 | – | – | – | – | – |
+| ⬇ Downloads | +107 | – | – | – | – | – |
+| 👥 Followers | +0 | – | – | – | – | – |
 
 | Project | 1h | 6h | 24h | 7d |
 |---|---|---|---|---|
-| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | – | – | – | – |
-| [hexodus](https://github.com/thejaustin/hexodus) | – | – | – | – |
-| [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | – | – | – | – |
-| [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | – | – | – | – |
-| [termux-ai-app](https://github.com/thejaustin/termux-ai-app) | – | – | – | – |
-| [sharemove](https://github.com/thejaustin/sharemove) | – | – | – | – |
+| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | +1 ⭐<br>+101 ⬇ | – | – | – |
+| [hexodus](https://github.com/thejaustin/hexodus) | +0 ⭐<br>+1 ⬇ | – | – | – |
+| [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | +0 ⭐<br>+2 ⬇ | – | – | – |
+| [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | +0 ⭐ | – | – | – |
+| [termux-ai-app](https://github.com/thejaustin/termux-ai-app) | +0 ⭐<br>+0 ⬇ | – | – | – |
+| [sharemove](https://github.com/thejaustin/sharemove) | +0 ⭐<br>+0 ⬇ | – | – | – |
 <!-- /GAINS -->
 
 </details>
