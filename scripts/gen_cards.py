@@ -52,18 +52,29 @@ def collect():
     mine = [r for r in repos if not r["fork"]]
     stars = sum(r["stargazers_count"] for r in repos)
     dl = 0
+    try:
+        extra = json.load(open(DRAFTS))
+    except (OSError, ValueError):
+        extra = {}
     for r in repos:
         o = None
         for _ in range(3):
             o = gh("api", "--paginate", f"repos/{OWNER}/{r['name']}/releases",
-                   "--jq", "[.[] | select((.draft | not) or .prerelease) | .assets[].download_count] | add // 0")
-            if o:
+                   "--jq", '.[] | select((.draft | not) or .prerelease) | "\(.tag_name)\t\([.assets[].download_count] | add // 0)"')
+            if o is not None:
                 break
             time.sleep(2)
-        if not o:
+        if o is None:
             # Never store a partial total: it would show up as a fake dip and a fake gain later.
             sys.exit(f"could not read releases for {r['name']}; leaving stats unchanged")
-        dl += sum(int(x) for x in o.split() if x.lstrip("-").isdigit())
+        seen = set()
+        for line in o.splitlines():
+            tag, _, n = line.rpartition("\t")
+            seen.add(tag)
+            dl += int(n) if n.isdigit() else 0
+        # Draft pre-releases are invisible to CI; scripts/sync_drafts.py records them from a local login.
+        # Skip any that have since been published, they are counted above.
+        dl += sum(n for t, n in extra.get(r["name"], {}).items() if t not in seen)
     langs = Counter()
     for r in mine:
         o = gh("api", f"repos/{OWNER}/{r['name']}/languages")
@@ -75,6 +86,7 @@ def collect():
 
 
 HISTORY = "data/stats-history.json"
+DRAFTS = "data/draft-downloads.json"
 WINDOW_H = 24
 KEYS = ("stars", "dl", "followers", "repos")
 
