@@ -51,7 +51,7 @@ Found a bug or have an idea? [Open an issue on ShizukuPlus](https://github.com/t
 ## Featured Projects
 
 **[ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)**  
-<!-- STATS:ShizukuPlus -->**1862 ★ ↑7 · 228.0k ⬇ ↑730**<!-- /STATS --> · Kotlin  
+<!-- STATS:ShizukuPlus -->**1862 ★ ↑7 · 235.1k ⬇ ↑7.8k**<!-- /STATS --> · Kotlin  
 A fork of Shizuku that brings Root, ADB and Dhizuku into one backend and adds a Plus API.  
 Apps that already use Shizuku keep working, with fixes for One UI and Android 16+.
 
@@ -159,7 +159,7 @@ Flutter viewer for Google Maps Timeline data
 
 | Project | 1h | 6h | 24h | 7d |
 |---|---|---|---|---|
-| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | +5 ⭐<br>+506 ⬇ | +5 ⭐<br>+506 ⬇ | – | – |
+| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | +5 ⭐<br>+7.6k ⬇ | +5 ⭐<br>+7.6k ⬇ | – | – |
 | [hexodus](https://github.com/thejaustin/hexodus) | +0 ⭐<br>+0 ⬇ | +0 ⭐<br>+0 ⬇ | – | – |
 | [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | +0 ⭐<br>+11 ⬇ | +0 ⭐<br>+11 ⬇ | – | – |
 | [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | +1 ⭐ | +1 ⭐ | – | – |
