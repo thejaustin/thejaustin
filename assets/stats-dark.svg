@@ -1,22 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 215" width="100%" role="img" aria-label="GitHub stats for thejaustin">
 <rect x=".5" y=".5" width="479" height="214" rx="8" fill="#1a1b27" stroke="#2f3146"/>
-<style>.g{animation:cyc2 6s infinite}@keyframes cyc2{0%{opacity:0}2%,48.0%{opacity:1}50.0%,100%{opacity:0}}@media (prefers-reduced-motion:reduce){.g{animation:none}}</style>
+<style>.g{animation:cyc3 9s infinite}@keyframes cyc3{0%{opacity:0}2%,31.3%{opacity:1}33.3%,100%{opacity:0}}@media (prefers-reduced-motion:reduce){.g{animation:none}}</style>
 <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <text x="24" y="34" font-size="16" font-weight="600" fill="#70a5fd">thejaustin · live stats</text>
 <text x="24" y="64" font-size="13" fill="#7982a9">Stars earned</text>
 <text x="196" y="64" font-size="13" font-weight="600" fill="#c0caf5" text-anchor="end">2.5k</text>
-<text class="g" x="202" y="64" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:0s;opacity:1">↑7</text>
-<text class="g" x="202" y="64" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:3s;opacity:0">↑7</text>
+<text class="g" x="202" y="64" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:0s;opacity:1">↑6</text>
+<text class="g" x="202" y="64" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:3s;opacity:0">↑6</text>
+<text class="g" x="202" y="64" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:6s;opacity:0">↑22</text>
 <text x="24" y="88" font-size="13" fill="#7982a9">Downloads</text>
-<text x="196" y="88" font-size="13" font-weight="600" fill="#c0caf5" text-anchor="end">257.2k</text>
-<text class="g" x="202" y="88" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:0s;opacity:1">↑703</text>
-<text class="g" x="202" y="88" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:3s;opacity:0">↑703</text>
+<text x="196" y="88" font-size="13" font-weight="600" fill="#c0caf5" text-anchor="end">257.7k</text>
+<text class="g" x="202" y="88" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:0s;opacity:1">↑487</text>
+<text class="g" x="202" y="88" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:3s;opacity:0">↑487</text>
+<text class="g" x="202" y="88" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:6s;opacity:0">↑9.1k</text>
 <text x="24" y="112" font-size="13" fill="#7982a9">Public repos</text>
 <text x="196" y="112" font-size="13" font-weight="600" fill="#c0caf5" text-anchor="end">40</text>
 <text x="24" y="136" font-size="13" fill="#7982a9">Followers</text>
-<text x="196" y="136" font-size="13" font-weight="600" fill="#c0caf5" text-anchor="end">245</text>
+<text x="196" y="136" font-size="13" font-weight="600" fill="#c0caf5" text-anchor="end">246</text>
+<text class="g" x="202" y="136" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:0s;opacity:1">↑1</text>
+<text class="g" x="202" y="136" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:3s;opacity:0">↑1</text>
+<text class="g" x="202" y="136" font-size="11" font-weight="600" fill="#3DDC84" style="animation-delay:6s;opacity:0">↑1</text>
 <text class="g" x="24" y="204" font-size="11" fill="#7982a9" style="animation-delay:0s;opacity:1">↑ new in the last 1h</text>
 <text class="g" x="24" y="204" font-size="11" fill="#7982a9" style="animation-delay:3s;opacity:0">↑ new in the last 6h</text>
+<text class="g" x="24" y="204" font-size="11" fill="#7982a9" style="animation-delay:6s;opacity:0">↑ new in the last 24h</text>
 <text x="262" y="64" font-size="13" fill="#7982a9">Top languages</text>
 <clipPath id="c1a1b27"><rect x="262" y="74" width="194" height="8" rx="4"/></clipPath>
 <g clip-path="url(#c1a1b27)">
