@@ -39,7 +39,7 @@ Counts are release downloads and refresh hourly.
 | | 1h | 3h | 6h | 12h | 24h | 7d |
 |---|---|---|---|---|---|---|
 | Stars | +6 | +6 | +6 | – | – | – |
-| Downloads | +7.6k | +7.6k | +7.6k | – | – | – |
+| Downloads | +7.7k | +7.7k | +7.7k | – | – | – |
 | Followers | +0 | +0 | +0 | – | – | – |
 <!-- /GAINS -->
 
