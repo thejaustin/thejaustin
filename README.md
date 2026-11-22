@@ -8,7 +8,7 @@
 
 [![Followers](https://img.shields.io/github/followers/thejaustin?style=flat-square&color=36BCF7&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/thejaustin?tab=followers)
 [![Stars](https://img.shields.io/github/stars/thejaustin?affiliations=OWNER&style=flat-square&color=FFD700&labelColor=1a1b27&logo=github&label=Stars)](https://github.com/thejaustin?tab=repositories&sort=stargazers)
-[![Downloads](https://img.shields.io/badge/Downloads-249.4k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
+[![Downloads](https://img.shields.io/badge/Downloads-256.5k%2B-3DDC84?style=flat-square&labelColor=1a1b27&logo=android)](https://github.com/thejaustin?tab=repositories)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&labelColor=1a1b27&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/thejaustin)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=flat-square&labelColor=1a1b27&logo=buymeacoffee&logoColor=ffdd00)](https://buymeacoffee.com/thejaustin)
 
@@ -51,7 +51,7 @@ Found a bug or have an idea? [Open an issue on ShizukuPlus](https://github.com/t
 ## Featured Projects
 
 **[ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)**  
-<!-- STATS:ShizukuPlus -->**1862 ★ ↑7 · 228.0k ⬇ ↑729**<!-- /STATS --> · Kotlin  
+<!-- STATS:ShizukuPlus -->**1862 ★ ↑7 · 228.0k ⬇ ↑730**<!-- /STATS --> · Kotlin  
 A fork of Shizuku that brings Root, ADB and Dhizuku into one backend and adds a Plus API.  
 Apps that already use Shizuku keep working, with fixes for One UI and Android 16+.
 
@@ -154,12 +154,12 @@ Flutter viewer for Google Maps Timeline data
 | | 1h | 3h | 6h | 12h | 24h | 7d |
 |---|---|---|---|---|---|---|
 | ⭐ Stars | +6 | +6 | +6 | – | – | – |
-| ⬇ Downloads | +557 | +557 | +557 | – | – | – |
+| ⬇ Downloads | +7.6k | +7.6k | +7.6k | – | – | – |
 | 👥 Followers | +0 | +0 | +0 | – | – | – |
 
 | Project | 1h | 6h | 24h | 7d |
 |---|---|---|---|---|
-| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | +5 ⭐<br>+505 ⬇ | +5 ⭐<br>+505 ⬇ | – | – |
+| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | +5 ⭐<br>+506 ⬇ | +5 ⭐<br>+506 ⬇ | – | – |
 | [hexodus](https://github.com/thejaustin/hexodus) | +0 ⭐<br>+0 ⬇ | +0 ⭐<br>+0 ⬇ | – | – |
 | [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | +0 ⭐<br>+11 ⬇ | +0 ⭐<br>+11 ⬇ | – | – |
 | [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | +1 ⭐ | +1 ⭐ | – | – |
