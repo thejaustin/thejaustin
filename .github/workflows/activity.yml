@@ -2,21 +2,31 @@ name: Recent Activity
 
 on:
   schedule:
-    - cron: "0 * * * *" 
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-stats
+  cancel-in-progress: false
+
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update recent activity
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: JamesGeorge007/github-activity-readme@master
+      - uses: actions/checkout@v4
+      - run: python3 scripts/activity.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "docs: update recent activity"
-          MAX_LINES: 10
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update recent activity"
+          git pull --rebase
+          git push

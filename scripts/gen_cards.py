@@ -173,7 +173,7 @@ def gains_table(wins, pwins=None, featured=()):
             return "–"
         return "+" + fmt(max(0, w.get(key, 0)))
     head = "| | " + " | ".join(l for l, _ in WINDOWS) + " |\n|---|" + "---|" * len(WINDOWS)
-    rows = [("⭐ Stars", "stars"), ("⬇ Downloads", "dl"), ("👥 Followers", "followers")]
+    rows = [("Stars", "stars"), ("Downloads", "dl"), ("Followers", "followers")]
     body = "\n".join(
         f"| {name} | " + " | ".join(cell(wins[l], key) for l, _ in WINDOWS) + " |" for name, key in rows)
     out = head + "\n" + body
@@ -182,9 +182,9 @@ def gains_table(wins, pwins=None, featured=()):
             w = (pwins.get(label) or {}).get(repo)
             if w is None:
                 return "–"
-            s = f"+{fmt(max(0, w['stars']))} ⭐"
-            return s + (f"<br>+{fmt(max(0, w['dl']))} ⬇" if has_dl else "")
-        head = "| Project | " + " | ".join(PROJECT_WINDOWS) + " |\n|---|" + "---|" * len(PROJECT_WINDOWS)
+            s = f"+{fmt(max(0, w['stars']))}"
+            return s + (f" / +{fmt(max(0, w['dl']))}" if has_dl else "")
+        head = "| Project (stars / downloads) | " + " | ".join(PROJECT_WINDOWS) + " |\n|---|" + "---|" * len(PROJECT_WINDOWS)
         lines = [f"| [{r}](https://github.com/{OWNER}/{r}) | "
                  + " | ".join(pcell(l, r, dl) for l in PROJECT_WINDOWS) + " |" for r, dl in featured]
         out += "\n\n" + head + "\n" + "\n".join(lines)

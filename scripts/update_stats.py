@@ -81,18 +81,18 @@ def update_readme(stars: dict, downloads: dict, total: int, gains: str, pdelta: 
     )
 
     # --- Featured project stats lines ---
-    # Pattern: <!-- STATS:RepoName -->**N ★ · Mk ⬇**<!-- /STATS --> · Lang
-    # or:      <!-- STATS:RepoName -->**N ★**<!-- /STATS --> · Lang
+    # Pattern: <!-- STATS:RepoName -->N stars · Mk downloads<!-- /STATS --> · Lang
+    # or:      <!-- STATS:RepoName -->N stars<!-- /STATS --> · Lang
     def replace_stats_marker(m):
         repo = m.group(1)
         s = stars.get(repo, 0)
         d = downloads.get(repo, 0)
         up = pdelta.get(repo, {})
-        us = f" ↑{fmt_k(up['stars'])}" if up.get("stars", 0) > 0 else ""
-        ud = f" ↑{fmt_k(up['dl'])}" if up.get("dl", 0) > 0 else ""
+        us = f" (+{fmt_k(up['stars'])})" if up.get("stars", 0) > 0 else ""
+        ud = f" (+{fmt_k(up['dl'])})" if up.get("dl", 0) > 0 else ""
         if d:
-            return f"<!-- STATS:{repo} -->**{s} ★{us} · {fmt_k(d)} ⬇{ud}**<!-- /STATS -->"
-        return f"<!-- STATS:{repo} -->**{s} ★{us}**<!-- /STATS -->"
+            return f"<!-- STATS:{repo} -->{s} stars{us} · {fmt_k(d)} downloads{ud}<!-- /STATS -->"
+        return f"<!-- STATS:{repo} -->{s} stars{us}<!-- /STATS -->"
 
     content = re.sub(
         r"<!-- STATS:(\w[\w-]*) -->.*?<!-- /STATS -->",
@@ -101,7 +101,7 @@ def update_readme(stars: dict, downloads: dict, total: int, gains: str, pdelta: 
     )
 
     # --- More projects table rows ---
-    # Pattern: <!-- STARS:RepoName -->⭐ N<!-- /STARS --> and <!-- DL:RepoName -->⬇ Mk<!-- /DL -->
+    # Pattern: <!-- STARS:RepoName -->N<!-- /STARS --> and <!-- DL:RepoName -->Mk<!-- /DL -->
     def replace_stars_cell(m):
         repo = m.group(1)
         s = stars.get(repo, 0)
@@ -160,7 +160,7 @@ def main():
         print(f"Fetching {repo}...")
         stars[repo] = get_stars(repo)
         downloads[repo] = get_downloads(repo) if has_dl else 0
-        print(f"  {repo}: {stars[repo]} ★, {downloads[repo]} ⬇")
+        print(f"  {repo}: {stars[repo]} stars, {downloads[repo]} downloads")
 
     per = {r: {"stars": stars[r], "dl": downloads[r]} for r in stars}
     d = collect()
