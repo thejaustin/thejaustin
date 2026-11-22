@@ -14,11 +14,11 @@ I develop on my phone with AI coding assistants and review everything before it 
 
 | Project | Description | Language | Stars | Downloads |
 |---|---|---|--:|--:|
-| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | Shizuku fork combining Root, ADB and Dhizuku behind one backend, plus an extended API | Kotlin | <!-- STARS:ShizukuPlus -->1862<!-- /STARS --> | <!-- DL:ShizukuPlus -->235.1k<!-- /DL --> |
-| [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | Fork of Obtainium with One UI styling and extra features | Dart | <!-- STARS:ObtainiumPlus -->140<!-- /STARS --> | <!-- DL:ObtainiumPlus -->7.0k<!-- /DL --> |
+| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | Shizuku fork combining Root, ADB and Dhizuku behind one backend, plus an extended API | Kotlin | <!-- STARS:ShizukuPlus -->1867<!-- /STARS --> | <!-- DL:ShizukuPlus -->235.7k<!-- /DL --> |
+| [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | Fork of Obtainium with One UI styling and extra features | Dart | <!-- STARS:ObtainiumPlus -->141<!-- /STARS --> | <!-- DL:ObtainiumPlus -->7.0k<!-- /DL --> |
 | [Hexodus](https://github.com/thejaustin/hexodus) | Theming for Samsung One UI 8 on Shizuku, no root | Kotlin | <!-- STARS:hexodus -->69<!-- /STARS --> | <!-- DL:hexodus -->3.1k<!-- /DL --> |
 | [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | API library and client bindings for ShizukuPlus | Java | <!-- STARS:ShizukuPlus-API -->111<!-- /STARS --> | <!-- DL:ShizukuPlus-API -->—<!-- /DL --> |
-| [ShaRemove](https://github.com/thejaustin/sharemove) | Hide unused apps from the share sheet, Open with and the installer | Kotlin | <!-- STARS:sharemove -->51<!-- /STARS --> | <!-- DL:sharemove -->1.5k<!-- /DL --> |
+| [ShaRemove](https://github.com/thejaustin/sharemove) | Hide unused apps from the share sheet, Open with and the installer | Kotlin | <!-- STARS:sharemove -->52<!-- /STARS --> | <!-- DL:sharemove -->1.5k<!-- /DL --> |
 | [termux-ai-app](https://github.com/thejaustin/termux-ai-app) | Termux-based terminal app with Claude Code built in | Java | <!-- STARS:termux-ai-app -->64<!-- /STARS --> | <!-- DL:termux-ai-app -->1.5k<!-- /DL --> |
 | [SuperShade](https://github.com/thejaustin/SuperShade) | Custom notification shade with One UI, Pixel and Material styles | Kotlin | <!-- STARS:SuperShade -->39<!-- /STARS --> | <!-- DL:SuperShade -->4.9k<!-- /DL --> |
 | [pearity](https://github.com/thejaustin/pearity) | Three-state toggles for Samsung One UI settings | Kotlin | <!-- STARS:pearity -->20<!-- /STARS --> | <!-- DL:pearity -->1.2k<!-- /DL --> |
@@ -38,9 +38,9 @@ Counts are release downloads and refresh hourly.
 <!-- GAINS -->
 | | 1h | 3h | 6h | 12h | 24h | 7d |
 |---|---|---|---|---|---|---|
-| Stars | +6 | +6 | +6 | – | – | – |
-| Downloads | +7.7k | +7.7k | +7.7k | – | – | – |
-| Followers | +0 | +0 | +0 | – | – | – |
+| Stars | +7 | +7 | +7 | +13 | – | – |
+| Downloads | +703 | +703 | +703 | +8.4k | – | – |
+| Followers | +0 | +0 | +0 | +0 | – | – |
 <!-- /GAINS -->
 
 </details>
