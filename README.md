@@ -45,6 +45,13 @@ Counts are release downloads and refresh hourly.
 
 </details>
 
+## Support
+
+If my projects are useful to you and you would like to help keep them going:
+
+- [Sponsor on GitHub](https://github.com/sponsors/thejaustin)
+- [Buy me a coffee](https://buymeacoffee.com/thejaustin)
+
 ## Recent activity
 
 <!--START_SECTION:activity-->
