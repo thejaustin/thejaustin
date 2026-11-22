@@ -13,7 +13,7 @@ import re
 import subprocess
 import sys
 
-from gen_cards import collect, gains_table, history_delta, write_cards
+from gen_cards import repo_downloads, collect, gains_table, history_delta, write_cards
 
 OWNER = "thejaustin"
 
@@ -31,15 +31,7 @@ def get_stars(repo):
 
 
 def get_downloads(repo):
-    out = gh(
-        "api", "--paginate",
-        f"repos/{OWNER}/{repo}/releases",
-        "--jq", "[.[].assets[].download_count] | add // 0",
-    )
-    if not out:
-        return 0
-    total = sum(int(line) for line in out.splitlines() if line.strip().lstrip("-").isdigit())
-    return max(0, total)
+    return repo_downloads(repo) or 0
 
 
 def fmt_k(n):

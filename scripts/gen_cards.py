@@ -35,6 +35,37 @@ def fmt(n):
     return f"{n / 1000:.1f}k".replace(".0k", "k") if n >= 1000 else str(n)
 
 
+def load_drafts():
+    try:
+        return json.load(open(DRAFTS))
+    except (OSError, ValueError):
+        return {}
+
+
+def repo_downloads(name, extra=None):
+    """Release downloads for one repo, or None if the lookup failed.
+
+    Counts published releases and pre-releases. Draft pre-releases are invisible to CI, so they come
+    from data/draft-downloads.json (scripts/sync_drafts.py) unless their tag has since been published.
+    """
+    extra = load_drafts() if extra is None else extra
+    o = None
+    for _ in range(3):
+        o = gh("api", "--paginate", f"repos/{OWNER}/{name}/releases",
+               "--jq", '.[] | select((.draft | not) or .prerelease) | "\\(.tag_name)\\t\\([.assets[].download_count] | add // 0)"')
+        if o is not None:
+            break
+        time.sleep(2)
+    if o is None:
+        return None
+    seen, total = set(), 0
+    for line in o.splitlines():
+        tag, _, n = line.rpartition("\t")
+        seen.add(tag)
+        total += int(n) if n.isdigit() else 0
+    return total + sum(n for t, n in extra.get(name, {}).items() if t not in seen)
+
+
 def collect():
     out = gh("api", "--paginate", f"users/{OWNER}/repos?per_page=100&type=owner")
     if not out:
@@ -51,30 +82,14 @@ def collect():
     user = json.loads(gh("api", f"users/{OWNER}") or "{}")
     mine = [r for r in repos if not r["fork"]]
     stars = sum(r["stargazers_count"] for r in repos)
+    extra = load_drafts()
     dl = 0
-    try:
-        extra = json.load(open(DRAFTS))
-    except (OSError, ValueError):
-        extra = {}
     for r in repos:
-        o = None
-        for _ in range(3):
-            o = gh("api", "--paginate", f"repos/{OWNER}/{r['name']}/releases",
-                   "--jq", '.[] | select((.draft | not) or .prerelease) | "\(.tag_name)\t\([.assets[].download_count] | add // 0)"')
-            if o is not None:
-                break
-            time.sleep(2)
-        if o is None:
+        n = repo_downloads(r["name"], extra)
+        if n is None:
             # Never store a partial total: it would show up as a fake dip and a fake gain later.
             sys.exit(f"could not read releases for {r['name']}; leaving stats unchanged")
-        seen = set()
-        for line in o.splitlines():
-            tag, _, n = line.rpartition("\t")
-            seen.add(tag)
-            dl += int(n) if n.isdigit() else 0
-        # Draft pre-releases are invisible to CI; scripts/sync_drafts.py records them from a local login.
-        # Skip any that have since been published, they are counted above.
-        dl += sum(n for t, n in extra.get(r["name"], {}).items() if t not in seen)
+        dl += n
     langs = Counter()
     for r in mine:
         o = gh("api", f"repos/{OWNER}/{r['name']}/languages")
