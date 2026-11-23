@@ -14,7 +14,7 @@ I develop on my phone with AI coding assistants and review everything before it 
 
 | Project | Description | Language | Stars | Downloads |
 |---|---|---|--:|--:|
-| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | Shizuku fork combining Root, ADB and Dhizuku behind one backend, plus an extended API | Kotlin | <!-- STARS:ShizukuPlus -->1874<!-- /STARS --> | <!-- DL:ShizukuPlus -->236.4k<!-- /DL --> |
+| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | Shizuku fork combining Root, ADB and Dhizuku behind one backend, plus an extended API | Kotlin | <!-- STARS:ShizukuPlus -->1881<!-- /STARS --> | <!-- DL:ShizukuPlus -->237.0k<!-- /DL --> |
 | [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | Fork of Obtainium with One UI styling and extra features | Dart | <!-- STARS:ObtainiumPlus -->141<!-- /STARS --> | <!-- DL:ObtainiumPlus -->7.0k<!-- /DL --> |
 | [Hexodus](https://github.com/thejaustin/hexodus) | Theming for Samsung One UI 8 on Shizuku, no root | Kotlin | <!-- STARS:hexodus -->69<!-- /STARS --> | <!-- DL:hexodus -->3.1k<!-- /DL --> |
 | [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | API library and client bindings for ShizukuPlus | Java | <!-- STARS:ShizukuPlus-API -->111<!-- /STARS --> | <!-- DL:ShizukuPlus-API -->—<!-- /DL --> |
@@ -38,9 +38,9 @@ Counts are release downloads and refresh hourly.
 <!-- GAINS -->
 | | 1h | 3h | 6h | 12h | 24h | 7d |
 |---|---|---|---|---|---|---|
-| Stars | +1 | +1 | +7 | +14 | +20 | – |
-| Downloads | +321 | +321 | +808 | +1.5k | +9.2k | – |
-| Followers | +0 | +0 | +1 | +1 | +1 | – |
+| Stars | +8 | +8 | +8 | +9 | +22 | – |
+| Downloads | +598 | +598 | +598 | +919 | +2.1k | – |
+| Followers | +1 | +1 | +1 | +1 | +2 | – |
 <!-- /GAINS -->
 
 </details>
