@@ -14,8 +14,8 @@ I develop on my phone with AI coding assistants and review everything before it 
 
 | Project | Description | Language | Stars | Downloads |
 |---|---|---|--:|--:|
-| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | Shizuku fork combining Root, ADB and Dhizuku behind one backend, plus an extended API | Kotlin | <!-- STARS:ShizukuPlus -->1888<!-- /STARS --> | <!-- DL:ShizukuPlus -->238.5k<!-- /DL --> |
-| [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | Fork of Obtainium with One UI styling and extra features | Dart | <!-- STARS:ObtainiumPlus -->141<!-- /STARS --> | <!-- DL:ObtainiumPlus -->7.0k<!-- /DL --> |
+| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | Shizuku fork combining Root, ADB and Dhizuku behind one backend, plus an extended API | Kotlin | <!-- STARS:ShizukuPlus -->1890<!-- /STARS --> | <!-- DL:ShizukuPlus -->239.4k<!-- /DL --> |
+| [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | Fork of Obtainium with One UI styling and extra features | Dart | <!-- STARS:ObtainiumPlus -->141<!-- /STARS --> | <!-- DL:ObtainiumPlus -->7.2k<!-- /DL --> |
 | [Hexodus](https://github.com/thejaustin/hexodus) | Theming for Samsung One UI 8 on Shizuku, no root | Kotlin | <!-- STARS:hexodus -->69<!-- /STARS --> | <!-- DL:hexodus -->3.1k<!-- /DL --> |
 | [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | API library and client bindings for ShizukuPlus | Java | <!-- STARS:ShizukuPlus-API -->110<!-- /STARS --> | <!-- DL:ShizukuPlus-API -->—<!-- /DL --> |
 | [ShaRemove](https://github.com/thejaustin/sharemove) | Hide unused apps from the share sheet, Open with and the installer | Kotlin | <!-- STARS:sharemove -->52<!-- /STARS --> | <!-- DL:sharemove -->1.6k<!-- /DL --> |
@@ -24,7 +24,7 @@ I develop on my phone with AI coding assistants and review everything before it 
 | [pearity](https://github.com/thejaustin/pearity) | Three-state toggles for Samsung One UI settings | Kotlin | <!-- STARS:pearity -->20<!-- /STARS --> | <!-- DL:pearity -->1.2k<!-- /DL --> |
 | [AppManager](https://github.com/thejaustin/AppManager) | Package manager fork with app archiving and wireless debugging setup | Kotlin | <!-- STARS:AppManager -->34<!-- /STARS --> | <!-- DL:AppManager -->924<!-- /DL --> |
 | [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork with Material 3 Expressive | Kotlin | <!-- STARS:ContactsPlus -->11<!-- /STARS --> | <!-- DL:ContactsPlus -->342<!-- /DL --> |
-| [AutoCat](https://github.com/thejaustin/AutoCat) | Lawnchair fork with a Shizuku-powered recents screen | Java | <!-- STARS:AutoCat -->7<!-- /STARS --> | <!-- DL:AutoCat -->614<!-- /DL --> |
+| [AutoCat](https://github.com/thejaustin/AutoCat) | Lawnchair fork with a Shizuku-powered recents screen | Java | <!-- STARS:AutoCat -->7<!-- /STARS --> | <!-- DL:AutoCat -->615<!-- /DL --> |
 | [MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon) | The Mini Blocks mod as a Bedrock add-on | JavaScript | <!-- STARS:MiniBlocksAddon -->0<!-- /STARS --> | <!-- DL:MiniBlocksAddon -->—<!-- /DL --> |
 | [afdroid](https://github.com/thejaustin/afdroid) | Material 3 Expressive F-Droid client | Kotlin | <!-- STARS:afdroid -->6<!-- /STARS --> | <!-- DL:afdroid -->—<!-- /DL --> |
 | [maps-timeline-viewer](https://github.com/thejaustin/maps-timeline-viewer) | Viewer for Google Maps Timeline exports | Dart | <!-- STARS:maps-timeline-viewer -->5<!-- /STARS --> | <!-- DL:maps-timeline-viewer -->—<!-- /DL --> |
@@ -38,9 +38,9 @@ Counts are release downloads and refresh hourly.
 <!-- GAINS -->
 | | 1h | 3h | 6h | 12h | 24h | 7d |
 |---|---|---|---|---|---|---|
-| Stars | +1 | +1 | +1 | +6 | +14 | – |
-| Downloads | +898 | +898 | +898 | +1.7k | +2.3k | – |
-| Followers | +0 | +0 | +0 | +0 | +1 | – |
+| Stars | +2 | +2 | +2 | +3 | +8 | – |
+| Downloads | +1.1k | +1.1k | +1.1k | +2k | +2.8k | – |
+| Followers | +0 | +0 | +0 | +0 | +0 | – |
 <!-- /GAINS -->
 
 </details>
