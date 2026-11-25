@@ -55,8 +55,12 @@ If my projects are useful to you and you would like to help keep them going:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- Closed issue [#683](https://github.com/thejaustin/ShizukuPlus/issues/683) in [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus/)
-- Closed issue [#684](https://github.com/thejaustin/ShizukuPlus/issues/684) in [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus/)
-- Closed issue [#674](https://github.com/thejaustin/ShizukuPlus/issues/674) in [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus/)
-- Closed issue [#673](https://github.com/thejaustin/ShizukuPlus/issues/673) in [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus/)
+- Closed issue [#347](https://github.com/thejaustin/ObtainiumPlus/issues/347) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
+- Closed issue [#346](https://github.com/thejaustin/ObtainiumPlus/issues/346) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
+- Closed issue [#375](https://github.com/thejaustin/ObtainiumPlus/issues/375) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
+- Closed issue [#350](https://github.com/thejaustin/ObtainiumPlus/issues/350) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
+- Closed issue [#458](https://github.com/thejaustin/ObtainiumPlus/issues/458) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
+- Closed issue [#407](https://github.com/thejaustin/ObtainiumPlus/issues/407) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
+- Closed issue [#462](https://github.com/thejaustin/ObtainiumPlus/issues/462) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
+- Closed issue [#461](https://github.com/thejaustin/ObtainiumPlus/issues/461) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
 <!--END_SECTION:activity-->
