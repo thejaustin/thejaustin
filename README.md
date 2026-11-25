@@ -14,15 +14,15 @@ I develop on my phone with AI coding assistants and review everything before it 
 
 | Project | Description | Language | Stars | Downloads |
 |---|---|---|--:|--:|
-| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | Shizuku fork combining Root, ADB and Dhizuku behind one backend, plus an extended API | Kotlin | <!-- STARS:ShizukuPlus -->1890<!-- /STARS --> | <!-- DL:ShizukuPlus -->239.9k<!-- /DL --> |
-| [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | Fork of Obtainium with One UI styling and extra features | Dart | <!-- STARS:ObtainiumPlus -->141<!-- /STARS --> | <!-- DL:ObtainiumPlus -->7.3k<!-- /DL --> |
+| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | Shizuku fork combining Root, ADB and Dhizuku behind one backend, plus an extended API | Kotlin | <!-- STARS:ShizukuPlus -->1891<!-- /STARS --> | <!-- DL:ShizukuPlus -->240.6k<!-- /DL --> |
+| [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | Fork of Obtainium with One UI styling and extra features | Dart | <!-- STARS:ObtainiumPlus -->141<!-- /STARS --> | <!-- DL:ObtainiumPlus -->7.4k<!-- /DL --> |
 | [Hexodus](https://github.com/thejaustin/hexodus) | Theming for Samsung One UI 8 on Shizuku, no root | Kotlin | <!-- STARS:hexodus -->69<!-- /STARS --> | <!-- DL:hexodus -->3.1k<!-- /DL --> |
 | [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | API library and client bindings for ShizukuPlus | Java | <!-- STARS:ShizukuPlus-API -->110<!-- /STARS --> | <!-- DL:ShizukuPlus-API -->—<!-- /DL --> |
-| [ShaRemove](https://github.com/thejaustin/sharemove) | Hide unused apps from the share sheet, Open with and the installer | Kotlin | <!-- STARS:sharemove -->52<!-- /STARS --> | <!-- DL:sharemove -->1.6k<!-- /DL --> |
+| [ShaRemove](https://github.com/thejaustin/sharemove) | Hide unused apps from the share sheet, Open with and the installer | Kotlin | <!-- STARS:sharemove -->53<!-- /STARS --> | <!-- DL:sharemove -->1.6k<!-- /DL --> |
 | [termux-ai-app](https://github.com/thejaustin/termux-ai-app) | Termux-based terminal app with Claude Code built in | Java | <!-- STARS:termux-ai-app -->64<!-- /STARS --> | <!-- DL:termux-ai-app -->1.5k<!-- /DL --> |
-| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom notification shade with One UI, Pixel and Material styles | Kotlin | <!-- STARS:SuperShade -->39<!-- /STARS --> | <!-- DL:SuperShade -->5.1k<!-- /DL --> |
+| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom notification shade with One UI, Pixel and Material styles | Kotlin | <!-- STARS:SuperShade -->39<!-- /STARS --> | <!-- DL:SuperShade -->5.2k<!-- /DL --> |
 | [pearity](https://github.com/thejaustin/pearity) | Three-state toggles for Samsung One UI settings | Kotlin | <!-- STARS:pearity -->20<!-- /STARS --> | <!-- DL:pearity -->1.2k<!-- /DL --> |
-| [AppManager](https://github.com/thejaustin/AppManager) | Package manager fork with app archiving and wireless debugging setup | Kotlin | <!-- STARS:AppManager -->34<!-- /STARS --> | <!-- DL:AppManager -->925<!-- /DL --> |
+| [AppManager](https://github.com/thejaustin/AppManager) | Package manager fork with app archiving and wireless debugging setup | Kotlin | <!-- STARS:AppManager -->34<!-- /STARS --> | <!-- DL:AppManager -->929<!-- /DL --> |
 | [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork with Material 3 Expressive | Kotlin | <!-- STARS:ContactsPlus -->11<!-- /STARS --> | <!-- DL:ContactsPlus -->344<!-- /DL --> |
 | [AutoCat](https://github.com/thejaustin/AutoCat) | Lawnchair fork with a Shizuku-powered recents screen | Java | <!-- STARS:AutoCat -->7<!-- /STARS --> | <!-- DL:AutoCat -->615<!-- /DL --> |
 | [MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon) | The Mini Blocks mod as a Bedrock add-on | JavaScript | <!-- STARS:MiniBlocksAddon -->0<!-- /STARS --> | <!-- DL:MiniBlocksAddon -->—<!-- /DL --> |
@@ -38,9 +38,9 @@ Counts are release downloads and refresh hourly.
 <!-- GAINS -->
 | | 1h | 3h | 6h | 12h | 24h | 7d |
 |---|---|---|---|---|---|---|
-| Stars | +0 | +0 | +0 | +2 | +3 | – |
-| Downloads | +569 | +569 | +569 | +1.7k | +2.5k | – |
-| Followers | +0 | +0 | +0 | +0 | +0 | – |
+| Stars | +2 | +2 | +2 | +2 | +4 | – |
+| Downloads | +998 | +998 | +998 | +1.6k | +2.6k | – |
+| Followers | +1 | +1 | +1 | +0 | +0 | – |
 <!-- /GAINS -->
 
 </details>
