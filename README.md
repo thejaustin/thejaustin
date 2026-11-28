@@ -14,16 +14,16 @@ I develop on my phone with AI coding assistants and review everything before it 
 
 | Project | Description | Language | Stars | Downloads |
 |---|---|---|--:|--:|
-| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | Shizuku fork combining Root, ADB and Dhizuku behind one backend, plus an extended API | Kotlin | <!-- STARS:ShizukuPlus -->1917<!-- /STARS --> | <!-- DL:ShizukuPlus -->244.4k<!-- /DL --> |
+| [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | Shizuku fork combining Root, ADB and Dhizuku behind one backend, plus an extended API | Kotlin | <!-- STARS:ShizukuPlus -->1917<!-- /STARS --> | <!-- DL:ShizukuPlus -->244.9k<!-- /DL --> |
 | [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus) | Fork of Obtainium with One UI styling and extra features | Dart | <!-- STARS:ObtainiumPlus -->144<!-- /STARS --> | <!-- DL:ObtainiumPlus -->7.7k<!-- /DL --> |
 | [Hexodus](https://github.com/thejaustin/hexodus) | Theming for Samsung One UI 8 on Shizuku, no root | Kotlin | <!-- STARS:hexodus -->69<!-- /STARS --> | <!-- DL:hexodus -->3.1k<!-- /DL --> |
 | [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API) | API library and client bindings for ShizukuPlus | Java | <!-- STARS:ShizukuPlus-API -->112<!-- /STARS --> | <!-- DL:ShizukuPlus-API -->—<!-- /DL --> |
 | [ShaRemove](https://github.com/thejaustin/sharemove) | Hide unused apps from the share sheet, Open with and the installer | Kotlin | <!-- STARS:sharemove -->53<!-- /STARS --> | <!-- DL:sharemove -->1.6k<!-- /DL --> |
 | [termux-ai-app](https://github.com/thejaustin/termux-ai-app) | Termux-based terminal app with Claude Code built in | Java | <!-- STARS:termux-ai-app -->65<!-- /STARS --> | <!-- DL:termux-ai-app -->1.5k<!-- /DL --> |
-| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom notification shade with One UI, Pixel and Material styles | Kotlin | <!-- STARS:SuperShade -->40<!-- /STARS --> | <!-- DL:SuperShade -->5.3k<!-- /DL --> |
+| [SuperShade](https://github.com/thejaustin/SuperShade) | Custom notification shade with One UI, Pixel and Material styles | Kotlin | <!-- STARS:SuperShade -->40<!-- /STARS --> | <!-- DL:SuperShade -->5.4k<!-- /DL --> |
 | [pearity](https://github.com/thejaustin/pearity) | Three-state toggles for Samsung One UI settings | Kotlin | <!-- STARS:pearity -->20<!-- /STARS --> | <!-- DL:pearity -->1.3k<!-- /DL --> |
 | [AppManager](https://github.com/thejaustin/AppManager) | Package manager fork with app archiving and wireless debugging setup | Kotlin | <!-- STARS:AppManager -->34<!-- /STARS --> | <!-- DL:AppManager -->936<!-- /DL --> |
-| [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork with Material 3 Expressive | Kotlin | <!-- STARS:ContactsPlus -->11<!-- /STARS --> | <!-- DL:ContactsPlus -->345<!-- /DL --> |
+| [ContactsPlus](https://github.com/thejaustin/ContactsPlus) | Fossify Contacts fork with Material 3 Expressive | Kotlin | <!-- STARS:ContactsPlus -->11<!-- /STARS --> | <!-- DL:ContactsPlus -->346<!-- /DL --> |
 | [AutoCat](https://github.com/thejaustin/AutoCat) | Lawnchair fork with a Shizuku-powered recents screen | Java | <!-- STARS:AutoCat -->7<!-- /STARS --> | <!-- DL:AutoCat -->616<!-- /DL --> |
 | [MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon) | The Mini Blocks mod as a Bedrock add-on | JavaScript | <!-- STARS:MiniBlocksAddon -->0<!-- /STARS --> | <!-- DL:MiniBlocksAddon -->—<!-- /DL --> |
 | [afdroid](https://github.com/thejaustin/afdroid) | Material 3 Expressive F-Droid client | Kotlin | <!-- STARS:afdroid -->6<!-- /STARS --> | <!-- DL:afdroid -->—<!-- /DL --> |
@@ -38,9 +38,9 @@ Counts are release downloads and refresh hourly.
 <!-- GAINS -->
 | | 1h | 3h | 6h | 12h | 24h | 7d |
 |---|---|---|---|---|---|---|
-| Stars | +6 | +6 | +6 | +9 | +12 | – |
-| Downloads | +703 | +703 | +703 | +1.4k | +1.9k | – |
-| Followers | +0 | +0 | +0 | +0 | +1 | – |
+| Stars | +0 | +0 | +0 | +6 | +9 | – |
+| Downloads | +562 | +562 | +562 | +1.3k | +1.9k | – |
+| Followers | +0 | +0 | +0 | +0 | +0 | – |
 <!-- /GAINS -->
 
 </details>
