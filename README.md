@@ -55,12 +55,12 @@ If my projects are useful to you and you would like to help keep them going:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- Closed issue [#347](https://github.com/thejaustin/ObtainiumPlus/issues/347) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
-- Closed issue [#346](https://github.com/thejaustin/ObtainiumPlus/issues/346) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
-- Closed issue [#375](https://github.com/thejaustin/ObtainiumPlus/issues/375) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
-- Closed issue [#350](https://github.com/thejaustin/ObtainiumPlus/issues/350) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
-- Closed issue [#458](https://github.com/thejaustin/ObtainiumPlus/issues/458) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
-- Closed issue [#407](https://github.com/thejaustin/ObtainiumPlus/issues/407) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
-- Closed issue [#462](https://github.com/thejaustin/ObtainiumPlus/issues/462) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
-- Closed issue [#461](https://github.com/thejaustin/ObtainiumPlus/issues/461) in [ObtainiumPlus](https://github.com/thejaustin/ObtainiumPlus/)
+- Released [v2.6.0](https://github.com/thejaustin/MiniBlocksAddon/releases/tag/v2.6.0) of [MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon/)
+- Pre-released [v2.5.0](https://github.com/thejaustin/MiniBlocksAddon/releases/tag/v2.5.0) of [MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon/)
+- Pre-released [v2.4.0](https://github.com/thejaustin/MiniBlocksAddon/releases/tag/v2.4.0) of [MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon/)
+- Pre-released [v2.3.0](https://github.com/thejaustin/MiniBlocksAddon/releases/tag/v2.3.0) of [MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon/)
+- Pre-released [v2.2.0](https://github.com/thejaustin/MiniBlocksAddon/releases/tag/v2.2.0) of [MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon/)
+- Pre-released [v2.1.0](https://github.com/thejaustin/MiniBlocksAddon/releases/tag/v2.1.0) of [MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon/)
+- Pre-released [v2.0.1](https://github.com/thejaustin/MiniBlocksAddon/releases/tag/v2.0.1) of [MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon/)
+- Pre-released [v2.0.0](https://github.com/thejaustin/MiniBlocksAddon/releases/tag/v2.0.0) of [MiniBlocksAddon](https://github.com/thejaustin/MiniBlocksAddon/)
 <!--END_SECTION:activity-->
